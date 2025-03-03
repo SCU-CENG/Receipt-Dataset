@@ -1,0 +1,52 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "10-09-2023",
+    "time": "17:52",
+    "receipt_id": "0164",
+    "total_tax": "23.90",
+    "total_amount": "152.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kesilmiş Yağlı",
+            "tax_rate": "20",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "9.90"
+        },
+        {
+            "quantity": "12.00",
+            "price": "9.90",
+            "category": "",
+            "name": "Saklama Kabı 13",
+            "tax_rate": "20",
+            "amount": "118.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

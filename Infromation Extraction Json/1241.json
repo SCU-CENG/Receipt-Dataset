@@ -1,0 +1,68 @@
+{
+    "company": "Gross 58 Market",
+    "date": "16-09-2021",
+    "time": "08:46",
+    "receipt_id": "0025",
+    "total_tax": "10.98",
+    "total_amount": "155.72",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Somun Katmerı",
+            "tax_rate": "8",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "0.568",
+            "price": "9.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "5.65"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulas Yogurt 4000Gr",
+            "tax_rate": "8",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "1.854",
+            "price": "15.95",
+            "category": "",
+            "name": "Erpılıc Butun Pılıc-",
+            "tax_rate": "8",
+            "amount": "29.57"
+        },
+        {
+            "quantity": "2.00",
+            "price": "27.95",
+            "category": "",
+            "name": "Atılım Yumurta 30Lu",
+            "tax_rate": "8",
+            "amount": "55.90"
+        },
+        {
+            "quantity": "4.00",
+            "price": "6.15",
+            "category": "",
+            "name": "Torku Sut 1Lt T.Yagl",
+            "tax_rate": "8",
+            "amount": "24.60"
+        }
+    ]
+}

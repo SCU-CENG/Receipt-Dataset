@@ -1,0 +1,84 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "20-12-2022",
+    "time": "18:32",
+    "receipt_id": "0147",
+    "total_tax": "0.63",
+    "total_amount": "60.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bızım Paket 250G",
+            "tax_rate": "1",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Bol Sutlu Cık.",
+            "tax_rate": "1",
+            "amount": "12.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Tablet Cıkola.",
+            "tax_rate": "1",
+            "amount": "16.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-4.13"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Tablet Beyaz",
+            "tax_rate": "1",
+            "amount": "16.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-4.13"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Yrm.Yaglı Sut",
+            "tax_rate": "1",
+            "amount": "14.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "7.50"
+        }
+    ]
+}

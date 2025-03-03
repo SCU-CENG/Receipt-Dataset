@@ -1,0 +1,20 @@
+{
+    "company": "Teknosa İç Ve Dış Tic. A.Ş.",
+    "date": "27-09-2014",
+    "time": "15:44",
+    "receipt_id": "26",
+    "total_tax": "15.10",
+    "total_amount": "99.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nextstar Ye-5000",
+            "tax_rate": "18",
+            "amount": "99.00"
+        }
+    ]
+}

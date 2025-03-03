@@ -1,0 +1,20 @@
+{
+    "company": "Tahiroğlu Kimya ve Gıda",
+    "date": "01-04-2023",
+    "time": "14:53",
+    "receipt_id": "16",
+    "total_tax": "2.54",
+    "total_amount": "257.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sıcak İçecek",
+            "tax_rate": "1",
+            "amount": "257.00"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "18-05-2023",
+    "time": "20:58",
+    "receipt_id": "0234",
+    "total_tax": "25.36",
+    "total_amount": "284.60",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Birşah 500G Mey",
+            "tax_rate": "1",
+            "amount": "21.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cif750Mljeltem",
+            "tax_rate": "8",
+            "amount": "39.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mılktenmilkino",
+            "tax_rate": "1",
+            "amount": "18.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekici 200 G Tel",
+            "tax_rate": "1",
+            "amount": "37.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Makarna Lazanya",
+            "tax_rate": "1",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Oyuncak Taşıyıc",
+            "tax_rate": "18",
+            "amount": "139.95"
+        }
+    ]
+}

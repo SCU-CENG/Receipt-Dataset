@@ -1,0 +1,28 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "27-03-2024",
+    "time": "18:00",
+    "receipt_id": "353",
+    "total_tax": "0.31",
+    "total_amount": "31.11",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.705",
+            "price": "15.90",
+            "category": "",
+            "name": "Limon Kg",
+            "tax_rate": "1",
+            "amount": "11.21"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Yarım Yağlı Süt",
+            "tax_rate": "1",
+            "amount": "19.90"
+        }
+    ]
+}

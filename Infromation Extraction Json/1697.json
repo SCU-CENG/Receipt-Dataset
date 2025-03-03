@@ -1,0 +1,20 @@
+{
+    "company": "Metin Baharat Kuruyemiş",
+    "date": "10-09-2023",
+    "time": "17:12",
+    "receipt_id": "00030",
+    "total_tax": "2.06",
+    "total_amount": "208.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baharat",
+            "tax_rate": "1",
+            "amount": "208.50"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "24-04-2023",
+    "time": "19:31",
+    "receipt_id": "0393",
+    "total_tax": "1.52",
+    "total_amount": "153.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Saldo Pirinç 2,5Kg",
+            "tax_rate": "1",
+            "amount": "86.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pasta Tabanı 280G",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "4.00",
+            "price": "5.75",
+            "category": "",
+            "name": "Çikolata 30G Tadelle",
+            "tax_rate": "0",
+            "amount": "23.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikolata Damla 250G",
+            "tax_rate": "0",
+            "amount": "19.50"
+        }
+    ]
+}

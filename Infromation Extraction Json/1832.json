@@ -1,0 +1,20 @@
+{
+    "company": "Ispark",
+    "date": "23-11-2023",
+    "time": "09:06",
+    "receipt_id": "0037",
+    "total_tax": "24.17",
+    "total_amount": "145.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otopark",
+            "tax_rate": "20",
+            "amount": "145.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Emre Kpss Kıta Evi",
+    "date": "28-11-2023",
+    "time": "14:53",
+    "receipt_id": "0089",
+    "total_tax": "0.00",
+    "total_amount": "112.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kitap",
+            "tax_rate": "0",
+            "amount": "112.00"
+        }
+    ]
+}

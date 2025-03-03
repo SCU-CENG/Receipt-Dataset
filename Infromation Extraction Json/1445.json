@@ -1,0 +1,28 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş",
+    "date": "25-04-2023",
+    "time": "16:32",
+    "receipt_id": "0231",
+    "total_tax": "0.46",
+    "total_amount": "8.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meyveli İçecek 200Ml",
+            "tax_rate": "8",
+            "amount": "5.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gofret Beyaz Çik.36G",
+            "tax_rate": "1",
+            "amount": "3.00"
+        }
+    ]
+}

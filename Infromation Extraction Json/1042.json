@@ -1,0 +1,28 @@
+{
+    "company": "Starbucks Coffee Man 0375 Guney",
+    "date": "10-04-2023",
+    "time": "08:25",
+    "receipt_id": "0041",
+    "total_tax": "8.07",
+    "total_amount": "109.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pıke Misto Grande",
+            "tax_rate": "8",
+            "amount": "43.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hirdi Fun. Jan.",
+            "tax_rate": "8",
+            "amount": "66.0"
+        }
+    ]
+}

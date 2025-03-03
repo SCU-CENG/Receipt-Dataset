@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "13-05-2023",
+    "time": "16:10",
+    "receipt_id": "0090",
+    "total_tax": "0.56",
+    "total_amount": "56.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bizim Paket 250 G",
+            "tax_rate": "1",
+            "amount": "12.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kakao 50 G Dorbi",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "0.630",
+            "price": "61.90",
+            "category": "",
+            "name": "Piliç Katı Taşlık",
+            "tax_rate": "1",
+            "amount": "39.00"
+        }
+    ]
+}

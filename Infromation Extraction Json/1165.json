@@ -1,0 +1,28 @@
+{
+    "company": "İş Gıda A.Ş.",
+    "date": "17-06-2023",
+    "time": "17:37",
+    "receipt_id": "0074",
+    "total_tax": "21.56",
+    "total_amount": "291.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Algıda Yaz M Rst",
+            "tax_rate": "8",
+            "amount": "170.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "BI Kova 1 Rst",
+            "tax_rate": "8",
+            "amount": "121.00"
+        }
+    ]
+}

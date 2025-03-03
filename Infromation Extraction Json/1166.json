@@ -1,0 +1,37 @@
+{
+    "company": "Mıgros",
+    "date": "30-05-2023",
+    "time": "18:54",
+    "receipt_id": "0451",
+    "total_tax": "0.90",
+    "total_amount": "87.60",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+       {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "PENGUEN GARNITUR",
+            "tax_rate": "1",
+            "amount": "24.90"
+        },
+
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fıskobırlık Fınd",
+            "tax_rate": "1",
+            "amount": "74.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

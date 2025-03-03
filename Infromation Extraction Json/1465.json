@@ -1,0 +1,28 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "24-04-2023",
+    "time": "21:15",
+    "receipt_id": "0275",
+    "total_tax": "0.68",
+    "total_amount": "65.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atılım Yumurta 30 Lu",
+            "tax_rate": "1",
+            "amount": "65.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posedı",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

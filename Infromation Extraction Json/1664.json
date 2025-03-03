@@ -1,0 +1,52 @@
+{
+    "company": "Sbarro",
+    "date": "24-08-2023",
+    "time": "17:14",
+    "receipt_id": "000094",
+    "total_tax": "13.64",
+    "total_amount": "150.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "2 2 Lahmacun + Orta",
+            "tax_rate": "10",
+            "amount": "150.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 2 Kısılık Garnı",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Lahmacun",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Lahmacun",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Orta Lmn Fuse T",
+            "tax_rate": "10",
+            "amount": "0.00"
+        }
+    ]
+}

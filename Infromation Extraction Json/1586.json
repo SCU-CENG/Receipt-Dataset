@@ -1,0 +1,20 @@
+{
+    "company": "3.N Sofra Lokantacılık",
+    "date": "19-02-2021",
+    "time": "12:29",
+    "receipt_id": "0006",
+    "total_tax": "0.59",
+    "total_amount": "60.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Köfte",
+            "tax_rate": "1",
+            "amount": "60.00"
+        }
+    ]
+}

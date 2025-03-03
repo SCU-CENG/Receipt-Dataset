@@ -1,0 +1,84 @@
+{
+    "company": "Tarım Kredi Marketçilik A.Ş",
+    "date": "14-04-2023",
+    "time": "15:41",
+    "receipt_id": "95",
+    "total_tax": "3.71",
+    "total_amount": "145.18",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.495",
+            "price": "17.90",
+            "category": "",
+            "name": "Domates Kg",
+            "tax_rate": "1",
+            "amount": "8.86"
+        },
+        {
+            "quantity": "0.335",
+            "price": "29.90",
+            "category": "",
+            "name": "Carliston Biber Kg (",
+            "tax_rate": "1",
+            "amount": "10.02"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ozmo Fun 23 Gr",
+            "tax_rate": "1",
+            "amount": "8.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Cikolata Sütlü 6",
+            "tax_rate": "1",
+            "amount": "13.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Cikolata Sütlü 6",
+            "tax_rate": "1",
+            "amount": "13.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Tahin 300 Gr",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Dut Pekmezi 450",
+            "tax_rate": "1",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Molped Yogun Koruma",
+            "tax_rate": "8",
+            "amount": "34.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Market Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

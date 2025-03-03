@@ -1,0 +1,60 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "24-09-2023",
+    "time": "19:54",
+    "receipt_id": "0029",
+    "total_tax": "2.05",
+    "total_amount": "203.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tane Mısır 450 G",
+            "tax_rate": "1",
+            "amount": "29.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sosispiliç250G",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sucuk Dana 450G",
+            "tax_rate": "1",
+            "amount": "120.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kabartma Tozu 10*10G",
+            "tax_rate": "1",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şekerli Vanilin10*5G",
+            "tax_rate": "1",
+            "amount": "13.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

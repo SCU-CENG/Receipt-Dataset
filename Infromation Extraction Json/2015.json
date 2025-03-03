@@ -1,0 +1,20 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "26-01-2024",
+    "time": "20:21",
+    "receipt_id": "00303",
+    "total_tax": "0.74",
+    "total_amount": "74.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "A.Tatlıcı Tadıbu Fındık Ez",
+            "tax_rate": "1",
+            "amount": "74.75"
+        }
+    ]
+}

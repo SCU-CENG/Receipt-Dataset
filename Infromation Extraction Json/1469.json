@@ -1,0 +1,68 @@
+{
+    "company": "Tokat Erenler Gıda Tah.tem.amb.ins",
+    "date": "08-05-2023",
+    "time": "14:55",
+    "receipt_id": "137",
+    "total_tax": "5.14",
+    "total_amount": "198.07",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "37.60",
+            "category": "",
+            "name": "Bingo Dynamıc 1200 G",
+            "tax_rate": "8",
+            "amount": "37.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Teno Peçete 100 Lü",
+            "tax_rate": "8",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Teno Peçete 100 Lü",
+            "tax_rate": "8",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "89.60",
+            "category": "",
+            "name": "İçim Kaşar 600 Gr",
+            "tax_rate": "1",
+            "amount": "89.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "34.60",
+            "category": "",
+            "name": "Ülker Çokokrem 400 G",
+            "tax_rate": "1",
+            "amount": "14.60"
+        },
+        {
+            "quantity": "0.58",
+            "price": "29.95",
+            "category": "",
+            "name": "Sandvic Ekmeği Kg",
+            "tax_rate": "1",
+            "amount": "17.37"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Pide Sade",
+            "tax_rate": "1",
+            "amount": "7.00"
+        }
+    ]
+}

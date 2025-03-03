@@ -1,0 +1,20 @@
+{
+    "company": "Furkan Market",
+    "date": "09-08-2021",
+    "time": "18:37",
+    "receipt_id": "000027",
+    "total_tax": "2.96",
+    "total_amount": "40.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gıda",
+            "tax_rate": "8",
+            "amount": "40.00"
+        }
+    ]
+}

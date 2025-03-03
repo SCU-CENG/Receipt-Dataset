@@ -1,0 +1,20 @@
+{
+    "company": "Mükaş",
+    "date": "17-09-2021",
+    "time": "16:44",
+    "receipt_id": "00114",
+    "total_tax": "1.53",
+    "total_amount": "10.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.00",
+            "price": "0.50",
+            "category": "",
+            "name": "Dilman Kira Kontratı",
+            "tax_rate": "18",
+            "amount": "10.00"
+        }
+    ]
+}

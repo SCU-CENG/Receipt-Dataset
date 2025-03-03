@@ -1,0 +1,36 @@
+{
+    "company": "Tk Tarım Kredi Paz. ve Marketçilik A.Ş",
+    "date": "15-03-2023",
+    "time": "16:19",
+    "receipt_id": "91",
+    "total_tax": "0.28",
+    "total_amount": "28.12",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.745",
+            "price": "19.90",
+            "category": "",
+            "name": "Muz Yerli Kg",
+            "tax_rate": "1",
+            "amount": "14.83"
+        },
+        {
+            "quantity": "0.48",
+            "price": "19.90",
+            "category": "",
+            "name": "Domates Kg",
+            "tax_rate": "1",
+            "amount": "9.55"
+        },
+        {
+            "quantity": "0.365",
+            "price": "10.25",
+            "category": "",
+            "name": "Limon Kg",
+            "tax_rate": "1",
+            "amount": "3.74"
+        }
+    ]
+}

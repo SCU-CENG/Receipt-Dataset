@@ -1,0 +1,28 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "19-04-2023",
+    "time": "18:25",
+    "receipt_id": "000238",
+    "total_tax": "0.42",
+    "total_amount": "42.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ketçap 1Kg Bolbol",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Turşu Salatalık 680G",
+            "tax_rate": "1",
+            "amount": "13.25"
+        }
+    ]
+}

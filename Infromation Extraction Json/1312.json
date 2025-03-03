@@ -1,0 +1,28 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "14-10-2021",
+    "time": "19:47",
+    "receipt_id": "0162",
+    "total_tax": "2.04",
+    "total_amount": "27.49",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Harman Pide",
+            "tax_rate": "8",
+            "amount": "21.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Cola Pmıx",
+            "tax_rate": "8",
+            "amount": "5.50"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süper",
+    "date": "22-09-2021",
+    "time": "18:19",
+    "receipt_id": "0082",
+    "total_tax": "14.07",
+    "total_amount": "",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erıklı 1,5 Lt 6 Al 5",
+            "tax_rate": "8",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "6.00",
+            "price": "1.35",
+            "category": "",
+            "name": "Kızılay M.Suyu 20 Cl",
+            "tax_rate": "8",
+            "amount": "8.10"
+        },
+        {
+            "quantity": "6.00",
+            "price": "",
+            "category": "1.35",
+            "name": "Kızılay M.Suyu 20 Cl",
+            "tax_rate": "8",
+            "amount": "8.10"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas Beyaz Peynır 2",
+            "tax_rate": "8",
+            "amount": "12.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nesquık Muz Aromalı",
+            "tax_rate": "8",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hunca Care Kolonya L",
+            "tax_rate": "18",
+            "amount": "14.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.50",
+            "category": "",
+            "name": "Nesquık Muz Aromalı",
+            "tax_rate": "8",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Ucgen Pey.Tam",
+            "tax_rate": "8",
+            "amount": "8.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mm Granul Lavabo Acı",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "0.474",
+            "price": "10.90",
+            "category": "",
+            "name": "Seftalı Pazar",
+            "tax_rate": "8",
+            "amount": "5.17"
+        },
+        {
+            "quantity": "0.506",
+            "price": "5.99",
+            "category": "",
+            "name": "Elma Golden",
+            "tax_rate": "8",
+            "amount": "3.03"
+        },
+        {
+            "quantity": "0.560",
+            "price": "9.90",
+            "category": "",
+            "name": "Armut Santa Marıa",
+            "tax_rate": "8",
+            "amount": "5.54"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dany Cılek 2X90 Gr",
+            "tax_rate": "8",
+            "amount": "3.50"
+        }
+    ]
+}

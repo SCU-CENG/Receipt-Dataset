@@ -1,0 +1,28 @@
+{
+    "company": "Emaar Istanbul Mıgros Satıs Magazası",
+    "date": "01-10-2021",
+    "time": "12:54",
+    "receipt_id": "0065",
+    "total_tax": "0.89",
+    "total_amount": "11.97",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.152",
+            "price": "65.90",
+            "category": "",
+            "name": "Kalem Boregı Kıyma.",
+            "tax_rate": "8",
+            "amount": "10.02"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes Karışık 200Ml",
+            "tax_rate": "8",
+            "amount": "1.95"
+        }
+    ]
+}

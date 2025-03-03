@@ -1,0 +1,28 @@
+{
+    "company": "Koçtas Yapı Marketlerı Tıc. A.S",
+    "date": "09-01-2024",
+    "time": "16:09",
+    "receipt_id": "",
+    "total_tax": "25.00",
+    "total_amount": "149.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "E Tipi Kapı Pencere",
+            "tax_rate": "20",
+            "amount": "69.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "D Tipi Kapı Pencere",
+            "tax_rate": "20",
+            "amount": "79.99"
+        }
+    ]
+}

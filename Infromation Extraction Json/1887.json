@@ -1,0 +1,60 @@
+{
+    "company": "Lcw - Waıkıkı",
+    "date": "23-03-2024",
+    "time": "15:11",
+    "receipt_id": "0093",
+    "total_tax": "89.63",
+    "total_amount": "985.96",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Crp.Razar3",
+            "tax_rate": "10",
+            "amount": "79.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkm.Pente 4S",
+            "tax_rate": "10",
+            "amount": "599.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Bdy.O-Selen2-K",
+            "tax_rate": "10",
+            "amount": "149.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Bdy.O-Selen2-K",
+            "tax_rate": "10",
+            "amount": "149.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nonwoven Çanta S Alı",
+            "tax_rate": "10",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cu Hediye Pkt S",
+            "tax_rate": "10",
+            "amount": "3.00"
+        }
+    ]
+}

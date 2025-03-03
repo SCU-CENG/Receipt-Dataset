@@ -1,0 +1,20 @@
+{
+    "company": "Bosco Caffe E Tıramısu",
+    "date": "13-10-2023",
+    "time": "22:00",
+    "receipt_id": "129",
+    "total_tax": "13.00",
+    "total_amount": "143.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "10",
+            "amount": "143.00"
+        }
+    ]
+}

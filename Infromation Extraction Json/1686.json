@@ -1,0 +1,68 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "07-09-2023",
+    "time": "19:11",
+    "receipt_id": "0181",
+    "total_tax": "1.29",
+    "total_amount": "127.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Künefe 135G Müh",
+            "tax_rate": "1",
+            "amount": "16.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Künefe 135G Müh",
+            "tax_rate": "1",
+            "amount": "16.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "P.alt200gbelluc",
+            "tax_rate": "1",
+            "amount": "28.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nussını 270G",
+            "tax_rate": "1",
+            "amount": "49.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yupo Jel 24 G",
+            "tax_rate": "1",
+            "amount": "3.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Srenit Unlu Mamulleri",
+    "date": "21-05-2023",
+    "time": "13:13",
+    "receipt_id": "1",
+    "total_tax": "4.46",
+    "total_amount": "450.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "450.00"
+        }
+    ]
+}

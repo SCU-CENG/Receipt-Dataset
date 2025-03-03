@@ -1,0 +1,20 @@
+{
+    "company": "Sıdaş Emlak Oto A.Ş.",
+    "date": "07-01-2024",
+    "time": "16:05",
+    "receipt_id": "0060",
+    "total_tax": "100.00",
+    "total_amount": "600.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "14.930",
+            "price": "40.19",
+            "category": "",
+            "name": "Ultra Force Moto",
+            "tax_rate": "20",
+            "amount": "600.00"
+        }
+    ]
+}

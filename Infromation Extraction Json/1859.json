@@ -1,0 +1,20 @@
+{
+    "company": "Kızılöz Day. Tük. Mal İnşaat",
+    "date": "01-03-2024",
+    "time": "19:09",
+    "receipt_id": "7",
+    "total_tax": "108.33",
+    "total_amount": "650.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "T. Aksesuar",
+            "tax_rate": "20",
+            "amount": "650.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Garaj Gıda Paz. Dan. ve",
+    "date": "24-09-2021",
+    "time": "12:30",
+    "receipt_id": "0016",
+    "total_tax": "0.67",
+    "total_amount": "67.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Munchey Kraker Z",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Munchey Granola",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Garnıtür 4lü",
+            "tax_rate": "1",
+            "amount": "44.50"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Yiğıdo Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "07-09-2021",
+    "time": "15:53",
+    "receipt_id": "0110",
+    "total_tax": "0.65",
+    "total_amount": "13.92",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.880",
+            "price": "9.00",
+            "category": "",
+            "name": "Frn-Ekmek Zeytın Yag",
+            "tax_rate": "8",
+            "amount": "7.92"
+        },
+        {
+            "quantity": "4.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "6.00"
+        }
+    ]
+}

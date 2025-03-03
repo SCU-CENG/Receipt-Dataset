@@ -1,0 +1,28 @@
+{
+    "company": "Tarım Kredi Marketçilik A.Ş",
+    "date": "13-04-2023",
+    "time": "18:50",
+    "receipt_id": "185",
+    "total_tax": "0.33",
+    "total_amount": "33.01",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.005",
+            "price": "22.90",
+            "category": "",
+            "name": "Muz Yerli Kg",
+            "tax_rate": "1",
+            "amount": "23.01"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bagetürk Ramazan Pid",
+            "tax_rate": "1",
+            "amount": "10.00"
+        }
+    ]
+}

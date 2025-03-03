@@ -1,0 +1,20 @@
+{
+    "company": "Otoyol Yatırım İşletme A.Ş",
+    "date": "11-04-2023",
+    "time": "15:48",
+    "receipt_id": "0313",
+    "total_tax": "5.64",
+    "total_amount": "37.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otoyol Geçiş Ücreti",
+            "tax_rate": "18",
+            "amount": "37.00"
+        }
+    ]
+}

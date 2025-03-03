@@ -1,0 +1,68 @@
+{
+    "company": "58 Besler Market",
+    "date": "10-04-2023",
+    "time": "15:09",
+    "receipt_id": "0078",
+    "total_tax": "3.28",
+    "total_amount": "109.17",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uludag Ramazan Serbe",
+            "tax_rate": "8",
+            "amount": "18.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Doganay Lımonata 1Lt",
+            "tax_rate": "8",
+            "amount": "14.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kadayıfcızade Pısma",
+            "tax_rate": "1",
+            "amount": "28.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bızım Yore Yufka 650",
+            "tax_rate": "1",
+            "amount": "29.95"
+        },
+        {
+            "quantity": "0.116",
+            "price": "39.95",
+            "category": "",
+            "name": "Besler Mnv-64-Koy B",
+            "tax_rate": "1",
+            "amount": "4.63"
+        },
+        {
+            "quantity": "0.232",
+            "price": "49.95",
+            "category": "",
+            "name": "Besler Mnv-57-Kapya",
+            "tax_rate": "1",
+            "amount": "11.59"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler 0. Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

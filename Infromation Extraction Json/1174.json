@@ -1,0 +1,20 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "06-06-2023",
+    "time": "14:11",
+    "receipt_id": "0168",
+    "total_tax": "29.75",
+    "total_amount": "195.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Güneşkrem50mlseba",
+            "tax_rate": "18",
+            "amount": "195.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Emre Kpss Kita Evi",
+    "date": "22-08-2023",
+    "time": "19:22",
+    "receipt_id": "0081",
+    "total_tax": "0.00",
+    "total_amount": "103.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kitap",
+            "tax_rate": "0",
+            "amount": "103.00"
+        }
+    ]
+}

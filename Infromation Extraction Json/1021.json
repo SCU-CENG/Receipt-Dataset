@@ -1,0 +1,20 @@
+{
+    "company": "Barutcu Hırdavat Ve Ev Gereçler",
+    "date": "17-12-2023",
+    "time": "13:17",
+    "receipt_id": "0023",
+    "total_tax": "27.50",
+    "total_amount": "165.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Züccaciye",
+            "tax_rate": "20",
+            "amount": "165.00"
+        }
+    ]
+}

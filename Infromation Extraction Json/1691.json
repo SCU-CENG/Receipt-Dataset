@@ -1,0 +1,20 @@
+{
+    "company": "Yıldız Eczanesi",
+    "date": "03-07-2023",
+    "time": "16:11",
+    "receipt_id": "0017",
+    "total_tax": "2.52",
+    "total_amount": "34.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "8",
+            "amount": "34.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Bagdat Ocakbaşı",
+    "date": "30-10-2021",
+    "time": "18:53",
+    "receipt_id": "14",
+    "total_tax": "9.93",
+    "total_amount": "134.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kısım5",
+            "tax_rate": "8",
+            "amount": "134.00"
+        }
+    ]
+}

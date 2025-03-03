@@ -1,0 +1,20 @@
+{
+    "company": "Pidem Forum Kayseri",
+    "date": "14-10-2023",
+    "time": "15:10",
+    "receipt_id": "0081",
+    "total_tax": "13.27",
+    "total_amount": "146.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etsever İkilim Pm",
+            "tax_rate": "10",
+            "amount": "146.00"
+        }
+    ]
+}

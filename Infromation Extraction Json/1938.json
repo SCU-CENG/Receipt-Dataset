@@ -1,0 +1,28 @@
+{
+    "company": "Köyden Halka Kuruyemiş",
+    "date": "18-02-2024",
+    "time": "18:33",
+    "receipt_id": "0044",
+    "total_tax": "0.72",
+    "total_amount": "72.68",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.495",
+            "price": "85.00",
+            "category": "",
+            "name": "Külah Cips-Çubuk Cip",
+            "tax_rate": "1",
+            "amount": "42.08"
+        },
+        {
+            "quantity": "0.255",
+            "price": "120.00",
+            "category": "",
+            "name": "Soslu Mısır",
+            "tax_rate": "1",
+            "amount": "30.60"
+        }
+    ]
+}

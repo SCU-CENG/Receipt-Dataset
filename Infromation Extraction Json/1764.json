@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "26-11-2023",
+    "time": "12:10",
+    "receipt_id": "0076",
+    "total_tax": "0.61",
+    "total_amount": "61.21",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.505",
+            "price": "27.90",
+            "category": "",
+            "name": "Domates Kokteyl",
+            "tax_rate": "1",
+            "amount": "14.09"
+        },
+        {
+            "quantity": "0.800",
+            "price": "23.90",
+            "category": "",
+            "name": "Hıyar Badem Pkt Kg.",
+            "tax_rate": "1",
+            "amount": "19.12"
+        },
+        {
+            "quantity": "2.00",
+            "price": "14.00",
+            "category": "",
+            "name": "Sutlu Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "28.00"
+        }
+    ]
+}

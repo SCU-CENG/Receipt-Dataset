@@ -1,0 +1,36 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "09-07-2023",
+    "time": "20:03",
+    "receipt_id": "337",
+    "total_tax": "0.48",
+    "total_amount": "48.97",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.32",
+            "price": "19.90",
+            "category": "",
+            "name": "Domates Salkım Kg",
+            "tax_rate": "1",
+            "amount": "26.27"
+        },
+        {
+            "quantity": "0.32",
+            "price": "22.50",
+            "category": "",
+            "name": "Yeşil Biber",
+            "tax_rate": "1",
+            "amount": "7.20"
+        },
+        {
+            "quantity": "1.04",
+            "price": "14.90",
+            "category": "",
+            "name": "Salatalık Kg",
+            "tax_rate": "1",
+            "amount": "15.50"
+        }
+    ]
+}

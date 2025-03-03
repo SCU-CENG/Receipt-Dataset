@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "03-08-2021",
+    "time": "12:08",
+    "receipt_id": "0059",
+    "total_tax": "2.2",
+    "total_amount": "30.2",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Magn. Byzbüyü100Ml",
+            "tax_rate": "8",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

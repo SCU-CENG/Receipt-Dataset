@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "24-02-2024",
+    "time": "14:22",
+    "receipt_id": "0139",
+    "total_tax": "4.09",
+    "total_amount": "413.03",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.172",
+            "price": "99.00",
+            "category": "",
+            "name": "Pılıc Bonfıle",
+            "tax_rate": "1",
+            "amount": "413.03"
+        }
+    ]
+}

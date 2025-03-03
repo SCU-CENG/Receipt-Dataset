@@ -1,0 +1,60 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş",
+    "date": "01-09-2021",
+    "time": "15:58",
+    "receipt_id": "0128",
+    "total_tax": "7.74",
+    "total_amount": "73.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cleanfun1olumfbez",
+            "tax_rate": "8",
+            "amount": "18.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erpilc Sosis 800G",
+            "tax_rate": "8",
+            "amount": "13.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dalan Zey.Sab4*17",
+            "tax_rate": "18",
+            "amount": "11.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fanta 1.25 L",
+            "tax_rate": "8",
+            "amount": "6.20"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Cola 1.25 L",
+            "tax_rate": "8",
+            "amount": "6.20"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duruduşsabunuzeyt",
+            "tax_rate": "18",
+            "amount": "17.50"
+        }
+    ]
+}

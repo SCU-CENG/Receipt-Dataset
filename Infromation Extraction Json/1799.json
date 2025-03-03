@@ -1,0 +1,20 @@
+{
+    "company": "Tokat Erenler Gıda Tar.Tem.Amb.İnş.",
+    "date": "10-12-2023",
+    "time": "13:43",
+    "receipt_id": "150",
+    "total_tax": "3.47",
+    "total_amount": "350.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "350.00",
+            "category": "",
+            "name": "Mis Un 25 Kg Mavi",
+            "tax_rate": "1",
+            "amount": "350.00"
+        }
+    ]
+}

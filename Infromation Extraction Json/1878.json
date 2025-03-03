@@ -1,0 +1,60 @@
+{
+    "company": "Lcw - Waıkıkı",
+    "date": "17-03-2024",
+    "time": "14:59",
+    "receipt_id": "0077",
+    "total_tax": "169.09",
+    "total_amount": "1859.94",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ber.Srs-Sılam3-4S",
+            "tax_rate": "10",
+            "amount": "179.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pnt.Flash",
+            "tax_rate": "10",
+            "amount": "449.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Bdy.O-Bobo2-K",
+            "tax_rate": "10",
+            "amount": "149.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayks.Agor-0",
+            "tax_rate": "10",
+            "amount": "549.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uk.Gmk.Oxford",
+            "tax_rate": "10",
+            "amount": "299.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Tsh.Cools",
+            "tax_rate": "10",
+            "amount": "229.99"
+        }
+    ]
+}

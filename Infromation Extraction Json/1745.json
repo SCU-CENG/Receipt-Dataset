@@ -1,0 +1,20 @@
+{
+    "company": "Aybil Petrol Ürü.Nak.Trz.İnş. Ve",
+    "date": "26-10-2023",
+    "time": "15:48",
+    "receipt_id": "0081",
+    "total_tax": "50.00",
+    "total_amount": "300.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "16.220",
+            "price": "18.50",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "20",
+            "amount": "300.00"
+        }
+    ]
+}

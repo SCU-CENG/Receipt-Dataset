@@ -1,0 +1,20 @@
+{
+    "company": "Erdağ Meşrubat Ve Gıda San.Tic. A.Ş",
+    "date": "11-08-2023",
+    "time": "12:38",
+    "receipt_id": "0038",
+    "total_tax": "1.31",
+    "total_amount": "14.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hm1 Köksal Erkek Çor",
+            "tax_rate": "10",
+            "amount": "14.45"
+        }
+    ]
+}

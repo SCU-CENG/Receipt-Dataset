@@ -1,0 +1,68 @@
+{
+    "company": "Lcw Waıkıkı",
+    "date": "13-05-2023",
+    "time": "12:47",
+    "receipt_id": "0076",
+    "total_tax": "54.72",
+    "total_amount": "738.37",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Tsh.B.Y. Champ-23",
+            "tax_rate": "8",
+            "amount": "110.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "%5 İndirim",
+            "tax_rate": "8",
+            "amount": "-5.54"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pnt,779Vy-Kas-Black",
+            "tax_rate": "8",
+            "amount": "277.49"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "%5 İndirim",
+            "tax_rate": "8",
+            "amount": "-13.88"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pnt,779V-Cedro",
+            "tax_rate": "8",
+            "amount": "388.49"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "%5 İndirim",
+            "tax_rate": "8",
+            "amount": "-19.43"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti L",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "02-08-2021",
+    "time": "14:11",
+    "receipt_id": "0194",
+    "total_tax": "3.92",
+    "total_amount": "58.13",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.242",
+            "price": "17.90",
+            "category": "",
+            "name": "Piliç Baget Tazem",
+            "tax_rate": "8",
+            "amount": "22.23"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yoğurt 1,5 Kg Dos",
+            "tax_rate": "8",
+            "amount": "10.50"
+        },
+        {
+            "quantity": "4.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek Tekli 200 G",
+            "tax_rate": "1",
+            "amount": "6.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sıvı Sos 300Gkent",
+            "tax_rate": "8",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gofretçilkr142Gho",
+            "tax_rate": "8",
+            "amount": "3.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gazlıiç 6X200Mlav",
+            "tax_rate": "8",
+            "amount": "7.50"
+        }
+    ]
+}

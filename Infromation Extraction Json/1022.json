@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "17-12-2023",
+    "time": "13:35",
+    "receipt_id": "0037",
+    "total_tax": "0.95",
+    "total_amount": "96.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.554",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-39-Lımon",
+            "tax_rate": "1",
+            "amount": "11.05"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tukas Cıcek Bamya 53",
+            "tax_rate": "1",
+            "amount": "84.95"
+        }
+    ]
+}

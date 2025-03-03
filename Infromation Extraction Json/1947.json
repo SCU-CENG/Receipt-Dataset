@@ -1,0 +1,28 @@
+{
+    "company": "Mrdıy Retaıl Ev Gereçleri ve Yapı",
+    "date": "08-03-2024",
+    "time": "17:35",
+    "receipt_id": "0124",
+    "total_tax": "10.83",
+    "total_amount": "65.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek Masası 903# 23Cm",
+            "tax_rate": "20",
+            "amount": "40.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tukenmez Kalem 8Lı 228",
+            "tax_rate": "20",
+            "amount": "25.00"
+        }
+    ]
+}

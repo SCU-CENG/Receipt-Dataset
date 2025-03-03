@@ -1,0 +1,28 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "09-09-2021",
+    "time": "10:55",
+    "receipt_id": "0047",
+    "total_tax": "5.71",
+    "total_amount": "87.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "10.00",
+            "price": "7.55",
+            "category": "",
+            "name": "Ucyıldız Toz Tarcın",
+            "tax_rate": "8",
+            "amount": "75.50"
+        },
+        {
+            "quantity": "8.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "12.00"
+        }
+    ]
+}

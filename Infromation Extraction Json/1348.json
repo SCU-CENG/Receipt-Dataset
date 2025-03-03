@@ -1,0 +1,20 @@
+{
+    "company": "Lezzetçi",
+    "date": "17-10-2021",
+    "time": "17:55",
+    "receipt_id": "6",
+    "total_tax": "15.63",
+    "total_amount": "211.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "8",
+            "amount": "211.00"
+        }
+    ]
+}

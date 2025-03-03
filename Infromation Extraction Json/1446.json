@@ -1,0 +1,38 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "01-05-2023",
+    "time": "12:18",
+    "receipt_id": "0018",
+    "total_tax": "1.31",
+    "total_amount": "132.30",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Bisk.3X131G",
+            "tax_rate": "1",
+            "amount": "19.90"
+        }, 
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Bisk.3X131G",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 1 Kg B.Peynir",
+            "tax_rate": "1",
+            "amount": "92.50"
+        }
+
+
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Sanjo Kombin",
+    "date": "20-02-2024",
+    "time": "20:01",
+    "receipt_id": "00008",
+    "total_tax": "11.36",
+    "total_amount": "125.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekstıl",
+            "tax_rate": "10",
+            "amount": "125.00"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "company": "Mıgros",
+    "date": "18-02-2022",
+    "time": "18:23",
+    "receipt_id": "0335",
+    "total_tax": "1.22",
+    "total_amount": "120.23",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "25.15",
+            "category": "",
+            "name": "Pızza Mı-Go Karısık",
+            "tax_rate": "1",
+            "amount": "100.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "0.918",
+            "price": "35.90",
+            "category": "",
+            "name": "Senpılıc Kanat Izgr.",
+            "tax_rate": "1",
+            "amount": "32.96"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Susam.Cbk.Kraker",
+            "tax_rate": "1",
+            "amount": "2.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı Crax Sade Cubuk",
+            "tax_rate": "1",
+            "amount": "2.80"
+        }
+    ]
+}

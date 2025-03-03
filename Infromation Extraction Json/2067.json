@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "13-03-2024",
+    "time": "18:21",
+    "receipt_id": "0158",
+    "total_tax": "0.42",
+    "total_amount": "42.46",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.850",
+            "price": "49.95",
+            "category": "",
+            "name": "Besler Mnv-3-Patlıc",
+            "tax_rate": "1",
+            "amount": "42.46"
+        }
+    ]
+}

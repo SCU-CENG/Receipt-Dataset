@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "31-01-2024",
+    "time": "09:35",
+    "receipt_id": "0019",
+    "total_tax": "0.48",
+    "total_amount": "48.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "3.0",
+            "price": "7.95",
+            "category": "",
+            "name": "Besler Sımıt",
+            "tax_rate": "1",
+            "amount": "23.85"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Somun Katmerı",
+            "tax_rate": "1",
+            "amount": "25.00"
+        }
+    ]
+}

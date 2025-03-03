@@ -1,0 +1,20 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "18-01-2024",
+    "time": "18:43",
+    "receipt_id": "231",
+    "total_tax": "1.24",
+    "total_amount": "125.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tmo Vakumlu Kavrulmu",
+            "tax_rate": "1",
+            "amount": "125.00"
+        }
+    ]
+}

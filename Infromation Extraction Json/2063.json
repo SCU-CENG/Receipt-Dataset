@@ -1,0 +1,28 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "26-02-2024",
+    "time": "20:17",
+    "receipt_id": "00292",
+    "total_tax": "6.72",
+    "total_amount": "88.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bingo Dynamıc 675 Gr Hassa",
+            "tax_rate": "20",
+            "amount": "37.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gursoy 400 Gr Kakaolu Fınd",
+            "tax_rate": "1",
+            "amount": "51.45"
+        }
+    ]
+}

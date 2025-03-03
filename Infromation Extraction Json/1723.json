@@ -1,0 +1,68 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "06-10-2023",
+    "time": "13:14",
+    "receipt_id": "0110",
+    "total_tax": "1.95",
+    "total_amount": "193.51",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "1.785",
+            "price": "9.90",
+            "category": "",
+            "name": "Mandalina",
+            "tax_rate": "1",
+            "amount": "17.67"
+        },
+        {
+            "quantity": "1.595",
+            "price": "49.90",
+            "category": "",
+            "name": "Muz İthal",
+            "tax_rate": "1",
+            "amount": "79.59"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kak. Kurabi 198",
+            "tax_rate": "1",
+            "amount": "28.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Halley Beyaz Çi",
+            "tax_rate": "1",
+            "amount": "33.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Hoşbeş 142",
+            "tax_rate": "1",
+            "amount": "21.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

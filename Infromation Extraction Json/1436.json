@@ -1,0 +1,36 @@
+{
+    "company": "Tarım Kredi Marketçilik A.Ş",
+    "date": "23-04-2023",
+    "time": "15:26",
+    "receipt_id": "203",
+    "total_tax": "2.21",
+    "total_amount": "220.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tarsüt Tereyağ 1000",
+            "tax_rate": "1",
+            "amount": "149.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tarsüt Klasik Peynir",
+            "tax_rate": "1",
+            "amount": "69.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Market Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

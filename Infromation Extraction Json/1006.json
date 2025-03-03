@@ -1,0 +1,20 @@
+{
+    "company": "Turizm",
+    "date": "13-10-2023",
+    "time": "12:26",
+    "receipt_id": "000048",
+    "total_tax": "5.00",
+    "total_amount": "55.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icecek",
+            "tax_rate": "10",
+            "amount": "55.00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "20-11-2023",
+    "time": "11:22",
+    "receipt_id": "0099",
+    "total_tax": "0.45",
+    "total_amount": "45.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "4.00",
+            "price": "7.95",
+            "category": "",
+            "name": "Besler Sımıt",
+            "tax_rate": "1",
+            "amount": "31.80"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "24-02-2024",
+    "time": "14:23",
+    "receipt_id": "0140",
+    "total_tax": "10.05",
+    "total_amount": "144.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Komılı Sıvı Sabun 3",
+            "tax_rate": "20",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atılım Yumurta 30 Lu",
+            "tax_rate": "1",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Lavıva 35 Gr",
+            "tax_rate": "1",
+            "amount": "10.00"
+        }
+    ]
+}

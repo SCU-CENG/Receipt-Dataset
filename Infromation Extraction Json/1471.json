@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "10-05-2023",
+    "time": "17:03",
+    "receipt_id": "0122",
+    "total_tax": "0.55",
+    "total_amount": "55.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mercimek Kırmızı",
+            "tax_rate": "1",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mercimek Kırmızı",
+            "tax_rate": "1",
+            "amount": "27.90"
+        }
+    ]
+}

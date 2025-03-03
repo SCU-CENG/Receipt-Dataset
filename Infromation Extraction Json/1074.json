@@ -1,0 +1,20 @@
+{
+    "company": "Tugra Eczanesi",
+    "date": "02-05-2023",
+    "time": "17:54",
+    "receipt_id": "36",
+    "total_tax": "2.96",
+    "total_amount": "40.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "8",
+            "amount": "40.00"
+        }
+    ]
+}

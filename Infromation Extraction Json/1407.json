@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "22-04-2022",
+    "time": "14:15",
+    "receipt_id": "0050",
+    "total_tax": "1.05",
+    "total_amount": "102.10",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Soke Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "49.90"
+        },
+        {
+            "quantity": "0.520",
+            "price": "99.90",
+            "category": "",
+            "name": "** Karısık Extra",
+            "tax_rate": "1",
+            "amount": "51.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sanal Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

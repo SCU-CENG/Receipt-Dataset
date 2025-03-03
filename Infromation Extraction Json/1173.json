@@ -1,0 +1,20 @@
+{
+    "company": "Kozan Pastahanesı",
+    "date": "04-06-2023",
+    "time": "21:47",
+    "receipt_id": "0081",
+    "total_tax": "1.19",
+    "total_amount": "16.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meşrubat",
+            "tax_rate": "8",
+            "amount": "16.00"
+        }
+    ]
+}

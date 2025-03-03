@@ -1,0 +1,28 @@
+{
+    "company": "Niktaş Gıda San. Tic. A.Ş.",
+    "date": "13-05-2023",
+    "time": "15:07",
+    "receipt_id": "0122",
+    "total_tax": "0.36",
+    "total_amount": "36.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ruffles Süper Origin",
+            "tax_rate": "1",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lays Fırından Yoğurt",
+            "tax_rate": "1",
+            "amount": "18.00"
+        }
+    ]
+}

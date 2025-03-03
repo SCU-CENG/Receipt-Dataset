@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "19-05-2023",
+    "time": "18:52",
+    "receipt_id": "0262",
+    "total_tax": "0.19",
+    "total_amount": "19.61",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.312",
+            "price": "14.95",
+            "category": "",
+            "name": "Besler Mnv-13-Kara",
+            "tax_rate": "1",
+            "amount": "19.61"
+        }
+    ]
+}

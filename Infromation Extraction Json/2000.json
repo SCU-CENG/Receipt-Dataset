@@ -1,0 +1,20 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "12-01-2024",
+    "time": "18:34",
+    "receipt_id": "0240",
+    "total_tax": "0.44",
+    "total_amount": "44.54",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.945",
+            "price": "22.90",
+            "category": "",
+            "name": "Portakal Kan Fıle Kg",
+            "tax_rate": "1",
+            "amount": "44.54"
+        }
+    ]
+}

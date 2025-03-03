@@ -1,0 +1,44 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "18-10-2021",
+    "time": "10:27",
+    "receipt_id": "0042",
+    "total_tax": "3.87",
+    "total_amount": "77.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1.",
+            "tax_rate": "1",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "5.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Doganay Lımon Sosu 5",
+            "tax_rate": "8",
+            "amount": "29.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "3.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Tukas Bezelye 830Gr",
+            "tax_rate": "8",
+            "amount": "17.85"
+        }
+    ]
+}

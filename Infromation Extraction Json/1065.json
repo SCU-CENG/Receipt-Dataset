@@ -1,0 +1,20 @@
+{
+    "company": "4 Eylül Merkez Si/M.Kodu:B028",
+    "date": "01-05-2023",
+    "time": "15:42",
+    "receipt_id": "0125",
+    "total_tax": "0.18",
+    "total_amount": "18.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Konserve Mısır",
+            "tax_rate": "1",
+            "amount": "18.50"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "28-09-2021",
+    "time": "12:53",
+    "receipt_id": "0062",
+    "total_tax": "0.93",
+    "total_amount": "12.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dogalsan Panko Cıtır",
+            "tax_rate": "8",
+            "amount": "12.50"
+        }
+    ]
+}

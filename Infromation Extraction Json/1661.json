@@ -1,0 +1,68 @@
+{
+    "company": "Tanzim Market",
+    "date": "23-08-2023",
+    "time": "20:29",
+    "receipt_id": "0372",
+    "total_tax": "4.17",
+    "total_amount": "420.71",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.068",
+            "price": "69.00",
+            "category": "",
+            "name": "Pılıc Bonfıle",
+            "tax_rate": "1",
+            "amount": "73.69"
+        },
+        {
+            "quantity": "1.054",
+            "price": "85.00",
+            "category": "",
+            "name": "Pılıc Kanat",
+            "tax_rate": "1",
+            "amount": "89.59"
+        },
+        {
+            "quantity": "1.092",
+            "price": "59.00",
+            "category": "",
+            "name": "Pılıc Incık",
+            "tax_rate": "1",
+            "amount": "64.43"
+        },
+        {
+            "quantity": "2.00",
+            "price": "22.00",
+            "category": "",
+            "name": "Icım Sut 1 Lt T.Yagl",
+            "tax_rate": "1",
+            "amount": "44.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "20.00",
+            "category": "",
+            "name": "Dr Oetker Cıkolatalı",
+            "tax_rate": "1",
+            "amount": "40.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caglar Yufka 1 Kg",
+            "tax_rate": "1",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bızım Margarın 6 Lı",
+            "tax_rate": "1",
+            "amount": "79.00"
+        }
+    ]
+}

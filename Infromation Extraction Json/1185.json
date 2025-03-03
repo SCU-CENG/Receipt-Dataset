@@ -1,0 +1,76 @@
+{
+    "company": "Yıldırım Çorap",
+    "date": "12-04-2023",
+    "time": "13:32",
+    "receipt_id": "47",
+    "total_tax": "5.63",
+    "total_amount": "76.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. BAYAN",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. BAYAN",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. BAYAN",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. COCUK P",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. COCUK C",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. COCUK C",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. COCUK S",
+            "tax_rate": "8",
+            "amount": "8.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "YILDIRIM. COCUK S",
+            "tax_rate": "8",
+            "amount": "8.00"
+        }
+    ]
+}

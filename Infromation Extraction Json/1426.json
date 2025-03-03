@@ -1,0 +1,20 @@
+{
+    "company": "",
+    "date": "18-04-2023",
+    "time": "16:31",
+    "receipt_id": "289",
+    "total_tax": "0.85",
+    "total_amount": "86.09",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.910",
+            "price": "94.60",
+            "category": "",
+            "name": "Toksüt Köy Tipi Peyn",
+            "tax_rate": "1",
+            "amount": "86.09"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Tab Gıda Sanayı Ve Tıcaret A.S.",
+    "date": "24-08-2023",
+    "time": "17:16",
+    "receipt_id": "1U02023000038980",
+    "total_tax": "5.00",
+    "total_amount": "54.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yenı Tavuk Burger Me",
+            "tax_rate": "10",
+            "amount": "54.99"
+        }
+    ]
+}

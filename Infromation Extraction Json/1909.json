@@ -1,0 +1,36 @@
+{
+    "company": "Niktaş Gıda San. Tic A.Ş.",
+    "date": "12-12-2023",
+    "time": "13:36",
+    "receipt_id": "0071",
+    "total_tax": "1.73",
+    "total_amount": "175.09",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek Niksar Çiftli",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "0.236",
+            "price": "119.50",
+            "category": "",
+            "name": "Yeşil Zeytin Çizik *",
+            "tax_rate": "1",
+            "amount": "28.20"
+        },
+        {
+            "quantity": "0.274",
+            "price": "485.00",
+            "category": "",
+            "name": "Bi-Al-Ye Tokat Bez",
+            "tax_rate": "1",
+            "amount": "132.89"
+        }
+    ]
+}

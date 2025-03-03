@@ -1,0 +1,44 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "22-07-2023",
+    "time": "16:49",
+    "receipt_id": "0248",
+    "total_tax": "0.72",
+    "total_amount": "73.02",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.438",
+            "price": "22.95",
+            "category": "",
+            "name": "Dgr-Bıber Koy",
+            "tax_rate": "1",
+            "amount": "10.05"
+        },
+        {
+            "quantity": "0.942",
+            "price": "29.95",
+            "category": "",
+            "name": "Mnv-Uzum Redklop",
+            "tax_rate": "1",
+            "amount": "28.21"
+        },
+        {
+            "quantity": "0.606",
+            "price": "22.95",
+            "category": "",
+            "name": "Dgr-Bıber Koy",
+            "tax_rate": "1",
+            "amount": "13.91"
+        },
+        {
+            "quantity": "1.500",
+            "price": "13.90",
+            "category": "",
+            "name": "Dgr-Domates Dıger Kg",
+            "tax_rate": "1",
+            "amount": "20.85"
+        }
+    ]
+}

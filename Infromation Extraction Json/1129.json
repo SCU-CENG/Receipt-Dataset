@@ -1,0 +1,20 @@
+{
+    "company": "Dost Pet Veteriner Kliniği",
+    "date": "18-03-2023",
+    "time": "12:51",
+    "receipt_id": "10",
+    "total_tax": "14.81",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "8",
+            "amount": "200.00"
+        }
+    ]
+}

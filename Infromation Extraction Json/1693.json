@@ -1,0 +1,20 @@
+{
+    "company": "Köfteci Murat",
+    "date": "10-09-2023",
+    "time": "15:57",
+    "receipt_id": "0016",
+    "total_tax": "0.20",
+    "total_amount": "20.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçecek",
+            "tax_rate": "1",
+            "amount": "20.00"
+        }
+    ]
+}

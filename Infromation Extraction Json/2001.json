@@ -1,0 +1,20 @@
+{
+    "company": "Aslan Eczanesi",
+    "date": "13-01-2024",
+    "time": "14:00",
+    "receipt_id": "0193",
+    "total_tax": "20.00",
+    "total_amount": "220.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "10",
+            "amount": "220.00"
+        }
+    ]
+}

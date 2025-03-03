@@ -1,0 +1,52 @@
+{
+    "company": "Gross 58 Market",
+    "date": "11-02-2024",
+    "time": "15:23",
+    "receipt_id": "0290",
+    "total_tax": "3.56",
+    "total_amount": "355.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tasarzade Kasar 600",
+            "tax_rate": "1",
+            "amount": "135.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Hobby 650Gr Kr",
+            "tax_rate": "1",
+            "amount": "74.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekıcı Suzme Peynır",
+            "tax_rate": "1",
+            "amount": "58.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hemas Helva 700Gr Ka",
+            "tax_rate": "1",
+            "amount": "87.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

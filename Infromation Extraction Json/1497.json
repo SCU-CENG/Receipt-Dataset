@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "27-05-2023",
+    "time": "20:29",
+    "receipt_id": "0229",
+    "total_tax": "1.25",
+    "total_amount": "126.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 650G Yar. Yağlı",
+            "tax_rate": "1",
+            "amount": "63.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 650G Yar. Yağlı",
+            "tax_rate": "1",
+            "amount": "63.00"
+        }
+    ]
+}

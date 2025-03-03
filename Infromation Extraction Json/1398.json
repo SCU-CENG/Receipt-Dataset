@@ -1,0 +1,20 @@
+{
+    "company": "Bedri Usta",
+    "date": "23-09-2021",
+    "time": "13:27",
+    "receipt_id": "0006",
+    "total_tax": "0.57",
+    "total_amount": "58.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "58.00"
+        }
+    ]
+}

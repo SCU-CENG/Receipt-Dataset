@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "12-05-2023",
+    "time": "11:52",
+    "receipt_id": "0026",
+    "total_tax": "0.09",
+    "total_amount": "9.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "4.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "9.00"
+        }
+    ]
+}

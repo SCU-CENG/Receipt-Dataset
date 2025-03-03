@@ -1,0 +1,20 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "14-09-2021",
+    "time": "19:17",
+    "receipt_id": "0139",
+    "total_tax": "3.67",
+    "total_amount": "49.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Tereyag 1000Gr",
+            "tax_rate": "8",
+            "amount": "49.50"
+        }
+    ]
+}

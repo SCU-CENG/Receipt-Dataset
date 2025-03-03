@@ -1,0 +1,20 @@
+{
+    "company": "Kn Restoran İşletmeciliği Ve",
+    "date": "12-10-2021",
+    "time": "12:53",
+    "receipt_id": "0007",
+    "total_tax": "7.04",
+    "total_amount": "95.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.000",
+            "price": "47.50",
+            "category": "",
+            "name": "Fettuccı.Alfredo",
+            "tax_rate": "8",
+            "amount": "95.00"
+        }
+    ]
+}

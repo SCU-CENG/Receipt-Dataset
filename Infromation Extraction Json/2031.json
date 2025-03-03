@@ -1,0 +1,20 @@
+{
+    "company": "Maral Gıda",
+    "date": "10-02-2024",
+    "time": "15:52",
+    "receipt_id": "000007",
+    "total_tax": "0.00",
+    "total_amount": "130.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sigara",
+            "tax_rate": "0",
+            "amount": "130.00"
+        }
+    ]
+}

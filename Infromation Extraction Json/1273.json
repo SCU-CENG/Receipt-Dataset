@@ -1,0 +1,60 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "14-09-2021",
+    "time": "10:27",
+    "receipt_id": "0047",
+    "total_tax": "17.12",
+    "total_amount": "253.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "18.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "27.00"
+        },
+        {
+            "quantity": "5.00",
+            "price": "13.75",
+            "category": "",
+            "name": "Alacıftcı 1000Gr Yes",
+            "tax_rate": "8",
+            "amount": "68.75"
+        },
+        {
+            "quantity": "4.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Sutas Sut 1Lt T.Yagl",
+            "tax_rate": "8",
+            "amount": "27.80"
+        },
+        {
+            "quantity": "2.00",
+            "price": "34.95",
+            "category": "",
+            "name": "Eker Kasar 600Gr",
+            "tax_rate": "8",
+            "amount": "69.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "29.95",
+            "category": "",
+            "name": "Sıvas Pezık Tursusu",
+            "tax_rate": "8",
+            "amount": "59.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.50"
+        }
+    ]
+}

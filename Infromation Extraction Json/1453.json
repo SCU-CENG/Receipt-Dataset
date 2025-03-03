@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "02-05-2023",
+    "time": "18:51",
+    "receipt_id": "0238",
+    "total_tax": "13.12",
+    "total_amount": "172.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "12.00",
+            "price": "8.75",
+            "category": "",
+            "name": "Su 5 L",
+            "tax_rate": "1",
+            "amount": "105.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süzgeç 3Lü 12 -17 -",
+            "tax_rate": "18",
+            "amount": "79.95"
+        }
+    ]
+}

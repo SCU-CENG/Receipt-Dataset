@@ -1,0 +1,28 @@
+{
+    "company": "Seyhanlar",
+    "date": "15-04-2023",
+    "time": "14:09",
+    "receipt_id": "0317",
+    "total_tax": "0.55",
+    "total_amount": "55.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nestle Su 10Lt",
+            "tax_rate": "1",
+            "amount": "27.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nestle Su 10Lt",
+            "tax_rate": "1",
+            "amount": "27.95"
+        }
+    ]
+}

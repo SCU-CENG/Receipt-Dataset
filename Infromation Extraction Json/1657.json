@@ -1,0 +1,20 @@
+{
+    "company": "Musab Turbıl",
+    "date": "17-08-2023",
+    "time": "17:52",
+    "receipt_id": "0108",
+    "total_tax": "0.51",
+    "total_amount": "52.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tem.Gıda",
+            "tax_rate": "1",
+            "amount": "52.00"
+        }
+    ]
+}

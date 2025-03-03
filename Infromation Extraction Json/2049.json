@@ -1,0 +1,36 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "24-02-2024",
+    "time": "14:15",
+    "receipt_id": "0134",
+    "total_tax": "3.44",
+    "total_amount": "347.54",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atılım Yumurta 30 Lu",
+            "tax_rate": "1",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "2.160",
+            "price": "79.00",
+            "category": "",
+            "name": "Pılıc Pırzola",
+            "tax_rate": "1",
+            "amount": "170.64"
+        },
+        {
+            "quantity": "1.100",
+            "price": "89.00",
+            "category": "",
+            "name": "Pılıc Kanat",
+            "tax_rate": "1",
+            "amount": "97.90"
+        }
+    ]
+}

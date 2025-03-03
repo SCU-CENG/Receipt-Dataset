@@ -1,0 +1,20 @@
+{
+    "company": "Üstün İnşaat Petrol San. ve Tic. Ltd.",
+    "date": "23-04-2023",
+    "time": "07:09",
+    "receipt_id": "0160",
+    "total_tax": "45.00",
+    "total_amount": "295.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "13.680",
+            "price": "21.570",
+            "category": "",
+            "name": "K.Benzin",
+            "tax_rate": "18",
+            "amount": "295.00"
+        }
+    ]
+}

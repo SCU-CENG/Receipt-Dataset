@@ -1,0 +1,68 @@
+{
+    "company": "58 Besler Market",
+    "date": "24-08-2021",
+    "time": "11:30",
+    "receipt_id": "0092",
+    "total_tax": "6.73",
+    "total_amount": "82.44",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "7Days Kruvasan Fındı",
+            "tax_rate": "8",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "7Days Kruvasan Fındı",
+            "tax_rate": "8",
+            "amount": "-3.50"
+        },
+        {
+            "quantity": "0.974",
+            "price": "59.90",
+            "category": "",
+            "name": "Besler-Dana Hazır Iz",
+            "tax_rate": "8",
+            "amount": "58.34"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Albenı 5lı Pos",
+            "tax_rate": "8",
+            "amount": "6.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Elly Renklı Torpu 5",
+            "tax_rate": "18",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dr.Oetker 15Lı H.Kab",
+            "tax_rate": "8",
+            "amount": "4.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dr.Oetker 15Lı Seker",
+            "tax_rate": "8",
+            "amount": "4.95"
+        }
+    ]
+}

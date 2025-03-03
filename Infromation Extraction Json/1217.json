@@ -1,0 +1,45 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "29-09-2021",
+    "time": "10:54",
+    "receipt_id": "0042",
+    "total_tax": "3.21",
+    "total_amount": "105.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (SO",
+            "tax_rate": "1",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "5.00",
+            "price": "7.45",
+            "category": "",
+            "name": "Yayla 1000Gr Asurelı",
+            "tax_rate": "8",
+            "amount": "37.25"
+        },
+        {
+            "quantity": "4.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "1.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "18.50",
+            "category": "",
+            "name": "Sgr Parlıament Uzun",
+            "tax_rate": "0",
+            "amount": "37.00"
+        }
+
+    ]
+}

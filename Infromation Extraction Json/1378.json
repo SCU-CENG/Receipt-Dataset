@@ -1,0 +1,20 @@
+{
+    "company": "Semt Market",
+    "date": "18-10-2021",
+    "time": "16:07",
+    "receipt_id": "000021",
+    "total_tax": "3.48",
+    "total_amount": "47.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temel Gıda",
+            "tax_rate": "8",
+            "amount": "47.00"
+        }
+    ]
+}

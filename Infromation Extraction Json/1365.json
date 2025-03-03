@@ -1,0 +1,20 @@
+{
+    "company": "Karadeniz Balıkçısı",
+    "date": "24-10-2021",
+    "time": "19:56",
+    "receipt_id": "27",
+    "total_tax": "6.59",
+    "total_amount": "89.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Balık",
+            "tax_rate": "8",
+            "amount": "89.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "17-11-2023",
+    "time": "13:01",
+    "receipt_id": "0011",
+    "total_tax": "1.17",
+    "total_amount": "114.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Muratbey200G An",
+            "tax_rate": "1",
+            "amount": "49.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Muratbey200G An",
+            "tax_rate": "1",
+            "amount": "49.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dr Oetker Ç.Sos",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

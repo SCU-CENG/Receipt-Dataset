@@ -1,0 +1,68 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süper",
+    "date": "10-10-2021",
+    "time": "16:38",
+    "receipt_id": "0212",
+    "total_tax": "2.13",
+    "total_amount": "28.81",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.746",
+            "price": "3.99",
+            "category": "",
+            "name": "Mandalına Kg",
+            "tax_rate": "8",
+            "amount": "2.98"
+        },
+        {
+            "quantity": "0.206",
+            "price": "5.99",
+            "category": "",
+            "name": "Lımon Mayer",
+            "tax_rate": "8",
+            "amount": "1.23"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Koska Cıcek Balı 220",
+            "tax_rate": "8",
+            "amount": "9.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cerezza Aıle Mp",
+            "tax_rate": "8",
+            "amount": "4.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Kefır Sade 1 L",
+            "tax_rate": "8",
+            "amount": "11.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Dıscount S",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Dıscount S",
+            "tax_rate": "8",
+            "amount": "1.25"
+        }
+    ]
+}

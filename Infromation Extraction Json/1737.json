@@ -1,0 +1,44 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "22-10-2023",
+    "time": "12:14",
+    "receipt_id": "0072",
+    "total_tax": "1.52",
+    "total_amount": "153.74",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçim 500G Kaşar",
+            "tax_rate": "1",
+            "amount": "92.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Browni 180",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Nero 4X110G",
+            "tax_rate": "1",
+            "amount": "26.00"
+        },
+        {
+            "quantity": "1.600",
+            "price": "9.90",
+            "category": "",
+            "name": "Mandalina",
+            "tax_rate": "1",
+            "amount": "15.84"
+        }
+    ]
+}

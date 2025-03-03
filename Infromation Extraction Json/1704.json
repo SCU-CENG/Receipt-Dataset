@@ -1,0 +1,20 @@
+{
+    "company": "Deveci Petrol",
+    "date": "14-09-2023",
+    "time": "21:11",
+    "receipt_id": "43",
+    "total_tax": "100.00",
+    "total_amount": "600.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "14.595",
+            "price": "41.110",
+            "category": "",
+            "name": "Ult Motorın",
+            "tax_rate": "20",
+            "amount": "600.00"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "company": "",
+    "date": "21-05-2023",
+    "time": "11:53",
+    "receipt_id": "0036",
+    "total_tax": "3.98",
+    "total_amount": "398.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+         {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vera A.Yağı 5L",
+            "tax_rate": "1",
+            "amount": "129.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çokoprens 300G",
+            "tax_rate": "1",
+            "amount": "24.50"
+        }, 
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Hoşbeş 142 G",
+            "tax_rate": "1",
+            "amount": "13.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Hoşbeş 142 G",
+            "tax_rate": "1",
+            "amount": "13.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Halley 8Li",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr. 450 G",
+            "tax_rate": "1",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mak.Nuhun Ankara",
+            "tax_rate": "1",
+            "amount": "12.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pirinç B. 2500G Ovad",
+            "tax_rate": "1",
+            "amount": "91.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kurabiye Nimet",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kurabiye Nimet",
+            "tax_rate": "1",
+            "amount": "29.50"
+        }
+    ]
+}

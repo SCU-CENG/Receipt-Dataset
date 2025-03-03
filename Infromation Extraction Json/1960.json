@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "24-12-2023",
+    "time": "17:13",
+    "receipt_id": "0189",
+    "total_tax": "8.56",
+    "total_amount": "164.14",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku B.Peynır 900Gr",
+            "tax_rate": "1",
+            "amount": "119.95"
+        },
+        {
+            "quantity": "65.95",
+            "price": "",
+            "category": "",
+            "name": "Duru 600Gr Naturel Z",
+            "tax_rate": "20",
+            "amount": "44.19"
+        }
+    ]
+}

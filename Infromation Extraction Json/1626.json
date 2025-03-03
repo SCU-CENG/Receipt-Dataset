@@ -1,0 +1,20 @@
+{
+    "company": "Azizoğulları Yapı Mal.",
+    "date": "10-07-2023",
+    "time": "11:11",
+    "receipt_id": "0021",
+    "total_tax": "241.67",
+    "total_amount": "1450.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İnş.Mal.",
+            "tax_rate": "20",
+            "amount": "1450.00"
+        }
+    ]
+}

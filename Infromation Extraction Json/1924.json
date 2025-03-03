@@ -1,0 +1,36 @@
+{
+    "company": "Lcw - Waıkıkı",
+    "date": "28-01-2024",
+    "time": "13:58",
+    "receipt_id": "0011",
+    "total_tax": "54.73",
+    "total_amount": "601.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bot.Chıko-E",
+            "tax_rate": "10",
+            "amount": "399.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ink.Softy-W3",
+            "tax_rate": "10",
+            "amount": "199.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nonwoven Çanta S Alı",
+            "tax_rate": "10",
+            "amount": "2.00"
+        }
+    ]
+}

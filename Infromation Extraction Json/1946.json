@@ -1,0 +1,20 @@
+{
+    "company": "Barutçu Züccaciye Hediyelik",
+    "date": "27-02-2024",
+    "time": "10:34",
+    "receipt_id": "0007",
+    "total_tax": "35.83",
+    "total_amount": "215.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hırdavat",
+            "tax_rate": "20",
+            "amount": "215.00"
+        }
+    ]
+}

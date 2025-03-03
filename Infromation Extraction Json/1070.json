@@ -1,0 +1,28 @@
+{
+    "company": "Besler Fresh Market",
+    "date": "29-04-2023",
+    "time": "15:24",
+    "receipt_id": "0175",
+    "total_tax": "0.27",
+    "total_amount": "27.34",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.145",
+            "price": "19.95",
+            "category": "",
+            "name": "Sogan P13",
+            "tax_rate": "1",
+            "amount": "22.84"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fresh Ekmek",
+            "tax_rate": "1",
+            "amount": "4.50"
+        }
+    ]
+}

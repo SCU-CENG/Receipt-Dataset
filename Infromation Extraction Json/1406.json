@@ -1,0 +1,68 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "17-04-2022",
+    "time": "15:59",
+    "receipt_id": "0142",
+    "total_tax": "11.80",
+    "total_amount": "259.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Soke Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "49.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yedıgun Portakal1.5L",
+            "tax_rate": "8",
+            "amount": "10.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca-Cola 4X1 Lt",
+            "tax_rate": "8",
+            "amount": "31.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "11.90",
+            "category": "",
+            "name": "Lıpton Ice Tea Seft",
+            "tax_rate": "8",
+            "amount": "23.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Famılıa Plus Tuva",
+            "tax_rate": "8",
+            "amount": "99.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "42.90",
+            "category": "",
+            "name": "Pınar Sut 4*1 L",
+            "tax_rate": "1",
+            "amount": "85.80"
+        },
+        {
+            "quantity": "3.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Sanal Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.75"
+        }
+    ]
+}

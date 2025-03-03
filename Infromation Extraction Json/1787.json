@@ -1,0 +1,36 @@
+{
+    "company": "Gross 58 Market",
+    "date": "01-12-2023",
+    "time": "20:12",
+    "receipt_id": "0333",
+    "total_tax": "0.43",
+    "total_amount": "43.37",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.216",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-98-Greyf",
+            "tax_rate": "1",
+            "amount": "4.31"
+        },
+        {
+            "quantity": "0.710",
+            "price": "34.95",
+            "category": "",
+            "name": "Besler Mnv-122-Doma",
+            "tax_rate": "1",
+            "amount": "24.81"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Doganay Sırke Elma 5",
+            "tax_rate": "1",
+            "amount": "14.25"
+        }
+    ]
+}

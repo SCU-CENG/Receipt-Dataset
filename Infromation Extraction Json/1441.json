@@ -1,0 +1,84 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "16-04-2023",
+    "time": "15:11",
+    "receipt_id": "0078",
+    "total_tax": "1.85",
+    "total_amount": "183.03",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.170",
+            "price": "199.00",
+            "category": "",
+            "name": "Ulker Ece Cesıtlerı",
+            "tax_rate": "1",
+            "amount": "33.83"
+        },
+        {
+            "quantity": "0.100",
+            "price": "99.90",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "9.99"
+        },
+        {
+            "quantity": "0.500",
+            "price": "199.00",
+            "category": "",
+            "name": "Ulker Cıkolattın Dokm",
+            "tax_rate": "1",
+            "amount": "99.50"
+        },
+        {
+            "quantity": "0.105",
+            "price": "99.90",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "10.49"
+        },
+        {
+            "quantity": "0.100",
+            "price": "99.90",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "9.99"
+        },
+        {
+            "quantity": "0.100",
+            "price": "99.90",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "7.99"
+        },
+        {
+            "quantity": "0.080",
+            "price": "99.90",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "9.49"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Abant D.K. Suyu 0.5L",
+            "tax_rate": "1",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

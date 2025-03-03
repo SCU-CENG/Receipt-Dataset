@@ -1,0 +1,20 @@
+{
+    "company": "İstanbul Çarşı",
+    "date": "13-01-2024",
+    "time": "17:40",
+    "receipt_id": "155",
+    "total_tax": "6.36",
+    "total_amount": "70.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kırtasiye",
+            "tax_rate": "10",
+            "amount": "70.00"
+        }
+    ]
+}

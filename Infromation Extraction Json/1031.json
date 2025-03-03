@@ -1,0 +1,20 @@
+{
+    "company": "Kekik Cafe",
+    "date": "30-09-2021",
+    "time": "13:27",
+    "receipt_id": "0032",
+    "total_tax": "0.66",
+    "total_amount": "67.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kısım 3",
+            "tax_rate": "1",
+            "amount": "67.00"
+        }
+    ]
+}

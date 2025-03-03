@@ -1,0 +1,20 @@
+{
+    "company": "Hanedan Grup Otom.İnş",
+    "date": "06-11-2023",
+    "time": "16:51",
+    "receipt_id": "33",
+    "total_tax": "11.67",
+    "total_amount": "70.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otopark",
+            "tax_rate": "20",
+            "amount": "70.00"
+        }
+    ]
+}

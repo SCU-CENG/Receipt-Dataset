@@ -1,0 +1,60 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "01-12-2023",
+    "time": "20:29",
+    "receipt_id": "00252",
+    "total_tax": "0.99",
+    "total_amount": "95.88",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Kls Makarna 590 Gr",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Kls Makarna 500 Gr",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Kls Makarna 500 Gr",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pınar Ketcap 500 Gr",
+            "tax_rate": "1",
+            "amount": "39.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "0.856",
+            "price": "19.90",
+            "category": "",
+            "name": "M-Pırasa",
+            "tax_rate": "1",
+            "amount": "17.03"
+        }
+    ]
+}

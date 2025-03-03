@@ -1,0 +1,28 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "26-10-2021",
+    "time": "19:05",
+    "receipt_id": "0109",
+    "total_tax": "2.00",
+    "total_amount": "26.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ola Pm",
+            "tax_rate": "8",
+            "amount": "22.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ilave Peynır",
+            "tax_rate": "8",
+            "amount": "4.00"
+        }
+    ]
+}

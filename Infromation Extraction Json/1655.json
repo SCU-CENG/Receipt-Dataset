@@ -1,0 +1,84 @@
+{
+    "company": "Gross 58 Market",
+    "date": "17-08-2023",
+    "time": "20:32",
+    "receipt_id": "0294",
+    "total_tax": "2.27",
+    "total_amount": "267.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Saka Su 5Lt",
+            "tax_rate": "1",
+            "amount": "14.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Patos Partı Acı Bah",
+            "tax_rate": "1",
+            "amount": "24.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım 18Ogr Sıyah Ce",
+            "tax_rate": "1",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım 180Gr Sıyah Ce",
+            "tax_rate": "1",
+            "amount": "31.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Kare 60Ogr Sutl",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Kare 60Gr %60",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sahıner Cevız Keleb",
+            "tax_rate": "1",
+            "amount": "99.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sıgara Lm Red 100",
+            "tax_rate": "0",
+            "amount": "42.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

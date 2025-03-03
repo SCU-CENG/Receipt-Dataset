@@ -1,0 +1,20 @@
+{
+    "company": "Kılıç Şarküteri",
+    "date": "11-09-2023",
+    "time": "15:53",
+    "receipt_id": "7",
+    "total_tax": "1.58",
+    "total_amount": "160.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kısım3",
+            "tax_rate": "1",
+            "amount": "160.00"
+        }
+    ]
+}

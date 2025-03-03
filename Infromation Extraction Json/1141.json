@@ -1,0 +1,68 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "07-05-2023",
+    "time": "11:46",
+    "receipt_id": "0052",
+    "total_tax": "0.82",
+    "total_amount": "79.55",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Yupo Supper",
+            "tax_rate": "1",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Domates Salca",
+            "tax_rate": "1",
+            "amount": "31.90"
+        },
+        {
+            "quantity": "0.440",
+            "price": "95.50",
+            "category": "",
+            "name": "Tlyada Ceyıklı Zeyt.",
+            "tax_rate": "1",
+            "amount": "42.02"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Ulker Lavıva Xxl",
+            "tax_rate": "1",
+            "amount": "59.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 20 İndirim",
+            "tax_rate": "1",
+            "amount": "-2.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İndirim",
+            "tax_rate": "1",
+            "amount": "-19.10"
+        }
+    ]
+}

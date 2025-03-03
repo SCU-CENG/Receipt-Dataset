@@ -1,0 +1,20 @@
+{
+    "company": "Yedıkır Kuruyemiş",
+    "date": "24-05-2023",
+    "time": "20:01",
+    "receipt_id": "0056",
+    "total_tax": "0.96",
+    "total_amount": "97.35",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ksm3",
+            "tax_rate": "1",
+            "amount": "97.35"
+        }
+    ]
+}

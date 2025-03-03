@@ -1,0 +1,20 @@
+{
+    "company": "Salim Hırdavat Ltd.Şti.",
+    "date": "04-09-2021",
+    "time": "16:24",
+    "receipt_id": "00306",
+    "total_tax": "44.24",
+    "total_amount": "290.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hırdavat",
+            "tax_rate": "18",
+            "amount": "290.00"
+        }
+    ]
+}

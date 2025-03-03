@@ -1,0 +1,20 @@
+{
+    "company": "Içı",
+    "date": "20-10-2021",
+    "time": "13:58",
+    "receipt_id": "7",
+    "total_tax": "6.67",
+    "total_amount": "90.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "8",
+            "amount": "90.00"
+        }
+    ]
+}

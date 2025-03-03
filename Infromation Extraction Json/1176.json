@@ -1,0 +1,20 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "18-06-2023",
+    "time": "19:52",
+    "receipt_id": "309",
+    "total_tax": "0.84",
+    "total_amount": "84.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkbf Kavrulmuş Fındı",
+            "tax_rate": "1",
+            "amount": "84.90"
+        }
+    ]
+}

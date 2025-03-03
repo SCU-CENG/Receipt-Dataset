@@ -1,0 +1,20 @@
+{
+    "company": "Talas Kahve",
+    "date": "23-06-2023",
+    "time": "19:51",
+    "receipt_id": "0415",
+    "total_tax": "0.84",
+    "total_amount": "85.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kahve",
+            "tax_rate": "1",
+            "amount": "85.00"
+        }
+    ]
+}

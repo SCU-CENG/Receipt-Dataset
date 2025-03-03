@@ -1,0 +1,60 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "05-05-2023",
+    "time": "18:02",
+    "receipt_id": "0019",
+    "total_tax": "16.22",
+    "total_amount": "164.94",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yedigün 2.5 L",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "3.00",
+            "price": "4.25",
+            "category": "",
+            "name": "Ülker Çik Gof 36G",
+            "tax_rate": "1",
+            "amount": "12.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Xroll Gofret 350 G",
+            "tax_rate": "1",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "2.95",
+            "category": "",
+            "name": "Koroplast Kilitli Po",
+            "tax_rate": "18",
+            "amount": "89.85"
+        },
+        {
+            "quantity": "1.155",
+            "price": "13.50",
+            "category": "",
+            "name": "Limon",
+            "tax_rate": "1",
+            "amount": "15.59"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Çik Gof",
+            "tax_rate": "1",
+            "amount": "4.25"
+        }
+    ]
+}

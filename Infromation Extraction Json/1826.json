@@ -1,0 +1,20 @@
+{
+    "company": "Happy Moon's",
+    "date": "01-10-2021",
+    "time": "21:08",
+    "receipt_id": "008",
+    "total_tax": "7.33",
+    "total_amount": "99.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "8",
+            "amount": "99.00"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "20-08-2021",
+    "time": "11:20",
+    "receipt_id": "0060",
+    "total_tax": "9.41",
+    "total_amount": "129.02",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ketçap 1000 Gr",
+            "tax_rate": "8",
+            "amount": "6.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fındık Kreması 63",
+            "tax_rate": "8",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fındık Kreması 50",
+            "tax_rate": "8",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Buzluçayşeftali33",
+            "tax_rate": "8",
+            "amount": "1.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.95",
+            "category": "",
+            "name": "Gofretfndk142Ghoş",
+            "tax_rate": "8",
+            "amount": "7.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.95",
+            "category": "",
+            "name": "Gofretçilkr142Gho",
+            "tax_rate": "8",
+            "amount": "7.90"
+        },
+        {
+            "quantity": "0.820",
+            "price": "7.90",
+            "category": "",
+            "name": "Siyah Üzüm",
+            "tax_rate": "8",
+            "amount": "6.48"
+        },
+        {
+            "quantity": "0.885",
+            "price": "17.90",
+            "category": "",
+            "name": "Piliç Baget Tazem",
+            "tax_rate": "8",
+            "amount": "15.84"
+        },
+        {
+            "quantity": "1.085",
+            "price": "17.90",
+            "category": "",
+            "name": "Piliç Baget Tazem",
+            "tax_rate": "8",
+            "amount": "19.42"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.25",
+            "category": "",
+            "name": "Süt Aromalı 200Ml",
+            "tax_rate": "8",
+            "amount": "2.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.90",
+            "category": "",
+            "name": "Gofret36,5G Didot",
+            "tax_rate": "8",
+            "amount": "3.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol. Bar 125Gwaf",
+            "tax_rate": "8",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek Tekli 200 G",
+            "tax_rate": "1",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "1.130",
+            "price": "7.90",
+            "category": "",
+            "name": "Çekirdeksiz Üzüm",
+            "tax_rate": "8",
+            "amount": "8.93"
+        }
+    ]
+}

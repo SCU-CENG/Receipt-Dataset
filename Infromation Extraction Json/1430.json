@@ -1,0 +1,36 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "19-04-2023",
+    "time": "14:42",
+    "receipt_id": "0061",
+    "total_tax": "0.73",
+    "total_amount": "73.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Çikolatalı Gof",
+            "tax_rate": "1",
+            "amount": "11.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Hobby Fındıklı",
+            "tax_rate": "1",
+            "amount": "34.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Halley Mini 24",
+            "tax_rate": "1",
+            "amount": "38.00"
+        }
+    ]
+}

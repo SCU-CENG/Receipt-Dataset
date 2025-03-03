@@ -1,0 +1,20 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "27-02-2023",
+    "time": "21:09",
+    "receipt_id": "0231",
+    "total_tax": "4.56",
+    "total_amount": "29.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Derbybanyo5Li",
+            "tax_rate": "18",
+            "amount": "29.90"
+        }
+    ]
+}

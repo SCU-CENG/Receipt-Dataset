@@ -1,0 +1,20 @@
+{
+    "company": "Vuslat İnş.Emlak Ticaret",
+    "date": "29-09-2021",
+    "time": "14:02",
+    "receipt_id": "00",
+    "total_tax": "10.0",
+    "total_amount": "135.0",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "12 Kg Tüp",
+            "tax_rate": "8",
+            "amount": "135.00"
+        }
+    ]
+}

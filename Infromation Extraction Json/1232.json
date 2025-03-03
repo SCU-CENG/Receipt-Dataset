@@ -1,0 +1,20 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "25-09-2021",
+    "time": "14:42",
+    "receipt_id": "0033",
+    "total_tax": "3.18",
+    "total_amount": "42.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru 5000Gr Bulgur P",
+            "tax_rate": "8",
+            "amount": "42.95"
+        }
+    ]
+}

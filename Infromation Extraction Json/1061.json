@@ -1,0 +1,60 @@
+{
+    "company": "Yu-Çe Gıda Tar.Ltd.",
+    "date": "10-03-2018",
+    "time": "22:38",
+    "receipt_id": "0053",
+    "total_tax": "9.03",
+    "total_amount": "101.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cae.Beef Wrap",
+            "tax_rate": "8",
+            "amount": "28.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Lıght",
+            "tax_rate": "8",
+            "amount": "7.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Turk Kahvesı",
+            "tax_rate": "8",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erdınger",
+            "tax_rate": "18",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tavuk Sınıtzel",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.25",
+            "category": "",
+            "name": "Cay (Bardak)",
+            "tax_rate": "8",
+            "amount": "10.50"
+        }
+    ]
+}

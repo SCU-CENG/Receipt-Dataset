@@ -1,0 +1,20 @@
+{
+    "company": "Tugra Eczanesı",
+    "date": "05-03-2024",
+    "time": "13:37",
+    "receipt_id": "10",
+    "total_tax": "26.82",
+    "total_amount": "295.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "10",
+            "amount": "295.00"
+        }
+    ]
+}

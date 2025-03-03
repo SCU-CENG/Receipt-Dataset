@@ -1,0 +1,44 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "01-03-2023",
+    "time": "13:47",
+    "receipt_id": "0056",
+    "total_tax": "0.28",
+    "total_amount": "28.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Balık Çıtkırıldı 140",
+            "tax_rate": "1",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çıtkırıldım 100 G",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pey. Crax 175 G",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Balık Çıtkırıldı 140",
+            "tax_rate": "1",
+            "amount": "7.00"
+        }
+    ]
+}

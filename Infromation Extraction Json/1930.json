@@ -1,0 +1,20 @@
+{
+    "company": "Şahin Pastanesı",
+    "date": "22-01-2024",
+    "time": "09:19",
+    "receipt_id": "0048",
+    "total_tax": "0.20",
+    "total_amount": "20.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tatlı",
+            "tax_rate": "1",
+            "amount": "20.00"
+        }
+    ]
+}

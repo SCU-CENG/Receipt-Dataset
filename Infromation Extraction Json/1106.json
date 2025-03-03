@@ -1,0 +1,20 @@
+{
+    "company": "Deveci Petrol",
+    "date": "25-03-2023",
+    "time": "13:50",
+    "receipt_id": "31",
+    "total_tax": "38.14",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "12.019",
+            "price": "10.800",
+            "category": "",
+            "name": "Kursunsuz95",
+            "tax_rate": "18",
+            "amount": "250.00"
+        }
+    ]
+}

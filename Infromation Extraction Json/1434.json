@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "20-04-2023",
+    "time": "16:17",
+    "receipt_id": "0082",
+    "total_tax": "6.79",
+    "total_amount": "59.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yü::3000DErmokil",
+            "tax_rate": "8",
+            "amount": "29.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yü::Re450Dermokil",
+            "tax_rate": "18",
+            "amount": "29.95"
+        }
+    ]
+}

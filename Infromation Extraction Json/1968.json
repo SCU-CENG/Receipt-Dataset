@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "27-12-2023",
+    "time": "13:29",
+    "receipt_id": "0271",
+    "total_tax": "0.65",
+    "total_amount": "65.69",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.800",
+            "price": "29.95",
+            "category": "",
+            "name": "Besler Mnv-3-Patlıc",
+            "tax_rate": "1",
+            "amount": "23.36"
+        },
+        {
+            "quantity": "1.194",
+            "price": "34.95",
+            "category": "",
+            "name": "Besler Mnv-3 -Muz Ye",
+            "tax_rate": "1",
+            "amount": "41.73"
+        }
+    ]
+}

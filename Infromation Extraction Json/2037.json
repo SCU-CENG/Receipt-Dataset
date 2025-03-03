@@ -1,0 +1,36 @@
+{
+    "company": "Gross 58 Market",
+    "date": "11-02-2024",
+    "time": "15:26",
+    "receipt_id": "0292",
+    "total_tax": "0.44",
+    "total_amount": "40.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "4.45",
+            "category": "",
+            "name": "Beypazarı Soda 200M",
+            "tax_rate": "1",
+            "amount": "26.70"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

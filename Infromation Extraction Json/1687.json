@@ -1,0 +1,20 @@
+{
+    "company": "Özdeniz Petrol Ürünleri İnş.Taah",
+    "date": "06-09-2023",
+    "time": "11:28",
+    "receipt_id": "0048",
+    "total_tax": "83.33",
+    "total_amount": "500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "112.800",
+            "price": "39.05",
+            "category": "",
+            "name": "Motorın Svpd",
+            "tax_rate": "20",
+            "amount": "500.00"
+        }
+    ]
+}

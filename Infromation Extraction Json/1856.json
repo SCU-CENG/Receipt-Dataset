@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "01-03-2024",
+    "time": "18:45",
+    "receipt_id": "0284",
+    "total_tax": "2.40",
+    "total_amount": "234.36",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.950",
+            "price": "159.90",
+            "category": "",
+            "name": "Levrek 400/600 Kg",
+            "tax_rate": "1",
+            "amount": "311.81"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Levrek 400/600 Kg",
+            "tax_rate": "1",
+            "amount": "-77.95"
+        }
+    ]
+}

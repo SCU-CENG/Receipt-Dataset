@@ -1,0 +1,28 @@
+{
+    "company": "Yasa",
+    "date": "07-04-2023",
+    "time": "15:16",
+    "receipt_id": "0002",
+    "total_tax": "1.68",
+    "total_amount": "170.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tost Ekmegı Paket",
+            "tax_rate": "1",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım Karnaval 180Gr",
+            "tax_rate": "1",
+            "amount": "140.00"
+        }
+    ]
+}

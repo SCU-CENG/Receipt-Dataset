@@ -1,0 +1,20 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "30-12-2022",
+    "time": "18:30",
+    "receipt_id": "0323",
+    "total_tax": "0.07",
+    "total_amount": "7.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "7.50"
+        }
+    ]
+}

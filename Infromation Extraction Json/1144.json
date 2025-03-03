@@ -1,0 +1,20 @@
+{
+    "company": "Lcw - Waikiki",
+    "date": "10-04-2023",
+    "time": "14:23",
+    "receipt_id": "0142",
+    "total_tax": "14.81",
+    "total_amount": "199.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pnt,Sıms",
+            "tax_rate": "8",
+            "amount": "199.99"
+        }
+    ]
+}

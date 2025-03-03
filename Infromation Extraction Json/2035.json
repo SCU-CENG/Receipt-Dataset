@@ -1,0 +1,20 @@
+{
+    "company": "Gratis İç Ve Dış Ticaret A.Ş.",
+    "date": "11-02-2024",
+    "time": "15:02",
+    "receipt_id": "0106",
+    "total_tax": "23.17",
+    "total_amount": "139.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lapıtak Topuk Çatlak",
+            "tax_rate": "20",
+            "amount": "139.00"
+        }
+    ]
+}

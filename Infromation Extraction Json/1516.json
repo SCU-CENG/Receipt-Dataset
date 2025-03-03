@@ -1,0 +1,20 @@
+{
+    "company": "Mis Piliç Gıda Tar Hy Nak",
+    "date": "26-08-2023",
+    "time": "14:09",
+    "receipt_id": "21",
+    "total_tax": "2.48",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tavuk",
+            "tax_rate": "1",
+            "amount": "250.00"
+        }
+    ]
+}

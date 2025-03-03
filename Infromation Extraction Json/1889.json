@@ -1,0 +1,44 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "24-03-2024",
+    "time": "16:33",
+    "receipt_id": "0079",
+    "total_tax": "0.62",
+    "total_amount": "58.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bizim Paket Margarin",
+            "tax_rate": "1",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bizim Paket Margarin",
+            "tax_rate": "1",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bizim Paket Margarin",
+            "tax_rate": "1",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti 43",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

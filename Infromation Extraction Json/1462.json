@@ -1,0 +1,20 @@
+{
+    "company": "Oğuz Market",
+    "date": "06-05-2023",
+    "time": "14:09",
+    "receipt_id": "3",
+    "total_tax": "0.00",
+    "total_amount": "64.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sigara",
+            "tax_rate": "0",
+            "amount": "64.00"
+        }
+    ]
+}

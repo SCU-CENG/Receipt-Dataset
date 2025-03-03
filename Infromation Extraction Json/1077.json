@@ -1,0 +1,20 @@
+{
+    "company": "Barutcu Hırdavat Ve Ev Gereçler",
+    "date": "16-05-2023",
+    "time": "09:48",
+    "receipt_id": "0003",
+    "total_tax": "5.07",
+    "total_amount": "68.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kırtasiye",
+            "tax_rate": "8",
+            "amount": "68.50"
+        }
+    ]
+}

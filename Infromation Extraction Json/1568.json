@@ -1,0 +1,20 @@
+{
+    "company": "Akyol Plastik",
+    "date": "09-12-2023",
+    "time": "12:56",
+    "receipt_id": "10",
+    "total_tax": "16.67",
+    "total_amount": "100.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Poşet",
+            "tax_rate": "20",
+            "amount": "100.00"
+        }
+    ]
+}

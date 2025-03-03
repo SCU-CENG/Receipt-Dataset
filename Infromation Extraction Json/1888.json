@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "24-03-2024",
+    "time": "17:18",
+    "receipt_id": "0345",
+    "total_tax": "0.24",
+    "total_amount": "24.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "12.00",
+            "category": "",
+            "name": "Samek Ramazan Pıdesı",
+            "tax_rate": "1",
+            "amount": "24.00"
+        }
+    ]
+}

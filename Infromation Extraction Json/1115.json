@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "24-03-2023",
+    "time": "13:28",
+    "receipt_id": "0033",
+    "total_tax": "0.09",
+    "total_amount": "8.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Murat Su 5Lt",
+            "tax_rate": "1",
+            "amount": "8.75"
+        }
+    ]
+}

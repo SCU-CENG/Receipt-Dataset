@@ -1,0 +1,20 @@
+{
+    "company": "Otoyol Yatırım İşletme A.Ş",
+    "date": "24-04-2023",
+    "time": "10:18",
+    "receipt_id": "0200",
+    "total_tax": "5.64",
+    "total_amount": "37.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ksm1",
+            "tax_rate": "18",
+            "amount": "37.00"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "21-11-2023",
+    "time": "18:27",
+    "receipt_id": "0102",
+    "total_tax": "1.49",
+    "total_amount": "146.59",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Doganay Salgam 300Ml",
+            "tax_rate": "1",
+            "amount": "9.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atılım Yumurta 30'Lu",
+            "tax_rate": "1",
+            "amount": "92.95"
+        },
+        {
+            "quantity": "0.560",
+            "price": "16.95",
+            "category": "",
+            "name": "Mnv-Lımon Kg",
+            "tax_rate": "1",
+            "amount": "9.49"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dgr-Kıvırcık Adet",
+            "tax_rate": "1",
+            "amount": "19.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 7.",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

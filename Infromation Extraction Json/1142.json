@@ -1,0 +1,20 @@
+{
+    "company": "Besler Fresh Market",
+    "date": "07-04-2023",
+    "time": "11:53",
+    "receipt_id": "0018",
+    "total_tax": "0.06",
+    "total_amount": "5.66",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.210",
+            "price": "26.95",
+            "category": "",
+            "name": "Domates Cerı P15",
+            "tax_rate": "1",
+            "amount": "5.66"
+        }
+    ]
+}

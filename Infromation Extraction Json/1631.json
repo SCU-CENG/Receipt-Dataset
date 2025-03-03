@@ -1,0 +1,28 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "10-08-2023",
+    "time": "11:01",
+    "receipt_id": "0065",
+    "total_tax": "0.26",
+    "total_amount": "26.30",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "11.90",
+            "category": "",
+            "name": "Susamlı Acma Adet",
+            "tax_rate": "1",
+            "amount": "23.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekır Dogal Kaynak S",
+            "tax_rate": "1",
+            "amount": "2.50"
+        }
+    ]
+}

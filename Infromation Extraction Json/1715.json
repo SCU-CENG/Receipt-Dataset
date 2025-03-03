@@ -1,0 +1,20 @@
+{
+    "company": "Akbulut Halı",
+    "date": "",
+    "time": "",
+    "receipt_id": "00030",
+    "total_tax": "204.55",
+    "total_amount": "2250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Halı",
+            "tax_rate": "10",
+            "amount": "2250.00"
+        }
+    ]
+}

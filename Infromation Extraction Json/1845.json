@@ -1,0 +1,28 @@
+{
+    "company": "Starbucks Coffee",
+    "date": "23-09-2023",
+    "time": "05:46",
+    "receipt_id": "0113",
+    "total_tax": "30.00",
+    "total_amount": "330.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hashasli-Peynrli",
+            "tax_rate": "10",
+            "amount": "169.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Iced Latte Grande",
+            "tax_rate": "10",
+            "amount": "161.00"
+        }
+    ]
+}

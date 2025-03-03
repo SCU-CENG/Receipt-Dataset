@@ -1,0 +1,20 @@
+{
+    "company": "Sitare Mağazacılık Tic.Ltd.Şti.",
+    "date": "17-03-2024",
+    "time": "16:47",
+    "receipt_id": "0027",
+    "total_tax": "209.08",
+    "total_amount": "2299.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Konfeksiyon",
+            "tax_rate": "10",
+            "amount": "2299.90"
+        }
+    ]
+}

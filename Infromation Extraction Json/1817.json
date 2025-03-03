@@ -1,0 +1,20 @@
+{
+    "company": "Özkonak Süt Ürünleri Ve İnş.",
+    "date": "08-10-2021",
+    "time": "22:24",
+    "receipt_id": "0026",
+    "total_tax": "3.41",
+    "total_amount": "46.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "8",
+            "amount": "46.00"
+        }
+    ]
+}

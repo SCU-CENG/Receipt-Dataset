@@ -1,0 +1,20 @@
+{
+    "company": "Antre Gurme",
+    "date": "02-09-2021",
+    "time": "20:19",
+    "receipt_id": "0023",
+    "total_tax": "0.52",
+    "total_amount": "52.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "1",
+            "amount": "52.50"
+        }
+    ]
+}

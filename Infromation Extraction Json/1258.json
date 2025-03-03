@@ -1,0 +1,76 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti.",
+    "date": "23-08-2021",
+    "time": "14:46",
+    "receipt_id": "0108",
+    "total_tax": "6.79",
+    "total_amount": "91.62",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.430",
+            "price": "25.00",
+            "category": "",
+            "name": "Sarı Uzum Kg",
+            "tax_rate": "8",
+            "amount": "10.75"
+        },
+        {
+            "quantity": "0.150",
+            "price": "90.00",
+            "category": "",
+            "name": "Cevız Icı Super Kg",
+            "tax_rate": "8",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Candy Pop'S Polonya Sek",
+            "tax_rate": "8",
+            "amount": "2.50"
+        },
+        {
+            "quantity": "0.170",
+            "price": "27.50",
+            "category": "",
+            "name": "Tut Kurusu Kg",
+            "tax_rate": "8",
+            "amount": "4.68"
+        },
+        {
+            "quantity": "0.295",
+            "price": "55.00",
+            "category": "",
+            "name": "Kayısı Jumbo Ozel Kg",
+            "tax_rate": "8",
+            "amount": "16.22"
+        },
+        {
+            "quantity": "0.180",
+            "price": "33.00",
+            "category": "",
+            "name": "Besnı Uzum Kg",
+            "tax_rate": "8",
+            "amount": "5.94"
+        },
+        {
+            "quantity": "0.285",
+            "price": "75.00",
+            "category": "",
+            "name": "Kuru Dag Incırı (Germen",
+            "tax_rate": "8",
+            "amount": "21.38"
+        },
+        {
+            "quantity": "0.185",
+            "price": "90.00",
+            "category": "",
+            "name": "Gıresun Kavrulmus Fındı",
+            "tax_rate": "8",
+            "amount": "16.65"
+        }
+    ]
+}

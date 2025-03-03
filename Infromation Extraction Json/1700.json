@@ -1,0 +1,52 @@
+{
+    "company": "Gratis İç Ve Dış Ticaret A.Ş.",
+    "date": "10-09-2023",
+    "time": "16:25",
+    "receipt_id": "0195",
+    "total_tax": "27.67",
+    "total_amount": "182.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bee Beauty 24Lü Yüz",
+            "tax_rate": "20",
+            "amount": "28.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Big Babol Sakız Box",
+            "tax_rate": "1",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Venus Sımply Bayan K",
+            "tax_rate": "20",
+            "amount": "49.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Benrı Organık Kulak",
+            "tax_rate": "20",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıoblas Şampuan Saç",
+            "tax_rate": "20",
+            "amount": "58.00"
+        }
+    ]
+}

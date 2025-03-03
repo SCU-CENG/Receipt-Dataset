@@ -1,0 +1,20 @@
+{
+    "company": "Özdetaysoft",
+    "date": "15-09-2023",
+    "time": "17:38",
+    "receipt_id": "0002",
+    "total_tax": "0.00",
+    "total_amount": "30.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kdv %0",
+            "tax_rate": "0",
+            "amount": "30.50"
+        }
+    ]
+}

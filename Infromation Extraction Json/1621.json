@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "31-07-2023",
+    "time": "18:25",
+    "receipt_id": "0417",
+    "total_tax": "0.45",
+    "total_amount": "45.47",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Trabzon Ekmek",
+            "tax_rate": "1",
+            "amount": "34.95"
+        },
+        {
+            "quantity": "0.234",
+            "price": "44.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "10.52"
+        }
+    ]
+}

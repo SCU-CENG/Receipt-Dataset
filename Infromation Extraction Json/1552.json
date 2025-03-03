@@ -1,0 +1,20 @@
+{
+    "company": "Özer Giyim",
+    "date": "11-11-2023",
+    "time": "12:53",
+    "receipt_id": "5",
+    "total_tax": "100.00",
+    "total_amount": "1100.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Konfeks.",
+            "tax_rate": "10",
+            "amount": "1100.00"
+        }
+    ]
+}

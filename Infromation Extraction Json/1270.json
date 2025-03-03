@@ -1,0 +1,20 @@
+{
+    "company": "Deniz Mini #Al",
+    "date": "03-08-2021",
+    "time": "14:11",
+    "receipt_id": "0002",
+    "total_tax": "4.44",
+    "total_amount": "60.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sebze",
+            "tax_rate": "8",
+            "amount": "60.00"
+        }
+    ]
+}

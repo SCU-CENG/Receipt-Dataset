@@ -1,0 +1,28 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "20-10-2021",
+    "time": "11:23",
+    "receipt_id": "0045",
+    "total_tax": "18.98",
+    "total_amount": "284.77",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "11.470",
+            "price": "21.95",
+            "category": "",
+            "name": "Banvıt Pılıc Baget K",
+            "tax_rate": "8",
+            "amount": "251.77"
+        },
+        {
+            "quantity": "22.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1.",
+            "tax_rate": "1",
+            "amount": "33.00"
+        }
+    ]
+}

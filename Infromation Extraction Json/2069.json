@@ -1,0 +1,28 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "28-03-2024",
+    "time": "12:43",
+    "receipt_id": "0054",
+    "total_tax": "0.62",
+    "total_amount": "59.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Onyum M Yumurta 30lu",
+            "tax_rate": "1",
+            "amount": "59.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posedı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

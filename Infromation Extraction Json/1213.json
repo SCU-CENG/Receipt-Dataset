@@ -1,0 +1,52 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "28-09-2021",
+    "time": "10:52",
+    "receipt_id": "0046",
+    "total_tax": "2.90",
+    "total_amount": "82.10",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "3.45",
+            "category": "",
+            "name": "Verda Mısır Nısasta",
+            "tax_rate": "8",
+            "amount": "20.70"
+        },
+        {
+            "quantity": "2.00",
+            "price": "6.45",
+            "category": "",
+            "name": "Verda Mısır Nısasta",
+            "tax_rate": "8",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "22.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (SO",
+            "tax_rate": "1",
+            "amount": "33.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

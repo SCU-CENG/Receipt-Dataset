@@ -1,0 +1,20 @@
+{
+    "company": "Mükaş",
+    "date": "07-09-2021",
+    "time": "16:06",
+    "receipt_id": "00117",
+    "total_tax": "9.15",
+    "total_amount": "60.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "10.00",
+            "price": "6.00",
+            "category": "",
+            "name": "Decorev Kokusuz Küllük",
+            "tax_rate": "18",
+            "amount": "60.00"
+        }
+    ]
+}

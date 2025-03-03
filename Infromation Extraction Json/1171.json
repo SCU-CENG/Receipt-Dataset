@@ -1,0 +1,20 @@
+{
+    "company": "Hazar Gurme",
+    "date": "06-06-2023",
+    "time": "14:26",
+    "receipt_id": "0009",
+    "total_tax": "1.36",
+    "total_amount": "137.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "T.Gıda",
+            "tax_rate": "1",
+            "amount": "137.50"
+        }
+    ]
+}

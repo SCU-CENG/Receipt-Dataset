@@ -1,0 +1,20 @@
+{
+    "company": "Vatan Eczanesi",
+    "date": "26-10-2023",
+    "time": "11:38",
+    "receipt_id": "0018",
+    "total_tax": "39.24",
+    "total_amount": "431.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç/İlaç F.Farkı",
+            "tax_rate": "10",
+            "amount": "431.65"
+        }
+    ]
+}

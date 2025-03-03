@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "03-08-2023",
+    "time": "19:11",
+    "receipt_id": "0144",
+    "total_tax": "6.27",
+    "total_amount": "68.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erkek Boxer (L)",
+            "tax_rate": "10",
+            "amount": "34.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erkek Boxer (L)",
+            "tax_rate": "10",
+            "amount": "34.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

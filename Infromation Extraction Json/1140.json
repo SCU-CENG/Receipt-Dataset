@@ -1,0 +1,20 @@
+{
+    "company": "Buğ-Taş Akaryakıt Kum Çakıl",
+    "date": "21-11-2020",
+    "time": "14:38",
+    "receipt_id": "91",
+    "total_tax": "15.25",
+    "total_amount": "100.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "15.570",
+            "price": "6.420",
+            "category": "",
+            "name": "Motorin",
+            "tax_rate": "18",
+            "amount": "100.00"
+        }
+    ]
+}

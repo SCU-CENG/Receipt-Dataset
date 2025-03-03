@@ -1,0 +1,28 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "09-05-2023",
+    "time": "10:53",
+    "receipt_id": "0028",
+    "total_tax": "0.58",
+    "total_amount": "59.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Piyale Makarna Sosu",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Piyale Makarna Sosu",
+            "tax_rate": "1",
+            "amount": "29.50"
+        }
+    ]
+}

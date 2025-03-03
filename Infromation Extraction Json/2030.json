@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "10-02-2024",
+    "time": "14:33",
+    "receipt_id": "0045",
+    "total_tax": "1.09",
+    "total_amount": "106.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dr. Oetker Kakaolu",
+            "tax_rate": "1",
+            "amount": "39.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Soke Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "133.50"
+        }
+    ]
+}

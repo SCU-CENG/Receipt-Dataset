@@ -1,0 +1,60 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "20-04-2023",
+    "time": "17:06",
+    "receipt_id": "0171",
+    "total_tax": "1.44",
+    "total_amount": "145.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cihan D.Süt. 350G",
+            "tax_rate": "1",
+            "amount": "9.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tayaş Elma Şeker",
+            "tax_rate": "1",
+            "amount": "12.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tayaş Elma Şeker",
+            "tax_rate": "1",
+            "amount": "12.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tofim 350 G",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fruıtbons 400 G",
+            "tax_rate": "1",
+            "amount": "38.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Un Buğday5Kgyğnlr",
+            "tax_rate": "1",
+            "amount": "52.50"
+        }
+    ]
+}

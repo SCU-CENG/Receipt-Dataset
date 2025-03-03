@@ -1,0 +1,36 @@
+{
+    "company": "Besler Fresh Market",
+    "date": "22-07-2023",
+    "time": "16:44",
+    "receipt_id": "0190",
+    "total_tax": "0.90",
+    "total_amount": "91.33",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "19.00",
+            "category": "",
+            "name": "Pınar Sut Lt",
+            "tax_rate": "1",
+            "amount": "38.00"
+        },
+        {
+            "quantity": "0.730",
+            "price": "9.95",
+            "category": "",
+            "name": "Salatalık P3",
+            "tax_rate": "1",
+            "amount": "7.26"
+        },
+        {
+            "quantity": "0.855",
+            "price": "11.95",
+            "category": "",
+            "name": "Kavun F29",
+            "tax_rate": "1",
+            "amount": "46.07"
+        }
+    ]
+}

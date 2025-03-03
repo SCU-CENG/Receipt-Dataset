@@ -1,0 +1,36 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti",
+    "date": "24-10-2021",
+    "time": "14:09",
+    "receipt_id": "0108",
+    "total_tax": "9.94",
+    "total_amount": "134.15",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.005",
+            "price": "63.00",
+            "category": "",
+            "name": "Sıvas Kofte",
+            "tax_rate": "8",
+            "amount": "63.32"
+        },
+        {
+            "quantity": "2.010",
+            "price": "33.00",
+            "category": "",
+            "name": "Mangallık Tavuk Kanat",
+            "tax_rate": "8",
+            "amount": "66.33"
+        },
+        {
+            "quantity": "3.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "8",
+            "amount": "4.50"
+        }
+    ]
+}

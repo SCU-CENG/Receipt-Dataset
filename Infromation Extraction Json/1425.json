@@ -1,0 +1,300 @@
+{
+    "company": "Bım",
+    "date": "13-04-2023",
+    "time": "17:45",
+    "receipt_id": "0157",
+    "total_tax": "23.55",
+    "total_amount": "1202.82",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "14.50",
+            "category": "",
+            "name": "Çikolatabınbadem 80G",
+            "tax_rate": "1",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "6.00",
+            "price": "8.75",
+            "category": "",
+            "name": "Su 5L",
+            "tax_rate": "1",
+            "amount": "52.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol. Sütlü80Gbuono",
+            "tax_rate": "1",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol.Fındk80Gbuono",
+            "tax_rate": "1",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol.Şkr İlavsz100G",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol.Şkr İlavsz100G",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kızar.Yerfıstığı150G",
+            "tax_rate": "1",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kızar.Yerfıstığı150G",
+            "tax_rate": "1",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hurma Mebrum 250 G",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bademici Kav/Çiğ150G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hurma Mebrum 250 G",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hurma Mebrum 250 G",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hurma Mebrum 250 G",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Jumboantepfıstık300G",
+            "tax_rate": "1",
+            "amount": "107.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Jumboantepfıstık300G",
+            "tax_rate": "1",
+            "amount": "107.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kavrulmuş Kaju 150G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fındık içi 150 G",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kızar.Yerfıstığı150G",
+            "tax_rate": "1",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Türk Kahvesi 100G",
+            "tax_rate": "1",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bademiçi Kav/Çiğ150G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Demlikpoşetçay100Lü",
+            "tax_rate": "1",
+            "amount": "49.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fındık İçi 150 G",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kabartma Tozu 10*10G",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Türk Kahvesi 100G",
+            "tax_rate": "1",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kavrulmuş Kaju 150G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şekerdraje230Ghazine",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "K.Hamur Mayası 5*11G",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baldo Pirinç 2.5Kg",
+            "tax_rate": "1",
+            "amount": "73.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Peçete 200Lü Blume",
+            "tax_rate": "8",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "1.825",
+            "price": "9.90",
+            "category": "",
+            "name": "Limon Kg",
+            "tax_rate": "1",
+            "amount": "18.07"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bitki Toprağı 10 L",
+            "tax_rate": "18",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bitki Toprağı 10 L",
+            "tax_rate": "18",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Havlu Kağıt 12Li",
+            "tax_rate": "8",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mantar 400G",
+            "tax_rate": "1",
+            "amount": "19.75"
+        }
+    ]
+}

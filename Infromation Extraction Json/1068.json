@@ -1,0 +1,28 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "04-05-2023",
+    "time": "17:20",
+    "receipt_id": "0146",
+    "total_tax": "0.82",
+    "total_amount": "82.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.998",
+            "price": "74.00",
+            "category": "",
+            "name": "Pılıc Kanat",
+            "tax_rate": "1",
+            "amount": "73.85"
+        },
+        {
+            "quantity": "2.00",
+            "price": "4.50",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "9.00"
+        }
+    ]
+}

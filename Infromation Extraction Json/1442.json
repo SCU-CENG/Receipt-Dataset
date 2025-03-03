@@ -1,0 +1,28 @@
+{
+    "company": "Şok Marketler Tic. A.Ş.",
+    "date": "29-04-2023",
+    "time": "18:39",
+    "receipt_id": "0149",
+    "total_tax": "3.03",
+    "total_amount": "157.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Evin Ayçiçek Yağı P",
+            "tax_rate": "1",
+            "amount": "134.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mimtax Sıvı Arap Sab",
+            "tax_rate": "8",
+            "amount": "22.90"
+        }
+    ]
+}

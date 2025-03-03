@@ -1,0 +1,20 @@
+{
+    "company": "Nz Oyuncak Gıda",
+    "date": "11-02-2024",
+    "time": "12:40",
+    "receipt_id": "0036",
+    "total_tax": "25.00",
+    "total_amount": "150.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Oyun Bedeli",
+            "tax_rate": "20",
+            "amount": "150.00"
+        }
+    ]
+}

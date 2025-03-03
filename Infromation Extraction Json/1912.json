@@ -1,0 +1,20 @@
+{
+    "company": "Niktaş Gıda San Tic. A.Ş.",
+    "date": "13-12-2023",
+    "time": "14:09",
+    "receipt_id": "0188",
+    "total_tax": "1.73",
+    "total_amount": "175.09",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meram Un 10 Kg",
+            "tax_rate": "1",
+            "amount": "108.50"
+        }
+    ]
+}

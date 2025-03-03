@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "12-05-2023",
+    "time": "11:53",
+    "receipt_id": "0027",
+    "total_tax": "0.12",
+    "total_amount": "11.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Icım Sut 180Ml Alpel",
+            "tax_rate": "1",
+            "amount": "11.90"
+        }
+    ]
+}

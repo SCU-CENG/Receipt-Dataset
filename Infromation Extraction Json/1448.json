@@ -1,0 +1,20 @@
+{
+    "company": "Nadır Un Mahsulat",
+    "date": "01-05-2023",
+    "time": "09:09",
+    "receipt_id": "2",
+    "total_tax": "0.00",
+    "total_amount": "1000.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kepek",
+            "tax_rate": "0",
+            "amount": "1000.00"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "company": "Carrefoursa Suruapı Exen Sppper",
+    "date": "12-10-2021",
+    "time": "20:07",
+    "receipt_id": "0351",
+    "total_tax": "1.40",
+    "total_amount": "18.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "1.85",
+            "category": "",
+            "name": "Beypazarı Elma 200 M",
+            "tax_rate": "8",
+            "amount": "11.10"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Dıscount S",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Dıscount S",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dıdo 35Gr",
+            "tax_rate": "8",
+            "amount": "1.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dıdo 35Gr",
+            "tax_rate": "8",
+            "amount": "1.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fırst 5S Yesılnane 1",
+            "tax_rate": "8",
+            "amount": "1.45"
+        }
+    ]
+}

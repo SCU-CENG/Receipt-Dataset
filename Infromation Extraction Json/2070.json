@@ -1,0 +1,20 @@
+{
+    "company": "Gross 58 Market",
+    "date": "13-03-2024",
+    "time": "18:07",
+    "receipt_id": "0322",
+    "total_tax": "0.30",
+    "total_amount": "29.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-84-Kıvır",
+            "tax_rate": "1",
+            "amount": "29.95"
+        }
+    ]
+}

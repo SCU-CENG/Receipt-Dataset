@@ -1,0 +1,28 @@
+{
+    "company": "T.M.O Genel Müdürlüğü",
+    "date": "08-09-2021",
+    "time": "16:12",
+    "receipt_id": "0205",
+    "total_tax": "52.41",
+    "total_amount": "707.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "30.00",
+            "price": "14.00",
+            "category": "",
+            "name": "Nohut İri Boy 2Kg",
+            "tax_rate": "8",
+            "amount": "420.00"
+        },
+        {
+            "quantity": "10.00",
+            "price": "28.75",
+            "category": "",
+            "name": "Pirinç Luna Cl",
+            "tax_rate": "8",
+            "amount": "287.50"
+        }
+    ]
+}

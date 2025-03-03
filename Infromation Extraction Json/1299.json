@@ -1,0 +1,20 @@
+{
+    "company": "Pehlivanlar Yapı Malzem.",
+    "date": "28-09-2021",
+    "time": "10:20",
+    "receipt_id": "0002",
+    "total_tax": "2.29",
+    "total_amount": "15.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İnşaat Malzemesi",
+            "tax_rate": "18",
+            "amount": "15.00"
+        }
+    ]
+}

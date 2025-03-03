@@ -1,0 +1,20 @@
+{
+    "company": "Arçelik Bayii",
+    "date": "13-11-2023",
+    "time": "15:34",
+    "receipt_id": "22",
+    "total_tax": "1500.00",
+    "total_amount": "9000.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Beyaz Eş",
+            "tax_rate": "20",
+            "amount": "9000.00"
+        }
+    ]
+}

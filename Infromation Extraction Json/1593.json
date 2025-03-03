@@ -1,0 +1,28 @@
+{
+    "company": "Big Chefs",
+    "date": "12-11-2021",
+    "time": "20:17",
+    "receipt_id": "0069",
+    "total_tax": "6.11",
+    "total_amount": "82.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "16.50",
+            "category": "",
+            "name": "Cola Sekersız",
+            "tax_rate": "8",
+            "amount": "33.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fettuccı.Alfredo",
+            "tax_rate": "8",
+            "amount": "49.50"
+        }
+    ]
+}

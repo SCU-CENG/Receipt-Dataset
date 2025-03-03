@@ -1,0 +1,28 @@
+{
+    "company": "Coşmanlar",
+    "date": "15-10-2021",
+    "time": "14:36",
+    "receipt_id": "00083",
+    "total_tax": "5.77",
+    "total_amount": "77.86",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.712",
+            "price": "80.00",
+            "category": "",
+            "name": "Tuzsuz Tereyag",
+            "tax_rate": "8",
+            "amount": "56.96"
+        },
+        {
+            "quantity": "0.550",
+            "price": "38.00",
+            "category": "",
+            "name": "M.Bırlık Mega Zeytin",
+            "tax_rate": "8",
+            "amount": "20.90"
+        }
+    ]
+}

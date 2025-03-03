@@ -1,0 +1,20 @@
+{
+    "company": "Bitter Pastanesi",
+    "date": "07-05-2023",
+    "time": "21:04",
+    "receipt_id": "11",
+    "total_tax": "0.64",
+    "total_amount": "65.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yaş Pasta",
+            "tax_rate": "1",
+            "amount": "65.00"
+        }
+    ]
+}

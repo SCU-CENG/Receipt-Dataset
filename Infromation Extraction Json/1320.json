@@ -1,0 +1,20 @@
+{
+    "company": "Bıg Baker",
+    "date": "14-10-2021",
+    "time": "12:36",
+    "receipt_id": "0022",
+    "total_tax": "2.81",
+    "total_amount": "38.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "8",
+            "amount": "38.00"
+        }
+    ]
+}

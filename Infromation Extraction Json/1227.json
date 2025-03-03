@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "27-09-2021",
+    "time": "18:53",
+    "receipt_id": "0428",
+    "total_tax": "0.70",
+    "total_amount": "12.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek Tekli",
+            "tax_rate": "1",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pat.Cipsi 150G/13",
+            "tax_rate": "8",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pat.Cipsi 150G/13",
+            "tax_rate": "8",
+            "amount": "4.50"
+        }
+    ]
+}

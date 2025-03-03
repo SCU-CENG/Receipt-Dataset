@@ -1,0 +1,52 @@
+{
+    "company": "A101 Yenı Magazacılık A Ş.",
+    "date": "09-05-2023",
+    "time": "10:48",
+    "receipt_id": "0035",
+    "total_tax": "4.67",
+    "total_amount": "140.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fanta 2 L",
+            "tax_rate": "8",
+            "amount": "21.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Cola 2.5 L",
+            "tax_rate": "8",
+            "amount": "29.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "24.50",
+            "category": "",
+            "name": "Birşah Krema 20",
+            "tax_rate": "1",
+            "amount": "73.50"
+        },
+        {
+            "quantity": "4.00",
+            "price": "4.00",
+            "category": "",
+            "name": "Ekmek Sofra",
+            "tax_rate": "1",
+            "amount": "16.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

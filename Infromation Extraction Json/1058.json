@@ -1,0 +1,36 @@
+{
+    "company": "Kanguru Mağazası",
+    "date": "20-01-2022",
+    "time": "15:30",
+    "receipt_id": "0873",
+    "total_tax": "x",
+    "total_amount": "247",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Et",
+            "tax_rate": "20",
+            "amount": "144"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meyve",
+            "tax_rate": "10",
+            "amount": "44"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Deterjan",
+            "tax_rate": "18",
+            "amount": "59"
+        }
+    ]
+}

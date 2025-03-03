@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "23-07-2023",
+    "time": "10:45",
+    "receipt_id": "0016",
+    "total_tax": "0.32",
+    "total_amount": "32.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "10.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Besler Yumurta Tane",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "7.00"
+        }
+    ]
+}

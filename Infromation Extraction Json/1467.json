@@ -1,0 +1,20 @@
+{
+    "company": "Türkyıldız Petrolcülük",
+    "date": "07-05-2023",
+    "time": "13:11",
+    "receipt_id": "0038",
+    "total_tax": "15.26",
+    "total_amount": "100.02",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "9.72",
+            "price": "10.290",
+            "category": "",
+            "name": "Otogaz",
+            "tax_rate": "18",
+            "amount": "100.02"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "26-10-2021",
+    "time": "18:36",
+    "receipt_id": "0141",
+    "total_tax": "2.29",
+    "total_amount": "36.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "1.75",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1.",
+            "tax_rate": "1",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ensarbey Pezık Tursu",
+            "tax_rate": "8",
+            "amount": "29.95"
+        }
+    ]
+}

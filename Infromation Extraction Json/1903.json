@@ -1,0 +1,20 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "15-03-2024",
+    "time": "18:25",
+    "receipt_id": "0163",
+    "total_tax": "0.82",
+    "total_amount": "82.48",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.180",
+            "price": "69.90",
+            "category": "",
+            "name": "Muz İthal",
+            "tax_rate": "1",
+            "amount": "82.48"
+        }
+    ]
+}

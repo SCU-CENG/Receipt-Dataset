@@ -1,0 +1,60 @@
+{
+    "company": "Zula",
+    "date": "04-10-2021",
+    "time": "12:58",
+    "receipt_id": "0006",
+    "total_tax": "15.11",
+    "total_amount": "204.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Edizione 100Gr",
+            "tax_rate": "8",
+            "amount": "40.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "38.00",
+            "category": "",
+            "name": "Basic 100Gr",
+            "tax_rate": "8",
+            "amount": "76.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sade Patates Kızartm",
+            "tax_rate": "8",
+            "amount": "16.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "12.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Basic 100Gr",
+            "tax_rate": "8",
+            "amount": "38.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "San Sebastian",
+            "tax_rate": "8",
+            "amount": "22.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Günaydın Çamlıca Restoran Gıda",
+    "date": "22-10-2021",
+    "time": "12:47",
+    "receipt_id": "0046",
+    "total_tax": "3.20",
+    "total_amount": "43.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pılav Tvk.Nohut",
+            "tax_rate": "8",
+            "amount": "12.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasar Buhara",
+            "tax_rate": "8",
+            "amount": "29.50"
+        }
+    ]
+}

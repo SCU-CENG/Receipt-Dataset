@@ -1,0 +1,20 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "02-03-2024",
+    "time": "17:40",
+    "receipt_id": "282",
+    "total_tax": "0.54",
+    "total_amount": "54.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Kuru Dut Map 250",
+            "tax_rate": "1",
+            "amount": "54.90"
+        }
+    ]
+}

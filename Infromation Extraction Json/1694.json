@@ -1,0 +1,20 @@
+{
+    "company": "Karalar Ankara Mobilya",
+    "date": "02-09-2023",
+    "time": "12:52",
+    "receipt_id": "50",
+    "total_tax": "114.09",
+    "total_amount": "1255.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Halı",
+            "tax_rate": "10",
+            "amount": "1255.00"
+        }
+    ]
+}

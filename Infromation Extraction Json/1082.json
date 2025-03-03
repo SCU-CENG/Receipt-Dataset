@@ -1,0 +1,52 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "29-04-2023",
+    "time": "14:36",
+    "receipt_id": "0148",
+    "total_tax": "0.58",
+    "total_amount": "58.32",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.496",
+            "price": "13.95",
+            "category": "",
+            "name": "Dgr-Domates Dıger Kg",
+            "tax_rate": "1",
+            "amount": "20.87"
+        },
+        {
+            "quantity": "0.884",
+            "price": "18.95",
+            "category": "",
+            "name": "Mnv-Havuc Cıtır",
+            "tax_rate": "1",
+            "amount": "16.75"
+        },
+        {
+            "quantity": "0.440",
+            "price": "9.95",
+            "category": "",
+            "name": "Dgr-Bıber Dolma",
+            "tax_rate": "1",
+            "amount": "4.38"
+        },
+        {
+            "quantity": "1.072",
+            "price": "7.95",
+            "category": "",
+            "name": "Dgr-Kabak Kg",
+            "tax_rate": "1",
+            "amount": "8.52"
+        },
+        {
+            "quantity": "0.460",
+            "price": "16.95",
+            "category": "",
+            "name": "Dgr-Bıber Acı",
+            "tax_rate": "1",
+            "amount": "7.80"
+        }
+    ]
+}

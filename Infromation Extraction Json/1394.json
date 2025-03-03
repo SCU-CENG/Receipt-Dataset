@@ -1,0 +1,20 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "01-09-2021",
+    "time": "10:28",
+    "receipt_id": "0040",
+    "total_tax": "0.22",
+    "total_amount": "22.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "15.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "22.50"
+        }
+    ]
+}

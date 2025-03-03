@@ -1,0 +1,20 @@
+{
+    "company": "Öz Sefa Et Ürünleri",
+    "date": "23-12-2023",
+    "time": "16:44",
+    "receipt_id": "0011",
+    "total_tax": "2.77",
+    "total_amount": "280.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Et",
+            "tax_rate": "1",
+            "amount": "280.00"
+        }
+    ]
+}

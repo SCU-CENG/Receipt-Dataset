@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "16-07-2023",
+    "time": "12:34",
+    "receipt_id": "0110",
+    "total_tax": "0.48",
+    "total_amount": "44.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tukas Cıcek Bamya 53",
+            "tax_rate": "1",
+            "amount": "43.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

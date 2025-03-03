@@ -1,0 +1,28 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "01-10-2021",
+    "time": "10:56",
+    "receipt_id": "0057",
+    "total_tax": "7.89",
+    "total_amount": "122.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "12.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1,",
+            "tax_rate": "1",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "2.170",
+            "price": "47.95",
+            "category": "",
+            "name": "Malatya Tereyagı Kg",
+            "tax_rate": "8",
+            "amount": "104.05"
+        }
+    ]
+}

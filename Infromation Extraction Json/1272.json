@@ -1,0 +1,164 @@
+{
+    "company": "58 Besler Market",
+    "date": "06-09-2021",
+    "time": "16:42",
+    "receipt_id": "0110",
+    "total_tax": "20.79",
+    "total_amount": "255.31",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nestle Gold Corn Fla",
+            "tax_rate": "8",
+            "amount": "15.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Kell.1000Gr C.",
+            "tax_rate": "8",
+            "amount": "18.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pantene Samp.500Ml S",
+            "tax_rate": "18",
+            "amount": "17.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cook Pısırme Kagıdı",
+            "tax_rate": "18",
+            "amount": "5.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Ikram 3Lu Cıko",
+            "tax_rate": "8",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Bıskrem 200Gr",
+            "tax_rate": "8",
+            "amount": "4.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Efdal Gezen Yumurta",
+            "tax_rate": "8",
+            "amount": "33.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Mak. 500Gr Bu",
+            "tax_rate": "8",
+            "amount": "3.65"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Mak. 500Gr Ma",
+            "tax_rate": "8",
+            "amount": "3.65"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Mak. 500Gr In",
+            "tax_rate": "8",
+            "amount": "3.65"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas Ter.Kahvaltılı",
+            "tax_rate": "8",
+            "amount": "16.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Penguen Tursu 300Gr",
+            "tax_rate": "8",
+            "amount": "6.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Doganay Sırke Uzum 5",
+            "tax_rate": "8",
+            "amount": "4.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bızım Ketcap+Mayonez",
+            "tax_rate": "8",
+            "amount": "15.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Icım Sut 1Lt T.Yaglı",
+            "tax_rate": "8",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erpılıc Tabaklı Eko",
+            "tax_rate": "8",
+            "amount": "46.41"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Labne 180Gr*3",
+            "tax_rate": "8",
+            "amount": "22.45"
+        },
+        {
+            "quantity": "6.00",
+            "price": "1.00",
+            "category": "",
+            "name": "Kızılay Sade Soda 20",
+            "tax_rate": "8",
+            "amount": "6.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Besler K. Poset",
+            "tax_rate": "18",
+            "amount": "0.75"
+        }
+    ]
+}

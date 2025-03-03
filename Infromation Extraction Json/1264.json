@@ -1,0 +1,164 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süper",
+    "date": "26-09-2021",
+    "time": "11:39",
+    "receipt_id": "0072",
+    "total_tax": "14.13",
+    "total_amount": "182.10",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lıpton Mango 1 Lt Pe",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uno Tam Bugday Unlu",
+            "tax_rate": "1",
+            "amount": "10.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nutella 750Gr",
+            "tax_rate": "8",
+            "amount": "29.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Gof",
+            "tax_rate": "8",
+            "amount": "1.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Gof",
+            "tax_rate": "8",
+            "amount": "1.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Gof",
+            "tax_rate": "8",
+            "amount": "1.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Gof",
+            "tax_rate": "8",
+            "amount": "1.45"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.25",
+            "category": "",
+            "name": "Carrefour Dana Macar",
+            "tax_rate": "8",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "4.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Carrefour Hındı Sala",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Altınbasak Grı",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Guvenler Yp.Dnk.Fran",
+            "tax_rate": "1",
+            "amount": "4.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Raya Organık Yumurta",
+            "tax_rate": "8",
+            "amount": "19.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Voınmed 50Lı Sıyah Y",
+            "tax_rate": "8",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpak Yag Emıcı 6Lı",
+            "tax_rate": "18",
+            "amount": "37.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Evony 50Lı Tellı 3 K",
+            "tax_rate": "8",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Beyaz Peynır 50",
+            "tax_rate": "8",
+            "amount": "20.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

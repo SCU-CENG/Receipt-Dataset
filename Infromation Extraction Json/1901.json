@@ -1,0 +1,44 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "07-03-2024",
+    "time": "20:02",
+    "receipt_id": "0304",
+    "total_tax": "11.32",
+    "total_amount": "511.39",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.775",
+            "price": "169.90",
+            "category": "",
+            "name": "Cıpura 600/800 Kg",
+            "tax_rate": "1",
+            "amount": "471.47"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Porcoz Eks.Gc 1000Ml",
+            "tax_rate": "20",
+            "amount": "52.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "20",
+            "amount": "-13.23"
+        }
+    ]
+}

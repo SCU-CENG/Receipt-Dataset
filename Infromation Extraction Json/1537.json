@@ -1,0 +1,20 @@
+{
+    "company": "Şirin Et Pazarı",
+    "date": "17-10-2023",
+    "time": "14:20",
+    "receipt_id": "0011",
+    "total_tax": "1.03",
+    "total_amount": "104.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tavuk",
+            "tax_rate": "1",
+            "amount": "104.00"
+        }
+    ]
+}

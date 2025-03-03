@@ -1,0 +1,20 @@
+{
+    "company": "Günaydın Çamlıca Restoran Gıda",
+    "date": "01-10-2021",
+    "time": "12:20",
+    "receipt_id": "0014",
+    "total_tax": "2.40",
+    "total_amount": "32.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Y.Dnr 100",
+            "tax_rate": "8",
+            "amount": "36.00"
+        }
+    ]
+}

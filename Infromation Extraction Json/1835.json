@@ -1,0 +1,28 @@
+{
+    "company": "3E Gıda Tarım Ürün.",
+    "date": "08-10-2021",
+    "time": "12:14",
+    "receipt_id": "0008",
+    "total_tax": "2.73",
+    "total_amount": "36.81",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şefin Tavası",
+            "tax_rate": "8",
+            "amount": "34.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "5.95"
+        }
+    ]
+}

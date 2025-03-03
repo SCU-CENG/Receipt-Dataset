@@ -1,0 +1,108 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "15-09-2021",
+    "time": "10:46",
+    "receipt_id": "0054",
+    "total_tax": "22.32",
+    "total_amount": "195.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temizlik Bezi 5 L",
+            "tax_rate": "8",
+            "amount": "16.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temizlik Bezi 5 L",
+            "tax_rate": "8",
+            "amount": "16.90"
+        },
+        {
+            "quantity": "3.00",
+            "price": "16.90",
+            "category": "",
+            "name": "Temizlik Bezi 5 L",
+            "tax_rate": "8",
+            "amount": "50.70"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.75",
+            "category": "",
+            "name": "Cam Temizleyci 75",
+            "tax_rate": "18",
+            "amount": "11.50"
+        },
+        {
+            "quantity": "5.00",
+            "price": "5.75",
+            "category": "",
+            "name": "Cam Temizleyci 75",
+            "tax_rate": "18",
+            "amount": "28.75"
+        },
+        {
+            "quantity": "3.00",
+            "price": "5.75",
+            "category": "",
+            "name": "Cam Temizleyci 75",
+            "tax_rate": "18",
+            "amount": "17.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamaşır Suyu 1,25",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamaşır Suyu 1,25",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamaşır Suyu 1,25",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mikrofiber Bez 3L",
+            "tax_rate": "8",
+            "amount": "11.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

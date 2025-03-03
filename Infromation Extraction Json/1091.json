@@ -1,0 +1,20 @@
+{
+    "company": "Sıla Veteriner Kliniği",
+    "date": "17-05-2023",
+    "time": "09:13",
+    "receipt_id": "1",
+    "total_tax": "61.02",
+    "total_amount": "400.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pet Shop",
+            "tax_rate": "18",
+            "amount": "400.00"
+        }
+    ]
+}

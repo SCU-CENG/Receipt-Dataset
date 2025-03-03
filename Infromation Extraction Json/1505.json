@@ -1,0 +1,37 @@
+{
+    "company": "Lcw-Waikiki",
+    "date": "10-07-2023",
+    "time": "16:33",
+    "receipt_id": "9",
+    "total_tax": "23.67",
+    "total_amount": "260.23",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Tsh.Dubar",
+            "tax_rate": "10",
+            "amount": "129.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Tsh.Dubar",
+            "tax_rate": "10",
+            "amount": "129.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kk.Tsh.Dubar",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+
+    ]
+}

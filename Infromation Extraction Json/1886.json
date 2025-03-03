@@ -1,0 +1,20 @@
+{
+    "company": "Aydın İletişim",
+    "date": "01-03-2024",
+    "time": "12:00",
+    "receipt_id": "0024",
+    "total_tax": "",
+    "total_amount": "237.36",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tahsil Edilen Faturanın",
+            "tax_rate": "",
+            "amount": "237.36"
+        }
+    ]
+}

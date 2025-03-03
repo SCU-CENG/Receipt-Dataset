@@ -1,0 +1,212 @@
+{
+    "company": "Ozpas Alısverğs Merkezı",
+    "date": "06-05-2023",
+    "time": "17:31",
+    "receipt_id": "000104",
+    "total_tax": "51.66",
+    "total_amount": "1795.48",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vındex Ovma Telı 3 L",
+            "tax_rate": "18",
+            "amount": "12.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Poset",
+            "tax_rate": "18",
+            "amount": "0.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Omo Matık Sıvı 1690M",
+            "tax_rate": "8",
+            "amount": "89.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Dem Ps.40.Lı",
+            "tax_rate": "1",
+            "amount": "24.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Tıryakı Cay 2",
+            "tax_rate": "1",
+            "amount": "170.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Banada 700 Gr",
+            "tax_rate": "1",
+            "amount": "62.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker 1429-5 Sutlu K",
+            "tax_rate": "1",
+            "amount": "11.20"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker 1366-08 Halley",
+            "tax_rate": "1",
+            "amount": "19.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru Sab.150 Gr Natu",
+            "tax_rate": "8",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı 28725 Canga Sut.",
+            "tax_rate": "1",
+            "amount": "5.05"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı 35110 Burcak 3 L",
+            "tax_rate": "1",
+            "amount": "22.68"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Mak.500Gr Arp",
+            "tax_rate": "1",
+            "amount": "10.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dr.Oetker Instant Ma",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Domestos Cam.Suyu 32",
+            "tax_rate": "8",
+            "amount": "65.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lıpton Yellow Label",
+            "tax_rate": "1",
+            "amount": "95.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker 260-3 Sutlu 70",
+            "tax_rate": "1",
+            "amount": "14.40"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas Kasar 2000Gr",
+            "tax_rate": "1",
+            "amount": "380.00"
+        },
+        {
+            "quantity": "10.00",
+            "price": "15.00",
+            "category": "",
+            "name": "Ozkaynak Su 10 Lt",
+            "tax_rate": "1",
+            "amount": "150.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sınangıl Un 8 Kg",
+            "tax_rate": "1",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Asperox Sarı Guc 1 L",
+            "tax_rate": "8",
+            "amount": "28.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Zekı Baldo Pırınc 5",
+            "tax_rate": "1",
+            "amount": "230.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "50.00",
+            "category": "",
+            "name": "Aurıs Sarj Samsung 2",
+            "tax_rate": "18",
+            "amount": "100.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Perwoll 2,7 Lt Renkl",
+            "tax_rate": "8",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "3.690",
+            "price": "16.90",
+            "category": "",
+            "name": "Bkl Bulgur Pılavlık",
+            "tax_rate": "1",
+            "amount": "62.36"
+        },
+        {
+            "quantity": "2.002",
+            "price": "20.00",
+            "category": "",
+            "name": "Bkl Cın Mısırı (Kg)",
+            "tax_rate": "1",
+            "amount": "40.04"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "Micros Tıcaret A.S.",
+    "date": "30-08-2023",
+    "time": "19:51",
+    "receipt_id": "0340",
+    "total_tax": "0.68",
+    "total_amount": "68.51",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.340",
+            "price": "33.90",
+            "category": "",
+            "name": "Elma Gala Kg",
+            "tax_rate": "1",
+            "amount": "45.43"
+        },
+        {
+            "quantity": "0.695",
+            "price": "29.90",
+            "category": "",
+            "name": "Uzum Cekırdeksız",
+            "tax_rate": "1",
+            "amount": "20.78"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Kanky Bulut",
+            "tax_rate": "1",
+            "amount": "7.50"
+        }, 
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uzum Cekırdeksız",
+            "tax_rate": "1",
+            "amount": "-5.20"
+        }
+    ]
+}

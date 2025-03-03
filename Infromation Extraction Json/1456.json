@@ -1,0 +1,76 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "29-04-2023",
+    "time": "16:06",
+    "receipt_id": "0257",
+    "total_tax": "44.12",
+    "total_amount": "412.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Krempeynircheddr300G",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kuru Köfte Dana 400G",
+            "tax_rate": "1",
+            "amount": "89.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İnegöl Köftedana400G",
+            "tax_rate": "1",
+            "amount": "89.00"
+        },
+        {
+            "quantity": "0.649",
+            "price": "104.90",
+            "category": "",
+            "name": "Piliç Baget Lale Kg",
+            "tax_rate": "1",
+            "amount": "68.08"
+        },
+        {
+            "quantity": "1.053",
+            "price": "69.90",
+            "category": "",
+            "name": "Piliç Baget Tazem Kg",
+            "tax_rate": "1",
+            "amount": "73.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eritme Peynir 250G",
+            "tax_rate": "1",
+            "amount": "39.50"
+        },
+        {
+            "quantity": "1.725",
+            "price": "13.75",
+            "category": "",
+            "name": "Limon Kg",
+            "tax_rate": "1",
+            "amount": "23.72"
+        }
+    ]
+}

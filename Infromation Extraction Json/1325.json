@@ -1,0 +1,44 @@
+{
+    "company": "Anadolu Restoran",
+    "date": "27-10-2021",
+    "time": "18:21",
+    "receipt_id": "0515",
+    "total_tax": "3.33",
+    "total_amount": "45.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Milli Burger M1",
+            "tax_rate": "8",
+            "amount": "29.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Orta Seft.Fusetea",
+            "tax_rate": "8",
+            "amount": "13.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bufalo Sos",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ranch Sos",
+            "tax_rate": "8",
+            "amount": "1.50"
+        }
+    ]
+}

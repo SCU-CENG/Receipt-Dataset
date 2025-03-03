@@ -1,0 +1,20 @@
+{
+    "company": "Nival Bitkisel Ürünler",
+    "date": "20-02-2024",
+    "time": "15:56",
+    "receipt_id": "0018",
+    "total_tax": "1.04",
+    "total_amount": "105.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temelgıda",
+            "tax_rate": "1",
+            "amount": "105.00"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "company": "Mega Depo Avm",
+    "date": "27-02-2024",
+    "time": "10:34",
+    "receipt_id": "MEGA229417",
+    "total_tax": "",
+    "total_amount": "215.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "60.00",
+            "category": "",
+            "name": "Bambu K Cam",
+            "tax_rate": "",
+            "amount": "60.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "70.00",
+            "category": "",
+            "name": "Krd Bambu Kapaklı",
+            "tax_rate": "",
+            "amount": "70.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "30.00",
+            "category": "",
+            "name": "Mega Depo Avm Urun",
+            "tax_rate": "",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "20.00",
+            "category": "",
+            "name": "Soyacak Fenomen",
+            "tax_rate": "",
+            "amount": "20.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "35.00",
+            "category": "",
+            "name": "Koltuk Sehbası",
+            "tax_rate": "",
+            "amount": "35.00"
+        }
+    ]
+}

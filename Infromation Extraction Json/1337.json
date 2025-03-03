@@ -1,0 +1,44 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "14-10-2021",
+    "time": "19:42",
+    "receipt_id": "0159",
+    "total_tax": "2.63",
+    "total_amount": "35.48",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çorba",
+            "tax_rate": "8",
+            "amount": "6.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kıymalı",
+            "tax_rate": "8",
+            "amount": "19.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ilave Peynır",
+            "tax_rate": "8",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "4.50"
+        }
+    ]
+}

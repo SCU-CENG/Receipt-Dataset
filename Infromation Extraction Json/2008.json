@@ -1,0 +1,52 @@
+{
+    "company": "Lcw - Waikiki",
+    "date": "20-01-2024",
+    "time": "15:19",
+    "receipt_id": "0204",
+    "total_tax": "97.45",
+    "total_amount": "1071.96",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Crps.7 Lı Bobe",
+            "tax_rate": "10",
+            "amount": "179.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kzk,Cano",
+            "tax_rate": "10",
+            "amount": "329.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uk.Bdy.Haylaz-3W",
+            "tax_rate": "10",
+            "amount": "279.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uk.Bdy,Somon-3W",
+            "tax_rate": "10",
+            "amount": "279.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Normal Hediye Pkt M",
+            "tax_rate": "10",
+            "amount": "2.00"
+        }
+    ]
+}

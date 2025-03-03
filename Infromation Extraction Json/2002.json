@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "13-01-2024",
+    "time": "17:07",
+    "receipt_id": "0078",
+    "total_tax": "0.82",
+    "total_amount": "82.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Birşah 200Ml Kr",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nestle Crunch 1",
+            "tax_rate": "1",
+            "amount": "99.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nestle Crunch 10*31",
+            "tax_rate": "1",
+            "amount": "-49.60"
+        }
+    ]
+}

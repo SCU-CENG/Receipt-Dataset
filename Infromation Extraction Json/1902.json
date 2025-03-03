@@ -1,0 +1,20 @@
+{
+    "company": "Gross 58 Market",
+    "date": "04-03-2024",
+    "time": "18:18",
+    "receipt_id": "0070",
+    "total_tax": "0.16",
+    "total_amount": "16.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "3.0",
+            "price": "5.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "16.50"
+        }
+    ]
+}

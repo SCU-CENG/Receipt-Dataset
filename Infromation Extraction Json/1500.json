@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "06-06-2023",
+    "time": "19:38",
+    "receipt_id": "0248",
+    "total_tax": "0.00",
+    "total_amount": "19.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "3. Sınıf Matematik H",
+            "tax_rate": "0",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "3. Sınıf Matematik H",
+            "tax_rate": "0",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "2. Sınıf Matematik H",
+            "tax_rate": "0",
+            "amount": "5.95"
+        }
+    ]
+}

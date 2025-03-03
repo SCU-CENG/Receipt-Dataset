@@ -1,0 +1,20 @@
+{
+    "company": "Paulmark",
+    "date": "17-06-2023",
+    "time": "16:00",
+    "receipt_id": "000045",
+    "total_tax": "7.41",
+    "total_amount": "99.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "R-7508 Erkek Cocuk T",
+            "tax_rate": "8",
+            "amount": "99.99"
+        }
+    ]
+}

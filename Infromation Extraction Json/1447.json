@@ -1,0 +1,20 @@
+{
+    "company": "Nuri Yılmaz Akaryakıt İnş.",
+    "date": "01-05-2023",
+    "time": "10:24",
+    "receipt_id": "4",
+    "total_tax": "20.59",
+    "total_amount": "135.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.650",
+            "price": "20.300",
+            "category": "",
+            "name": "Motorın",
+            "tax_rate": "18",
+            "amount": "135.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "58 Besler Market",
+    "date": "02-06-2023",
+    "time": "16:46",
+    "receipt_id": "0116",
+    "total_tax": "0.41",
+    "total_amount": "41.53",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.084",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-22-Elma",
+            "tax_rate": "1",
+            "amount": "21.63"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-89-Mayda",
+            "tax_rate": "1",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-88-Yesıl",
+            "tax_rate": "1",
+            "amount": "12.95"
+        }
+    ]
+}

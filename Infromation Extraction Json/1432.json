@@ -1,0 +1,60 @@
+{
+    "company": "Tokat Erenler Gıda Tar.Tem.Amb.İnş.",
+    "date": "20-04-2023",
+    "time": "11:50",
+    "receipt_id": "139",
+    "total_tax": "1.91",
+    "total_amount": "189.46",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.894",
+            "price": "49.95",
+            "category": "",
+            "name": "Tariş Kuru Üzüm Kg",
+            "tax_rate": "1",
+            "amount": "44.66"
+        },
+        {
+            "quantity": "0.506",
+            "price": "69.60",
+            "category": "",
+            "name": "Antat Bayramlık Çiko",
+            "tax_rate": "1",
+            "amount": "35.22"
+        },
+        {
+            "quantity": "1.00",
+            "price": "11.60",
+            "category": "",
+            "name": "Elifood Susam 70 Gr",
+            "tax_rate": "1",
+            "amount": "11.60"
+        },
+        {
+            "quantity": "1.082",
+            "price": "79.60",
+            "category": "",
+            "name": "Aktürk Lokum Mini Fı",
+            "tax_rate": "1",
+            "amount": "86.13"
+        },
+        {
+            "quantity": "1.00",
+            "price": "11.60",
+            "category": "",
+            "name": "Elifood Çörek Otu 70",
+            "tax_rate": "1",
+            "amount": "11.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Erenler Alışveriş Po",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

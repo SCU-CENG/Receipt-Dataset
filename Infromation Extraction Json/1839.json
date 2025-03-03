@@ -1,0 +1,28 @@
+{
+    "company": "3E Gıda Tarım Ürün",
+    "date": "08-10-2021",
+    "time": "12:15",
+    "receipt_id": "0009",
+    "total_tax": "2.86",
+    "total_amount": "38.61",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şefin Tavası",
+            "tax_rate": "8",
+            "amount": "34.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Cola Kutu",
+            "tax_rate": "8",
+            "amount": "7.95"
+        }
+    ]
+}

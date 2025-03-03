@@ -1,0 +1,52 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "24-12-2023",
+    "time": "17:00",
+    "receipt_id": "00160",
+    "total_tax": "2.74",
+    "total_amount": "99.62",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "A.Tatlıcı Tadıbu Fındık Ez",
+            "tax_rate": "1",
+            "amount": "64.75"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "E-Somun Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.45",
+            "category": "",
+            "name": "Sezer Karton Bardak 10 Lu",
+            "tax_rate": "20",
+            "amount": "10.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "0.162",
+            "price": "60.00",
+            "category": "",
+            "name": "E-Cabata Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "9.72"
+        }
+    ]
+}

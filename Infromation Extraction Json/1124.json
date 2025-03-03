@@ -1,0 +1,20 @@
+{
+    "company": "Chocofly Cıkolata & Kahve",
+    "date": "27-03-2023",
+    "time": "20:36",
+    "receipt_id": "0006",
+    "total_tax": "18.26",
+    "total_amount": "246.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tatlı",
+            "tax_rate": "8",
+            "amount": "246.50"
+        }
+    ]
+}

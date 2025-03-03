@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "20-04-2023",
+    "time": "16:13",
+    "receipt_id": "0083",
+    "total_tax": "1.38",
+    "total_amount": "139.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1000G Metin",
+            "tax_rate": "1",
+            "amount": "69.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1300G Metin",
+            "tax_rate": "1",
+            "amount": "69.90"
+        }
+    ]
+}

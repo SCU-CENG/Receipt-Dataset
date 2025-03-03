@@ -1,0 +1,52 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "24-05-2023",
+    "time": "11:11",
+    "receipt_id": "0058",
+    "total_tax": "0.87",
+    "total_amount": "88.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol. Sütlü80GBuono",
+            "tax_rate": "1",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol. Sütlü80GBuono",
+            "tax_rate": "1",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Krem Şanti Sade 150G",
+            "tax_rate": "1",
+            "amount": "25.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pasta Tabanı",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikolata Damla 250G",
+            "tax_rate": "1",
+            "amount": "19.50"
+        }
+    ]
+}

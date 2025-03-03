@@ -1,0 +1,20 @@
+{
+    "company": "Şal Dünyası",
+    "date": "07-11-2023",
+    "time": "12:17",
+    "receipt_id": "0008",
+    "total_tax": "21.82",
+    "total_amount": "240.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekstil",
+            "tax_rate": "10",
+            "amount": "240.00"
+        }
+    ]
+}

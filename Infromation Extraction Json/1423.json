@@ -1,0 +1,36 @@
+{
+    "company": "Bursa Nilüfer Flo Şubesi",
+    "date": "16-04-2023",
+    "time": "15:55",
+    "receipt_id": "0185",
+    "total_tax": "93.05",
+    "total_amount": "1252.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "3.00",
+            "category": "",
+            "name": "",
+            "tax_rate": "18",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "699.99",
+            "category": "",
+            "name": "Ayakkabı",
+            "tax_rate": "8",
+            "amount": "699.99"
+        },
+        {
+            "quantity": "1.00",
+            "price": "549.99",
+            "category": "",
+            "name": "Ayakkabı",
+            "tax_rate": "8",
+            "amount": "549.99"
+        }
+    ]
+}

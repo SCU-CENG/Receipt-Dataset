@@ -1,0 +1,28 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "20-04-2023",
+    "time": "17:30",
+    "receipt_id": "000309",
+    "total_tax": "0.24",
+    "total_amount": "24.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekli Pide 300 Gr",
+            "tax_rate": "1",
+            "amount": "8.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol.Badm.Beyaz100G",
+            "tax_rate": "1",
+            "amount": "15.50"
+        }
+    ]
+}

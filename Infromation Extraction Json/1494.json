@@ -1,0 +1,20 @@
+{
+    "company": "Nival Bitkisel Ürünler",
+    "date": "24-05-2023",
+    "time": "18:05",
+    "receipt_id": "0016",
+    "total_tax": "0.58",
+    "total_amount": "58.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baharat",
+            "tax_rate": "1",
+            "amount": "58.50"
+        }
+    ]
+}

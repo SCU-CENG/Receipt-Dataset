@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "24-04-2023",
+    "time": "19:24",
+    "receipt_id": "0191",
+    "total_tax": "4.09",
+    "total_amount": "102.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Colgate2X75Mlwhıte",
+            "tax_rate": "8",
+            "amount": "49.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Soyacak Çeşitleri Ro",
+            "tax_rate": "18",
+            "amount": "8.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 750G B.Peynir",
+            "tax_rate": "1",
+            "amount": "66.00"
+        }
+    ]
+}

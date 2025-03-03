@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "06-09-2021",
+    "time": "20:15",
+    "receipt_id": "0311",
+    "total_tax": "2.71",
+    "total_amount": "32.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yapıştırıcı Bant",
+            "tax_rate": "18",
+            "amount": "3.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süt 1 Lt Dost",
+            "tax_rate": "8",
+            "amount": "4.75"
+        },
+        {
+            "quantity": "5.00",
+            "price": "4.75",
+            "category": "",
+            "name": "Süt 1 Lt Dost",
+            "tax_rate": "8",
+            "amount": "23.75"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "24-09-2021",
+    "time": "10:29",
+    "receipt_id": "0043",
+    "total_tax": "10.07",
+    "total_amount": "152.30",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "28.95",
+            "category": "",
+            "name": "Kozlu Yumurta Sarı-M",
+            "tax_rate": "8",
+            "amount": "57.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "29.95",
+            "category": "",
+            "name": "Ensarbey Pezık Tursu",
+            "tax_rate": "8",
+            "amount": "59.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.25",
+            "category": "",
+            "name": "Ucyıldız Karabıber 6",
+            "tax_rate": "8",
+            "amount": "14.50"
+        },
+        {
+            "quantity": "13.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (SO",
+            "tax_rate": "1",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.50"
+        }
+    ]
+}

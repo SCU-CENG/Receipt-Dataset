@@ -1,0 +1,28 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "28-01-2024",
+    "time": "12:34",
+    "receipt_id": "0044",
+    "total_tax": "0.66",
+    "total_amount": "67.12",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Taze Kasar Peyn",
+            "tax_rate": "1",
+            "amount": "179.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-44.75"
+        }
+    ]
+}

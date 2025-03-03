@@ -1,0 +1,44 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "29-11-2023",
+    "time": "18:41",
+    "receipt_id": "0148",
+    "total_tax": "2.58",
+    "total_amount": "145.64",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "M Ekonomık Isl.Havlu",
+            "tax_rate": "20",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "0.726",
+            "price": "149.99",
+            "category": "",
+            "name": "Sekerpare Kg.(Yenı)",
+            "tax_rate": "1",
+            "amount": "108.89"
+        },
+        {
+            "quantity": "2.00",
+            "price": "14.75",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

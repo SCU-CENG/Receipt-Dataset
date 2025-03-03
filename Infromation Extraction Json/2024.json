@@ -1,0 +1,68 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "04-02-2024",
+    "time": "11:22",
+    "receipt_id": "0086",
+    "total_tax": "1.84",
+    "total_amount": "181.81",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ramazan Pıdesı",
+            "tax_rate": "1",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "0.412",
+            "price": "280.00",
+            "category": "",
+            "name": "Kuru Pasta  Tatlı Sp",
+            "tax_rate": "1",
+            "amount": "115.36"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Sut 1 L",
+            "tax_rate": "1",
+            "amount": "35.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Sut 1 L",
+            "tax_rate": "1",
+            "amount": "35.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Sut 1 L",
+            "tax_rate": "1",
+            "amount": "35.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Sut 1 L",
+            "tax_rate": "1",
+            "amount": "-27.00"
+        }
+    ]
+}

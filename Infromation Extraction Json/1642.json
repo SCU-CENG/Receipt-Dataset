@@ -1,0 +1,20 @@
+{
+    "company": "Timuçin Petrol",
+    "date": "12-08-2023",
+    "time": "22:06",
+    "receipt_id": "316",
+    "total_tax": "57.38",
+    "total_amount": "344.29",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.990",
+            "price": "16.400",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "20",
+            "amount": "344.29"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "company": "Gross",
+    "date": "16-04-2023",
+    "time": "16:35",
+    "receipt_id": "MKR23-51913",
+    "total_tax": "1.80",
+    "total_amount": "154.89",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "1.85",
+            "category": "",
+            "name": "Plus Cay Suzgecı",
+            "tax_rate": "18",
+            "amount": "1.85"
+        },
+        {
+            "quantity": "1.00",
+            "price": "5.00",
+            "category": "",
+            "name": "Etıbrownı Intense 50 Gr Kakaolu 1863700",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.65",
+            "category": "",
+            "name": "Etıbrownı Intense 48 Gr Gold Cıkolatalı 699200",
+            "tax_rate": "1",
+            "amount": "11.30"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.75",
+            "category": "",
+            "name": "Etıgong 68 Gr Ballıhardallı 3748200",
+            "tax_rate": "1",
+            "amount": "7.75"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.75",
+            "category": "",
+            "name": "Etıgong 64 Gr 5846700",
+            "tax_rate": "1",
+            "amount": "6.75"
+        },
+        {
+            "quantity": "16.00",
+            "price": "7.95",
+            "category": "",
+            "name": "Bursa Su 5Lt Pet Sıse",
+            "tax_rate": "1",
+            "amount": "122.24"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "Gross 58 Market",
+    "date": "07-01-2024",
+    "time": "16:00",
+    "receipt_id": "0335",
+    "total_tax": "4.75",
+    "total_amount": "130.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sıgara Parlıament Nı",
+            "tax_rate": "0",
+            "amount": "59.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 1Lt Vıs",
+            "tax_rate": "10",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 1Lt Kar",
+            "tax_rate": "10",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "8.00",
+            "price": "2.75",
+            "category": "",
+            "name": "Etı Puf Kakaolu 18Gr",
+            "tax_rate": "1",
+            "amount": "22.00"
+        }
+    ]
+}

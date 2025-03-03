@@ -1,0 +1,36 @@
+{
+    "company": "Macrocenter",
+    "date": "05-04-2023",
+    "time": "18:29",
+    "receipt_id": "0189",
+    "total_tax": "0.98",
+    "total_amount": "98.93",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dardanel Mr No Ezine",
+            "tax_rate": "1",
+            "amount": "74.90"
+        },
+        {
+            "quantity": "0.210",
+            "price": "59.90",
+            "category": "",
+            "name": "Dole Muz Kg",
+            "tax_rate": "1",
+            "amount": "12.58"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Actıvıa Shot+Y.Mers.",
+            "tax_rate": "1",
+            "amount": "11.45"
+        }
+    ]
+}

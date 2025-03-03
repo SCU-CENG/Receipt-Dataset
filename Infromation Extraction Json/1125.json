@@ -1,0 +1,36 @@
+{
+    "company": "Buruciye A.Ş Turz.İnş.Müh.Hayv",
+    "date": "16-03-2023",
+    "time": "09:05",
+    "receipt_id": "0139",
+    "total_tax": "1.25",
+    "total_amount": "26.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "5.00",
+            "category": "",
+            "name": "Pogaca-Acma",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Sımıtı",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "3.00",
+            "price": "3.50",
+            "category": "",
+            "name": "Pıknık Ucgen Peynır",
+            "tax_rate": "1",
+            "amount": "10.50"
+        }
+    ]
+}

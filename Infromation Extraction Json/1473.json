@@ -1,0 +1,68 @@
+{
+    "company": "Halktan Tokat Şubesi",
+    "date": "10-05-2023",
+    "time": "15:46",
+    "receipt_id": "8142023000272783",
+    "total_tax": "0.94",
+    "total_amount": "90.21",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.198",
+            "price": "53.90",
+            "category": "",
+            "name": "Ayçekirdeği Siyah Tuzsuz",
+            "tax_rate": "1",
+            "amount": "10.67"
+        },
+        {
+            "quantity": "0.14",
+            "price": "63.90",
+            "category": "",
+            "name": "Leblebi Tuzlu Duble",
+            "tax_rate": "1",
+            "amount": "8.95"
+        },
+        {
+            "quantity": "0.234",
+            "price": "59.90",
+            "category": "",
+            "name": "Üzüm Siyah Çekirdekl",
+            "tax_rate": "1",
+            "amount": "14.02"
+        },
+        {
+            "quantity": "0.31",
+            "price": "73.90",
+            "category": "",
+            "name": "Fıstık Tuzlu Lüks",
+            "tax_rate": "1",
+            "amount": "22.91"
+        },
+        {
+            "quantity": "0.3",
+            "price": "63.90",
+            "category": "",
+            "name": "Leblebi Sarı Duble",
+            "tax_rate": "1",
+            "amount": "19.17"
+        },
+        {
+            "quantity": "0.15",
+            "price": "94.90",
+            "category": "",
+            "name": "Kabak Çekirdeği Nevş",
+            "tax_rate": "1",
+            "amount": "14.24"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

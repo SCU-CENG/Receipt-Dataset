@@ -1,0 +1,28 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "02-05-2023",
+    "time": "18:40",
+    "receipt_id": "0140",
+    "total_tax": "3.20",
+    "total_amount": "51.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Saloon Sıvı Sabun 36",
+            "tax_rate": "8",
+            "amount": "42.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "4.50",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "9.00"
+        }
+    ]
+}

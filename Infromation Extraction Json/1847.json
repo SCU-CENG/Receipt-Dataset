@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "20-12-2023",
+    "time": "17:08",
+    "receipt_id": "0252",
+    "total_tax": "4.28",
+    "total_amount": "59.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kesilmiş Yağlı",
+            "tax_rate": "20",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Turşu Kor.680Gt",
+            "tax_rate": "1",
+            "amount": "35.90"
+        }
+    ]
+}

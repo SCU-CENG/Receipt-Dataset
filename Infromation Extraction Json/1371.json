@@ -1,0 +1,20 @@
+{
+    "company": "Onarlar Şarküteri",
+    "date": "15-10-2021",
+    "time": "14:41",
+    "receipt_id": "0022",
+    "total_tax": "1.40",
+    "total_amount": "18.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sarküteri",
+            "tax_rate": "8",
+            "amount": "18.90"
+        }
+    ]
+}

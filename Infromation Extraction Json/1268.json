@@ -1,0 +1,44 @@
+{
+    "company": "T.M.O Genel Müdürlüğü",
+    "date": "07-10-2021",
+    "time": "14:20",
+    "receipt_id": "0142",
+    "total_tax": "14.81",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pirinç Cammeo 5 Kg",
+            "tax_rate": "8",
+            "amount": "50.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pirinç Cammeo 5 Kg",
+            "tax_rate": "8",
+            "amount": "50.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pirinç Cammeo 5 Kg",
+            "tax_rate": "8",
+            "amount": "50.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pirinç Cammeo 5 Kg",
+            "tax_rate": "8",
+            "amount": "50.00"
+        }
+    ]
+}

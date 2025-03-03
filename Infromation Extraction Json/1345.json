@@ -1,0 +1,52 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "07-10-2021",
+    "time": "10:49",
+    "receipt_id": "0050",
+    "total_tax": "6.51",
+    "total_amount": "103.10",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yayla 1000Gr Fasulye",
+            "tax_rate": "8",
+            "amount": "16.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yayla 2000Gr Fasulye",
+            "tax_rate": "8",
+            "amount": "32.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yesıl Kozan Tost Pey",
+            "tax_rate": "8",
+            "amount": "34.95"
+        },
+        {
+            "quantity": "12.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1.",
+            "tax_rate": "1",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

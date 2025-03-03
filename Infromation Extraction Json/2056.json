@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "05-02-2024",
+    "time": "14:31",
+    "receipt_id": "90",
+    "total_tax": "4.68",
+    "total_amount": "32.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Su 0.5 L",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Islakhevlu100Lüfamly",
+            "tax_rate": "20",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

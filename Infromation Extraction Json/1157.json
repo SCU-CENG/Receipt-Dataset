@@ -1,0 +1,20 @@
+{
+    "company": "Nur Ev Aletleri Tic.Ltd.Şti",
+    "date": "27-05-2023",
+    "time": "16:19",
+    "receipt_id": "8",
+    "total_tax": "533.90",
+    "total_amount": "3500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+         {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Beyaz Eşya",
+            "tax_rate": "18",
+            "amount": "3500.00"
+        }
+    ]
+}

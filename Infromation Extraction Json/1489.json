@@ -1,0 +1,68 @@
+{
+    "company": "Niktaş Gıda San. Tic. A.Ş.",
+    "date": "20-05-2023",
+    "time": "17:22",
+    "receipt_id": "0371",
+    "total_tax": "2.55",
+    "total_amount": "82.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Olca Domates Salçası",
+            "tax_rate": "1",
+            "amount": "51.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamlıca Gazoz 250 Ml",
+            "tax_rate": "8",
+            "amount": "6.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamlıca Gazoz 250 Ml",
+            "tax_rate": "8",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Wanted Bumbo 59",
+            "tax_rate": "1",
+            "amount": "4.40"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamlıca Gazoz 250 Ml",
+            "tax_rate": "8",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamlıca Gazoz 250 Ml",
+            "tax_rate": "8",
+            "amount": "6.40"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Niktaş Baskılı Büyük",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

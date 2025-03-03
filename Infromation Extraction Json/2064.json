@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş",
+    "date": "26-02-2024",
+    "time": "20:06",
+    "receipt_id": "0336",
+    "total_tax": "0.82",
+    "total_amount": "79.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Muratbey 200 G",
+            "tax_rate": "1",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

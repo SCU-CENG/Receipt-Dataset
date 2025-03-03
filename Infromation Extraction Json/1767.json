@@ -1,0 +1,36 @@
+{
+    "company": "Gross 58 Market",
+    "date": "18-11-2023",
+    "time": "10:22",
+    "receipt_id": "0106",
+    "total_tax": "0.84",
+    "total_amount": "84.46",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "5.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "35.00"
+        },
+        {
+            "quantity": "0.606",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "36.33"
+        },
+        {
+            "quantity": "0.658",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-3-Patlıc",
+            "tax_rate": "1",
+            "amount": "13.13"
+        }
+    ]
+}

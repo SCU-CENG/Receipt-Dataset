@@ -1,0 +1,20 @@
+{
+    "company": "Dm Petrolcülük San. ve Tic. A.Ş.",
+    "date": "19-04-2023",
+    "time": "12:47",
+    "receipt_id": "0067",
+    "total_tax": "76.27",
+    "total_amount": "500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "21.86",
+            "price": "22.870",
+            "category": "",
+            "name": "Kursunsuz 95",
+            "tax_rate": "18",
+            "amount": "500.00"
+        }
+    ]
+}

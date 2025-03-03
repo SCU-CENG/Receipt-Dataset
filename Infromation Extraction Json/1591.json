@@ -1,0 +1,20 @@
+{
+    "company": "Nurkaş Gıda Limited Sirket",
+    "date": "17-09-2021",
+    "time": "20:31",
+    "receipt_id": "0024",
+    "total_tax": "0.64",
+    "total_amount": "64.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gıda",
+            "tax_rate": "1",
+            "amount": "64.98"
+        }
+    ]
+}

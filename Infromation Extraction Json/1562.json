@@ -1,0 +1,20 @@
+{
+    "company": "İpaş Petrol Ürün.İnş.Müh.Turz.",
+    "date": "02-12-2023",
+    "time": "12:35",
+    "receipt_id": "0033",
+    "total_tax": "83.33",
+    "total_amount": "500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "27.340",
+            "price": "18.29",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "20",
+            "amount": "500.00"
+        }
+    ]
+}

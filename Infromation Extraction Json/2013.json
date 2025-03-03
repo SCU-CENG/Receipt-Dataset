@@ -1,0 +1,20 @@
+{
+    "company": "Akyol Plastık",
+    "date": "21-01-2024",
+    "time": "16:46",
+    "receipt_id": "15",
+    "total_tax": "8.33",
+    "total_amount": "50.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Plastik",
+            "tax_rate": "20",
+            "amount": "50.00"
+        }
+    ]
+}

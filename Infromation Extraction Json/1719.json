@@ -1,0 +1,28 @@
+{
+    "company": "Lcw- Waıkıkı",
+    "date": "27-09-2023",
+    "time": "15:45",
+    "receipt_id": "0066",
+    "total_tax": "32.00",
+    "total_amount": "351.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkm.Eyastu Tkm",
+            "tax_rate": "10",
+            "amount": "349.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nonwoven Alış. Çanta",
+            "tax_rate": "10",
+            "amount": "2.00"
+        }
+    ]
+}

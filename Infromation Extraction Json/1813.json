@@ -1,0 +1,20 @@
+{
+    "company": "Baklavacı Mehmet Yıldırım",
+    "date": "12-00-2021",
+    "time": "22:43",
+    "receipt_id": "00",
+    "total_tax": "2.56",
+    "total_amount": "34.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tuticik",
+            "tax_rate": "8",
+            "amount": "34.50"
+        }
+    ]
+}

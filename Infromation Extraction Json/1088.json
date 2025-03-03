@@ -1,0 +1,20 @@
+{
+    "company": "Tugom Men S Wear",
+    "date": "04-05-2023",
+    "time": "11:08",
+    "receipt_id": "000001",
+    "total_tax": "59.26",
+    "total_amount": "800.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Muh.Giyim",
+            "tax_rate": "8",
+            "amount": "800.00"
+        }
+    ]
+}

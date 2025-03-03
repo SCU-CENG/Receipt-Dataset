@@ -1,0 +1,60 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "20-10-2023",
+    "time": "14:21",
+    "receipt_id": "0018",
+    "total_tax": "0.50",
+    "total_amount": "50.62",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "6.00",
+            "category": "",
+            "name": "Roll Ekmek-Hashaslı",
+            "tax_rate": "1",
+            "amount": "24.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Sofra Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "14.75",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Roll Ekmek-Hashaslı",
+            "tax_rate": "1",
+            "amount": "-6.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "-7.38"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofra Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "-3.50"
+        }
+    ]
+}

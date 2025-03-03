@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "21-05-2023",
+    "time": "15:55",
+    "receipt_id": "0169",
+    "total_tax": "0.08",
+    "total_amount": "8.28",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.554",
+            "price": "14.95",
+            "category": "",
+            "name": "Besler Mnv-6-Cele B",
+            "tax_rate": "1",
+            "amount": "8.28"
+        }
+    ]
+}

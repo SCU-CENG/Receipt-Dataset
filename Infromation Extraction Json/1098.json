@@ -1,0 +1,28 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "10-03-2023",
+    "time": "21:34",
+    "receipt_id": "0404",
+    "total_tax": "0.24",
+    "total_amount": "24.74",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "8.25",
+            "category": "",
+            "name": "Peynırlı Rulo Borek",
+            "tax_rate": "1",
+            "amount": "33.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Peynırlı Rulo Borek",
+            "tax_rate": "1",
+            "amount": "-8.26"
+        }
+    ]
+}

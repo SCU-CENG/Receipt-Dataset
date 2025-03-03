@@ -1,0 +1,20 @@
+{
+    "company": "Mıgros",
+    "date": "11-10-2023",
+    "time": "20:17",
+    "receipt_id": "0508",
+    "total_tax": "0.29",
+    "total_amount": "29.11",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.410",
+            "price": "71.00",
+            "category": "",
+            "name": "Ulker Ikramlık Seker",
+            "tax_rate": "1",
+            "amount": "29.11"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "company": "Gross 58 Market",
+    "date": "07-02-2024",
+    "time": "15:11",
+    "receipt_id": "0072",
+    "total_tax": "1.29",
+    "total_amount": "126.67",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.454",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "27.22"
+        },
+        {
+            "quantity": "2.0",
+            "price": "7.00",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Sımıt",
+            "tax_rate": "1",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "0.712",
+            "price": "108.50",
+            "category": "",
+            "name": "Dokme Pılıc Bonfıle",
+            "tax_rate": "1",
+            "amount": "77.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

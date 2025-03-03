@@ -1,0 +1,20 @@
+{
+    "company": "Oğuz Market",
+    "date": "06-06-2023",
+    "time": "21:12",
+    "receipt_id": "10",
+    "total_tax": "0.68",
+    "total_amount": "69.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temel Gıda",
+            "tax_rate": "1",
+            "amount": "69.00"
+        }
+    ]
+}

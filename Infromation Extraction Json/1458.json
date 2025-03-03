@@ -1,0 +1,28 @@
+{
+    "company": "Şahin Market",
+    "date": "02-05-2023",
+    "time": "13:58",
+    "receipt_id": "00061",
+    "total_tax": "0.09",
+    "total_amount": "9.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Biskrem 100Gr",
+            "tax_rate": "1",
+            "amount": "8.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Akdağ Su 0,5Lt",
+            "tax_rate": "1",
+            "amount": "1.50"
+        }
+    ]
+}

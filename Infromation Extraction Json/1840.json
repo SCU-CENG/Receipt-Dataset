@@ -1,0 +1,29 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "08-10-2021",
+    "time": "12:57",
+    "receipt_id": "0043",
+    "total_tax": "0.71",
+    "total_amount": "9.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Beypazarı 6*200 Ml",
+            "tax_rate": "8",
+            "amount": "5.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mountaın Dew 450 Ml",
+            "tax_rate": "8",
+            "amount": "3.75"
+        }
+    ]
+}

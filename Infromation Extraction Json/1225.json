@@ -1,0 +1,20 @@
+{
+    "company": "Alim Mini Market",
+    "date": "18-10-2021",
+    "time": "13:55",
+    "receipt_id": "0003",
+    "total_tax": "11.70",
+    "total_amount": "158.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gıda",
+            "tax_rate": "8",
+            "amount": "158.00"
+        }
+    ]
+}

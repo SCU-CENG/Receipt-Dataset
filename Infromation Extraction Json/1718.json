@@ -1,0 +1,20 @@
+{
+    "company": "Eczane Tarık",
+    "date": "27-09-2023",
+    "time": "10:04",
+    "receipt_id": "2",
+    "total_tax": "14.36",
+    "total_amount": "158.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "10",
+            "amount": "158.00"
+        }
+    ]
+}

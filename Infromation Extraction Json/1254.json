@@ -1,0 +1,52 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti.",
+    "date": "31-08-2021",
+    "time": "16:38",
+    "receipt_id": "0116",
+    "total_tax": "7.05",
+    "total_amount": "83.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "2.75",
+            "category": "",
+            "name": "Hamburger Ekmeği",
+            "tax_rate": "18",
+            "amount": "11.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "8",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Tam Bugday Ekmegı",
+            "tax_rate": "8",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "0.390",
+            "price": "73.00",
+            "category": "",
+            "name": "Guler Sucuk Kg",
+            "tax_rate": "8",
+            "amount": "28.47"
+        },
+        {
+            "quantity": "0.515",
+            "price": "65.00",
+            "category": "",
+            "name": "Hamburger Kofte",
+            "tax_rate": "8",
+            "amount": "33.48"
+        }
+    ]
+}

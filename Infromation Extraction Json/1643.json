@@ -1,0 +1,20 @@
+{
+    "company": "Yerliyurt Lojistik Ltd Ştı",
+    "date": "09-08-2023",
+    "time": "19:08",
+    "receipt_id": "78",
+    "total_tax": "54.11",
+    "total_amount": "324.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "19.510",
+            "price": "16.640",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "20",
+            "amount": "324.65"
+        }
+    ]
+}

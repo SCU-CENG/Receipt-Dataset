@@ -1,0 +1,20 @@
+{
+    "company": "Noır Cafe",
+    "date": "06-04-2023",
+    "time": "21:22",
+    "receipt_id": "0025",
+    "total_tax": "18.52",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meşrubat",
+            "tax_rate": "8",
+            "amount": "250.00"
+        }
+    ]
+}

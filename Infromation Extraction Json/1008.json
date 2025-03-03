@@ -1,0 +1,20 @@
+{
+    "company": "Pakiş Yağ Sanayi Ve Tic.a.ş",
+    "date": "13-10-2023",
+    "time": "14:35",
+    "receipt_id": "0557",
+    "total_tax": "0.30",
+    "total_amount": "30.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "3.00",
+            "price": "10.00",
+            "category": "",
+            "name": "Damla Su 500Ml",
+            "tax_rate": "1",
+            "amount": "30.00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Besler Fresh Market",
+    "date": "12-06-2023",
+    "time": "18:44",
+    "receipt_id": "0236",
+    "total_tax": "0.23",
+    "total_amount": "23.67",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.640",
+            "price": "29.95",
+            "category": "",
+            "name": "Domates Cerı P15",
+            "tax_rate": "1",
+            "amount": "19.17"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fresh Ekmek",
+            "tax_rate": "1",
+            "amount": "4.50"
+        }
+    ]
+}

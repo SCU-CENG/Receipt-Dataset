@@ -1,0 +1,156 @@
+{
+    "company": "58 Besler Market",
+    "date": "16-08-2021",
+    "time": "12:19",
+    "receipt_id": "0115",
+    "total_tax": "48.94",
+    "total_amount": "648.79",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cızı 4Lu Peynı",
+            "tax_rate": "8",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Ikram 3Lu Cıko",
+            "tax_rate": "8",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Cesıt Ekmek",
+            "tax_rate": "1",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Kell.400Gr C.F",
+            "tax_rate": "8",
+            "amount": "11.45"
+        },
+        {
+            "quantity": "0.375",
+            "price": "79.95",
+            "category": "",
+            "name": "Icım Kasar 600Gr",
+            "tax_rate": "8",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "2.25",
+            "category": "",
+            "name": "Caykur Dıdı 250Ml So",
+            "tax_rate": "8",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cihan Tursu Tuz 3Kg",
+            "tax_rate": "8",
+            "amount": "4.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Beypazarı Soda 200M1",
+            "tax_rate": "8",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Taha Toz Seker 5Kg",
+            "tax_rate": "8",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Elly Duz Agızlı Cımb",
+            "tax_rate": "18",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Labne Peynır 20",
+            "tax_rate": "8",
+            "amount": "8.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tasarzade Ter.Yemekl",
+            "tax_rate": "8",
+            "amount": "59.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 1Lt Sef",
+            "tax_rate": "8",
+            "amount": "5.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 1Lt Man",
+            "tax_rate": "8",
+            "amount": "5.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pınar Sut 1Lt Y.Yagl",
+            "tax_rate": "8",
+            "amount": "6.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tukas D.Salca 830Gr",
+            "tax_rate": "8",
+            "amount": "7.85"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bırsan Un 10Kg Kagıt",
+            "tax_rate": "1",
+            "amount": "40.95"
+        }
+    ]
+}

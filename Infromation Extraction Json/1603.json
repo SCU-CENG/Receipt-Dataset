@@ -1,0 +1,28 @@
+{
+    "company": "Sok Marketler T.A.S.",
+    "date": "13-07-2023",
+    "time": "20:40",
+    "receipt_id": "0222",
+    "total_tax": "3.42",
+    "total_amount": "20.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Johnson'S Bebek Sabu",
+            "tax_rate": "20",
+            "amount": "10.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Johnson'S Bebek Sabu",
+            "tax_rate": "20",
+            "amount": "10.25"
+        }
+    ]
+}

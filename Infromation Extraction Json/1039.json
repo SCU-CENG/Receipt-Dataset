@@ -1,0 +1,20 @@
+{
+    "company": "Tavacı Refık",
+    "date": "04-04-2023",
+    "time": "20:51",
+    "receipt_id": "10",
+    "total_tax": "44.44",
+    "total_amount": "600.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "8",
+            "amount": "600.00"
+        }
+    ]
+}

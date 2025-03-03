@@ -1,0 +1,20 @@
+{
+    "company": "Ozfidancı Gıda Sanayii",
+    "date": "01-10-2021",
+    "time": "14:43",
+    "receipt_id": "19",
+    "total_tax": "3.11",
+    "total_amount": "42.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tem. Gıda",
+            "tax_rate": "8",
+            "amount": "42.00"
+        }
+    ]
+}

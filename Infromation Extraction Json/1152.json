@@ -1,0 +1,20 @@
+{
+    "company": "Cedgo Çocuk Atolyesı",
+    "date": "11-04-2023",
+    "time": "20:08",
+    "receipt_id": "0015",
+    "total_tax": "25.93",
+    "total_amount": "170.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Oyun",
+            "tax_rate": "18",
+            "amount": "170.00"
+        }
+    ]
+}

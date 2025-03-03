@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "02-04-2023",
+    "time": "17:06",
+    "receipt_id": "0254",
+    "total_tax": "1.99",
+    "total_amount": "201.08",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.914",
+            "price": "220.00",
+            "category": "",
+            "name": "Dayı Kofte",
+            "tax_rate": "1",
+            "amount": "201.08"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Samanpazarı",
+    "date": "09-12-2023",
+    "time": "13:11",
+    "receipt_id": "0030",
+    "total_tax": "10.81",
+    "total_amount": "118.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eva Pıtırcık Kaymaz 452",
+            "tax_rate": "10",
+            "amount": "49.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fatih 12 Renk Tam Boy Tü",
+            "tax_rate": "10",
+            "amount": "69.90"
+        }
+    ]
+}

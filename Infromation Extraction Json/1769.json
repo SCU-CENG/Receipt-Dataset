@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "13-11-2023",
+    "time": "18:26",
+    "receipt_id": "0444",
+    "total_tax": "0.47",
+    "total_amount": "47.37",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.618",
+            "price": "24.95",
+            "category": "",
+            "name": "Besler Mnv-25-Elma",
+            "tax_rate": "1",
+            "amount": "40.37"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "7.00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "27-09-2021",
+    "time": "10:49",
+    "receipt_id": "0064",
+    "total_tax": "1.66",
+    "total_amount": "50.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bakrac Yogurt 2000GR",
+            "tax_rate": "8",
+            "amount": "17.95"
+        },
+        {
+            "quantity": "22.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "33.00"
+        }
+    ]
+}

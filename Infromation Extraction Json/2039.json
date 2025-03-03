@@ -1,0 +1,20 @@
+{
+    "company": "Bay Zirai İlaçlar Güb. Zahire",
+    "date": "17-02-2024",
+    "time": "11:01",
+    "receipt_id": "5",
+    "total_tax": "0.00",
+    "total_amount": "1000.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gübre",
+            "tax_rate": "0",
+            "amount": "1000.00"
+        }
+    ]
+}

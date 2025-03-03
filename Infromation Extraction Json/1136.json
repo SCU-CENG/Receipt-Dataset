@@ -1,0 +1,36 @@
+{
+    "company": "58 Besler Market",
+    "date": "06-04-2023",
+    "time": "18:02",
+    "receipt_id": "0154",
+    "total_tax": "4.64",
+    "total_amount": "62.60",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uludag Lımonata 1Lt",
+            "tax_rate": "8",
+            "amount": "16.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pepsı 2,5Lt Cola",
+            "tax_rate": "8",
+            "amount": "26.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uludag Ramazan Serbe",
+            "tax_rate": "8",
+            "amount": "18.90"
+        }
+    ]
+}

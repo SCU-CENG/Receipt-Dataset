@@ -1,0 +1,36 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "11-09-2021",
+    "time": "10:06",
+    "receipt_id": "0036",
+    "total_tax": "4.81",
+    "total_amount": "90.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekıcı Kasar 600Gr",
+            "tax_rate": "8",
+            "amount": "28.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas B.Peynır 900Gr",
+            "tax_rate": "8",
+            "amount": "31.95"
+        },
+        {
+            "quantity": "20.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "30.00"
+        }
+    ]
+}

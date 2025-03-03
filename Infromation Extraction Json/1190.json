@@ -1,0 +1,20 @@
+{
+    "company": "İzmirli Otomotiv Ve Akaryakıt",
+    "date": "04-01-2023",
+    "time": "08:20",
+    "receipt_id": "0016",
+    "total_tax": "38.14",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "12.590",
+            "price": "19.86",
+            "category": "",
+            "name": "Kbenzin",
+            "tax_rate": "18",
+            "amount": "250.00"
+        }
+    ]
+}

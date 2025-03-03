@@ -1,0 +1,20 @@
+{
+    "company": "Ayakkabıcıty",
+    "date": "30-12-2023",
+    "time": "14:12",
+    "receipt_id": "0014",
+    "total_tax": "45.45",
+    "total_amount": "499.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayakkabı",
+            "tax_rate": "10",
+            "amount": "499.90"
+        }
+    ]
+}

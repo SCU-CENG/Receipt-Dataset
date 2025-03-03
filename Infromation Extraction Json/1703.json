@@ -1,0 +1,20 @@
+{
+    "company": "Sidaş Emlak Otom.Aş.",
+    "date": "12-09-2023",
+    "time": "19:46",
+    "receipt_id": "0290",
+    "total_tax": "105.00",
+    "total_amount": "630.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "39.060",
+            "price": "16.13",
+            "category": "",
+            "name": "Euro Dizel",
+            "tax_rate": "20",
+            "amount": "630.00"
+        }
+    ]
+}

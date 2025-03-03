@@ -1,0 +1,52 @@
+{
+    "company": "Anadolu Restoran",
+    "date": "06-10-2021",
+    "time": "13:03",
+    "receipt_id": "0066",
+    "total_tax": "3.22",
+    "total_amount": "43.48",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Big Mac+B.Pat",
+            "tax_rate": "8",
+            "amount": "26.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Buyuk Cola Sekersiz",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Harburger Add On",
+            "tax_rate": "8",
+            "amount": "7.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ranch Sos",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bufalo Sos",
+            "tax_rate": "8",
+            "amount": "1.50"
+        }
+    ]
+}

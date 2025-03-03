@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "22-01-2024",
+    "time": "18:30",
+    "receipt_id": "0228",
+    "total_tax": "0.36",
+    "total_amount": "36.03",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.470",
+            "price": "19.75",
+            "category": "",
+            "name": "Mandalina",
+            "tax_rate": "1",
+            "amount": "29.03"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "7.00"
+        }
+    ]
+}

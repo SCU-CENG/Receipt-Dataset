@@ -1,0 +1,68 @@
+{
+    "company": "Gross 58 Market",
+    "date": "17-11-2023",
+    "time": "18:44",
+    "receipt_id": "0218",
+    "total_tax": "1.61",
+    "total_amount": "162.67",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.604",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-3-Patlıc",
+            "tax_rate": "1",
+            "amount": "12.05"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadıbu Kakaolu Fınd.",
+            "tax_rate": "1",
+            "amount": "61.95"
+        },
+        {
+            "quantity": "0.704",
+            "price": "39.95",
+            "category": "",
+            "name": "Besler Mnv-122-Doma",
+            "tax_rate": "1",
+            "amount": "28.12"
+        },
+        {
+            "quantity": "0.786",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-13-Kara",
+            "tax_rate": "1",
+            "amount": "15.68"
+        },
+        {
+            "quantity": "0.846",
+            "price": "24.95",
+            "category": "",
+            "name": "Besler Mnv-2 -Salat",
+            "tax_rate": "1",
+            "amount": "21.11"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-83-Dereot",
+            "tax_rate": "1",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "0.528",
+            "price": "29.95",
+            "category": "",
+            "name": "Besler Mnv-6-Cele B",
+            "tax_rate": "1",
+            "amount": "15.81"
+        }
+    ]
+}

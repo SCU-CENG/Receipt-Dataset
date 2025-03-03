@@ -1,0 +1,20 @@
+{
+    "company": "Üstün İnş.Petrol. San.Ve Tic.Ltd.",
+    "date": "22-00-2023",
+    "time": "07:47",
+    "receipt_id": "0200",
+    "total_tax": "30.51",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "9.270",
+            "price": "21.570",
+            "category": "",
+            "name": "K.Benzin",
+            "tax_rate": "18",
+            "amount": "200.00"
+        }
+    ]
+}

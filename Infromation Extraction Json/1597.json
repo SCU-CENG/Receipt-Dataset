@@ -1,0 +1,44 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "03-07-2023",
+    "time": "14:09",
+    "receipt_id": "0041",
+    "total_tax": "10.42",
+    "total_amount": "84.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Algıda Max Classıc K",
+            "tax_rate": "1",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Algıda Keyıf 105 Ml",
+            "tax_rate": "1",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Garnıer Roll-On 50 M",
+            "tax_rate": "18",
+            "amount": "66.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

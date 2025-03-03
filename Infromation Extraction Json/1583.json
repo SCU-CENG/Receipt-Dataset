@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Belediyesi",
+    "date": "24-02-2021",
+    "time": "10:18",
+    "receipt_id": "0004",
+    "total_tax": "0.46",
+    "total_amount": "3.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otopark Ücreti",
+            "tax_rate": "18",
+            "amount": "3.00"
+        }
+    ]
+}

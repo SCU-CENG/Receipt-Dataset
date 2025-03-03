@@ -1,0 +1,100 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş",
+    "date": "03-02-2024",
+    "time": "16:17",
+    "receipt_id": "0103",
+    "total_tax": "3.40",
+    "total_amount": "339.41",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.800",
+            "price": "12.90",
+            "category": "",
+            "name": "Portakal",
+            "tax_rate": "1",
+            "amount": "23.22"
+        },
+        {
+            "quantity": "1.015",
+            "price": "69.90",
+            "category": "",
+            "name": "Muz İthal",
+            "tax_rate": "1",
+            "amount": "70.04"
+        },
+        {
+            "quantity": "4.00",
+            "price": "7.90",
+            "category": "",
+            "name": "Bazlama150GNime",
+            "tax_rate": "1",
+            "amount": "31.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bizim Paket 250",
+            "tax_rate": "1",
+            "amount": "23.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pınar Sosis 240",
+            "tax_rate": "1",
+            "amount": "39.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mantar Tabak",
+            "tax_rate": "1",
+            "amount": "25.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nescafe 2N13N1",
+            "tax_rate": "1",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "17.90",
+            "category": "",
+            "name": "Avokado",
+            "tax_rate": "1",
+            "amount": "35.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Z.Yağlı Kur.Dom",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nescafe 2N13N1 Sü",
+            "tax_rate": "1",
+            "amount": "-39.10"
+        }
+    ]
+}

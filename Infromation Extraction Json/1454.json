@@ -1,0 +1,20 @@
+{
+    "company": "Üstün İnş. Petrol San. ve Tic. Ltd.",
+    "date": "23-04-2023",
+    "time": "06:45",
+    "receipt_id": "0313",
+    "total_tax": "22.12",
+    "total_amount": "145.02",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "14.920",
+            "price": "9.720",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "18",
+            "amount": "145.02"
+        }
+    ]
+}

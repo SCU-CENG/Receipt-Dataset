@@ -1,0 +1,20 @@
+{
+    "company": "Tombak Anne Bebek",
+    "date": "31-08-2023",
+    "time": "14:58",
+    "receipt_id": "0006",
+    "total_tax": "40.91",
+    "total_amount": "450.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çocuk Bez",
+            "tax_rate": "10",
+            "amount": "450.00"
+        }
+    ]
+}

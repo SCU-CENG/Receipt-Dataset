@@ -1,0 +1,36 @@
+{
+    "company": "Gratis İç Ve Dış Ticaret A.Ş.",
+    "date": "16-09-2023",
+    "time": "15:03",
+    "receipt_id": "0164",
+    "total_tax": "10.00",
+    "total_amount": "110.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Molped Pure&Soft Gec",
+            "tax_rate": "10",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kotex Ultra Quadro N",
+            "tax_rate": "10",
+            "amount": "111.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "30Tl Kotek 55TL",
+            "tax_rate": "10",
+            "amount": "-56.50"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Tokat Erenler Gıda Tar.Tem.Amb.İnş.",
+    "date": "18-02-2024",
+    "time": "10:02",
+    "receipt_id": "67",
+    "total_tax": "0.95",
+    "total_amount": "92.06",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.574",
+            "price": "159.95",
+            "category": "",
+            "name": "Eren Piliç Bonfile K",
+            "tax_rate": "1",
+            "amount": "91.81"
+        },
+        {
+            "quantity": "1.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Erenler Alışveriş Po",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

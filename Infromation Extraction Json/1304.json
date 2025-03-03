@@ -1,0 +1,20 @@
+{
+    "company": "Emre Kpss Kitap Market",
+    "date": "03-09-2021",
+    "time": "17:03",
+    "receipt_id": "0137",
+    "total_tax": "45.63",
+    "total_amount": "616.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kırtasiye",
+            "tax_rate": "8",
+            "amount": "616.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "Çizgi",
+    "date": "19-05-2023",
+    "time": "13:16",
+    "receipt_id": "22084",
+    "total_tax": "",
+    "total_amount": "31.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mikro M-750 75Mm Cetvelli Kurşun Kale...",
+            "tax_rate": "0",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Rb.0.4 Mm Fınelıner Kalem - Mavi",
+            "tax_rate": "0",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sim Pp Kapak Spiralli Resim Defteri 25X35 25 Yp",
+            "tax_rate": "0",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Rb.0.4Mm Fınelıner Kalem - Mercan",
+            "tax_rate": "0",
+            "amount": "4.00"
+        }
+    ]
+}

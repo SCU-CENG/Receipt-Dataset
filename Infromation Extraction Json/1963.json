@@ -1,0 +1,36 @@
+{
+    "company": "Gross 58 Market",
+    "date": "24-12-2023",
+    "time": "17:06",
+    "receipt_id": "0185",
+    "total_tax": "0.70",
+    "total_amount": "182.56",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "56.00",
+            "category": "",
+            "name": "Sıgara Marlboro Uzun",
+            "tax_rate": "0",
+            "amount": "112.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas Yogurt 1000Gr",
+            "tax_rate": "1",
+            "amount": "36.50"
+        },
+        {
+            "quantity": "0.426",
+            "price": "79.95",
+            "category": "",
+            "name": "Dokme Pılıc Pırzola",
+            "tax_rate": "1",
+            "amount": "34.06"
+        }
+    ]
+}

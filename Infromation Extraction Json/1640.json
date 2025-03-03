@@ -1,0 +1,20 @@
+{
+    "company": "Lavaş Center",
+    "date": "12-08-2023",
+    "time": "21:11",
+    "receipt_id": "000115",
+    "total_tax": "7.00",
+    "total_amount": "77.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "10",
+            "amount": "77.00"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "company": "A101 Yenı Magazaclılık A.Ş",
+    "date": "19-10-2023",
+    "time": "19:44",
+    "receipt_id": "0313",
+    "total_tax": "1.69",
+    "total_amount": "166.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kraker Soğanlı",
+            "tax_rate": "1",
+            "amount": "14.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dond. Dana Döne",
+            "tax_rate": "1",
+            "amount": "64.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dond. Dana Döne",
+            "tax_rate": "1",
+            "amount": "64.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "10.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "10.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

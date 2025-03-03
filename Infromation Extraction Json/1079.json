@@ -1,0 +1,20 @@
+{
+    "company": "Şok Marketler T.A.S.",
+    "date": "04-05-2023",
+    "time": "19:45",
+    "receipt_id": "0154",
+    "total_tax": "0.05",
+    "total_amount": "4.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Albent 40 Gr",
+            "tax_rate": "1",
+            "amount": "4.75"
+        }
+    ]
+}

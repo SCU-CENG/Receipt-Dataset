@@ -1,0 +1,28 @@
+{
+    "company": "Tk Tarım Kredi Paz.Ve Mar.A.Ş",
+    "date": "23-09-2023",
+    "time": "20:23",
+    "receipt_id": "370",
+    "total_tax": "1.62",
+    "total_amount": "160.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "79.90",
+            "category": "",
+            "name": "Tkbf Çifte Kavrulmuş",
+            "tax_rate": "1",
+            "amount": "159.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Market Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Ehm Mağazacılık San. Ve Tic. A.Ş.",
+    "date": "03-02-2024",
+    "time": "15:12",
+    "receipt_id": "VNJ2024000002379",
+    "total_tax": "63.66",
+    "total_amount": "381.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "2.00",
+            "category": "",
+            "name": "Nonvowen Poşet",
+            "tax_rate": "20",
+            "amount": "2.00"
+        },
+		{
+            "quantity": "1.00",
+            "price": "379.98",
+            "category": "",
+            "name": "Soft Çubuklu Oda",
+            "tax_rate": "20",
+            "amount": "379.98"
+        },
+		{
+            "quantity": "1.00",
+            "price": "",
+            "category": "",
+            "name": "Soft Çubuklu Oda",
+            "tax_rate": "20",
+            "amount": "0.00"
+        }
+    ]
+}

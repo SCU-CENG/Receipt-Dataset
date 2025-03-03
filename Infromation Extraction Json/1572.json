@@ -1,0 +1,20 @@
+{
+    "company": "Kilavuz Komagene Çiğköfte",
+    "date": "16-12-2023",
+    "time": "18:41",
+    "receipt_id": "46",
+    "total_tax": "9.91",
+    "total_amount": "109.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "10",
+            "amount": "109.00"
+        }
+    ]
+}

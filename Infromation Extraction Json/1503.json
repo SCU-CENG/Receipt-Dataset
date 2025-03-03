@@ -1,0 +1,164 @@
+{
+    "company": "Bim Birleşik Mağazalar Aş",
+    "date": "03-06-2023",
+    "time": "14:28",
+    "receipt_id": "0064",
+    "total_tax": "9.22",
+    "total_amount": "923.61",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Zeytin Siyah 1.4 Kg",
+            "tax_rate": "1",
+            "amount": "159.90"
+        },
+        {
+            "quantity": "9.290",
+            "price": "8.50",
+            "category": "",
+            "name": "Karpuz Kg",
+            "tax_rate": "1",
+            "amount": "78.97"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "2.050",
+            "price": "15.75",
+            "category": "",
+            "name": "Limon Kg",
+            "tax_rate": "1",
+            "amount": "32.29"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "39.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "19.50",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "39.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İnek Peyniri 400G",
+            "tax_rate": "1",
+            "amount": "66.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Salam Hindi 75G",
+            "tax_rate": "1",
+            "amount": "11.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Izgara KöfteDana400G",
+            "tax_rate": "1",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İnegöl Köftedana400G",
+            "tax_rate": "1",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tazekaşar700Gkaanbey",
+            "tax_rate": "1",
+            "amount": "99.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eritme Peynir 250G",
+            "tax_rate": "1",
+            "amount": "45.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ay Çekirdeği 250G",
+            "tax_rate": "1",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ay Çekirdeği 250G",
+            "tax_rate": "1",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kızar.Yerfıstığı150G",
+            "tax_rate": "1",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bulgur Köftelik 1Kg",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baldo Pirinç 2.5Kg",
+            "tax_rate": "1",
+            "amount": "74.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gofret 650G Oylum",
+            "tax_rate": "1",
+            "amount": "34.95"
+        }
+    ]
+}

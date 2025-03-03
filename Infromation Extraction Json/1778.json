@@ -1,0 +1,28 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "26-11-2023",
+    "time": "18:16",
+    "receipt_id": "0227",
+    "total_tax": "0.18",
+    "total_amount": "18.55",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Bardak 25 Lı",
+            "tax_rate": "1",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 30 % İndirim",
+            "tax_rate": "1",
+            "amount": "-7.95"
+        }
+    ]
+}

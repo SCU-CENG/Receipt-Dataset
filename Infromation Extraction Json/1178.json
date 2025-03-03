@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "22-06-2023",
+    "time": "19:18",
+    "receipt_id": "0301",
+    "total_tax": "2.68",
+    "total_amount": "26.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papatya Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "9.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Parex Trend Klası",
+            "tax_rate": "18",
+            "amount": "25.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İndirim",
+            "tax_rate": "18",
+            "amount": "-9.00"
+        }
+    ]
+}

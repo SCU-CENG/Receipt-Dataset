@@ -1,0 +1,20 @@
+{
+    "company": "Yerliyurt Lojistik Ltd Şti",
+    "date": "09-08-2023",
+    "time": "19:07",
+    "receipt_id": "99",
+    "total_tax": "66.67",
+    "total_amount": "400.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "10.800",
+            "price": "37.050",
+            "category": "",
+            "name": "Kursunsuz95",
+            "tax_rate": "20",
+            "amount": "400.00"
+        }
+    ]
+}

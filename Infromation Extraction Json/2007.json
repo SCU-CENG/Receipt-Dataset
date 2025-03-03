@@ -1,0 +1,20 @@
+{
+    "company": "Bereket Yufka Kadayıf",
+    "date": "15-01-2024",
+    "time": "18:28",
+    "receipt_id": "46",
+    "total_tax": "0.71",
+    "total_amount": "72.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Unlu Mamül",
+            "tax_rate": "1",
+            "amount": "72.00"
+        }
+    ]
+}

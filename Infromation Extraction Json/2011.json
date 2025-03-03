@@ -1,0 +1,60 @@
+{
+    "company": "Samanpazarı",
+    "date": "21-01-2024",
+    "time": "16:41",
+    "receipt_id": "327",
+    "total_tax": "11.90",
+    "total_amount": "83.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "17.50",
+            "category": "",
+            "name": "Wıse Bırd Isıya",
+            "tax_rate": "20",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "37.50",
+            "category": "",
+            "name": "Energızer Max",
+            "tax_rate": "20",
+            "amount": "37.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "10.00",
+            "category": "",
+            "name": "Fatih Kırmızı",
+            "tax_rate": "10",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "9.50",
+            "category": "",
+            "name": "Faber Castell",
+            "tax_rate": "10",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Hırdavat",
+            "tax_rate": "20",
+            "amount": "2.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.00",
+            "category": "",
+            "name": "Silka Art-2",
+            "tax_rate": "10",
+            "amount": "6.00"
+        }
+    ]
+}

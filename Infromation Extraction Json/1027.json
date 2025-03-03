@@ -1,0 +1,36 @@
+{
+    "company": "Macrocenter",
+    "date": "06-04-2023",
+    "time": "19:00",
+    "receipt_id": "0221",
+    "total_tax": "0.62",
+    "total_amount": "62.18",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.245",
+            "price": "59.90",
+            "category": "",
+            "name": "Dole Muz Kg",
+            "tax_rate": "1",
+            "amount": "14.63"
+        },
+        {
+            "quantity": "0.138",
+            "price": "235.90",
+            "category": "",
+            "name": "Beypazarı Yaprak Sar",
+            "tax_rate": "1",
+            "amount": "32.55"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sek Cıleklı Kefır",
+            "tax_rate": "1",
+            "amount": "14.95"
+        }
+    ]
+}

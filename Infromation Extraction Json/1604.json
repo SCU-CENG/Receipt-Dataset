@@ -1,0 +1,28 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "13-07-2023",
+    "time": "20:33",
+    "receipt_id": "0348",
+    "total_tax": "6.29",
+    "total_amount": "37.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Banyo Taburesi",
+            "tax_rate": "20",
+            "amount": "37.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

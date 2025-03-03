@@ -1,0 +1,20 @@
+{
+    "company": "Has Döner",
+    "date": "30-08-2021",
+    "time": "16:09",
+    "receipt_id": "000064",
+    "total_tax": "0.69",
+    "total_amount": "70.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "70.00"
+        }
+    ]
+}

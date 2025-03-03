@@ -1,0 +1,44 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "24-03-2024",
+    "time": "17:29",
+    "receipt_id": "0072",
+    "total_tax": "1.70",
+    "total_amount": "171.89",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.815",
+            "price": "37.75",
+            "category": "",
+            "name": "Salatalık",
+            "tax_rate": "1",
+            "amount": "30.77"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Maydanoz",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "0.930",
+            "price": "37.90",
+            "category": "",
+            "name": "Domates Salkım",
+            "tax_rate": "1",
+            "amount": "35.25"
+        },
+        {
+            "quantity": "1.330",
+            "price": "69.90",
+            "category": "",
+            "name": "Muz İthal",
+            "tax_rate": "1",
+            "amount": "92.97"
+        }
+    ]
+}

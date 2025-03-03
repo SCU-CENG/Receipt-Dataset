@@ -1,0 +1,20 @@
+{
+    "company": "Starbucks Coffee",
+    "date": "17-09-2021",
+    "time": "11:42",
+    "receipt_id": "0266",
+    "total_tax": "0.14",
+    "total_amount": "14.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pike Place Grande",
+            "tax_rate": "1",
+            "amount": "14.50"
+        }
+    ]
+}

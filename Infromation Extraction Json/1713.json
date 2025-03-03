@@ -1,0 +1,28 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "24-09-2023",
+    "time": "19:41",
+    "receipt_id": "00420",
+    "total_tax": "20.13",
+    "total_amount": "179.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 200 Ml Karısı",
+            "tax_rate": "10",
+            "amount": "129.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bonısa Kedı Kumu 5 Lt",
+            "tax_rate": "20",
+            "amount": "49.50"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "company": "",
+    "date": "",
+    "time": "",
+    "receipt_id": "0131",
+    "total_tax": "16.48",
+    "total_amount": "338.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Prılbuldet4Kg",
+            "tax_rate": "20",
+            "amount": "83.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Petibör 4X200 G Ülke",
+            "tax_rate": "1",
+            "amount": "48.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 1 Kg B.Peynir",
+            "tax_rate": "1",
+            "amount": "92.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Burçak 393 G",
+            "tax_rate": "1",
+            "amount": "28.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Karışık250Gcerezya",
+            "tax_rate": "1",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kurabiye Nimet",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "4.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Hanımell.81G Mahl",
+            "tax_rate": "1",
+            "amount": "30.00"
+        }
+    ]
+}

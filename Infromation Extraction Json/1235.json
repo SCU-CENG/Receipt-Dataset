@@ -1,0 +1,44 @@
+{
+    "company": "Gross 58 Market",
+    "date": "18-09-2021",
+    "time": "10:09",
+    "receipt_id": "0071",
+    "total_tax": "5.61",
+    "total_amount": "88.92",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.226",
+            "price": "9.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "12.20"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Cesıt Ekmek",
+            "tax_rate": "1",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tasarzade Kasar 1000",
+            "tax_rate": "8",
+            "amount": "44.95"
+        },
+        {
+            "quantity": "0.640",
+            "price": "44.95",
+            "category": "",
+            "name": "Onur Cecıl Peynırı K",
+            "tax_rate": "8",
+            "amount": "28.77"
+        }
+    ]
+}

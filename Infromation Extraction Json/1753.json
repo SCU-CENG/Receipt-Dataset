@@ -1,0 +1,36 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "08-11-2023",
+    "time": "18:20",
+    "receipt_id": "0132",
+    "total_tax": "0.31",
+    "total_amount": "27.55",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Billur Tuz İyotlu",
+            "tax_rate": "1",
+            "amount": "18.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Piyale Galeta Unu 25",
+            "tax_rate": "1",
+            "amount": "8.40"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti 43",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

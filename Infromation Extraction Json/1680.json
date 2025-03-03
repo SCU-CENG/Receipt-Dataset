@@ -1,0 +1,20 @@
+{
+    "company": "S.S.Erciyes Kültür Ve Eğitim",
+    "date": "31-08-2023",
+    "time": "14:30",
+    "receipt_id": "0482",
+    "total_tax": "3.33",
+    "total_amount": "20.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otopark Ücreti",
+            "tax_rate": "20",
+            "amount": "20.00"
+        }
+    ]
+}

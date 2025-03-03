@@ -1,0 +1,20 @@
+{
+    "company": "Öncu Doner",
+    "date": "11-09-2021",
+    "time": "19:37",
+    "receipt_id": "0003",
+    "total_tax": "0.74",
+    "total_amount": "75.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "75.00"
+        }
+    ]
+}

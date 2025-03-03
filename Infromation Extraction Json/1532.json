@@ -1,0 +1,20 @@
+{
+    "company": "Şok Marketler Tic Aş",
+    "date": "30-09-2023",
+    "time": "18:09",
+    "receipt_id": "0178",
+    "total_tax": "45.65",
+    "total_amount": "279.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Arıel Aqua Pudra 9 K",
+            "tax_rate": "20",
+            "amount": "279.90"
+        }
+    ]
+}

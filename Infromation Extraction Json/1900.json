@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "12-03-2024",
+    "time": "18:17",
+    "receipt_id": "0109",
+    "total_tax": "6.81",
+    "total_amount": "52.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gofret 33G Sare",
+            "tax_rate": "1",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bingo960Mlyumuş",
+            "tax_rate": "20",
+            "amount": "79.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

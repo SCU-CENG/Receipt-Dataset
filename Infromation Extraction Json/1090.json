@@ -1,0 +1,44 @@
+{
+    "company": "Mıgros",
+    "date": "04-05-2023",
+    "time": "17:43",
+    "receipt_id": "0142",
+    "total_tax": "0.88",
+    "total_amount": "24.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cappy Pulpy 330 Ml",
+            "tax_rate": "8",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uludag 200 Ml",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Conboo Kakao Vn 60Ml",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Conboo Kakao Vn 60Ml",
+            "tax_rate": "1",
+            "amount": "5.00"
+        }
+    ]
+}

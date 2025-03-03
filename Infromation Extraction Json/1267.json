@@ -1,0 +1,132 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süper",
+    "date": "21-08-2021",
+    "time": "20:11",
+    "receipt_id": "0127",
+    "total_tax": "31.31",
+    "total_amount": "494.87",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bahceden Kavrulmus K",
+            "tax_rate": "8",
+            "amount": "28.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım Cevız 150 Gr",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "0.930",
+            "price": "10.45",
+            "category": "",
+            "name": "Salatalık Cengelkoy",
+            "tax_rate": "8",
+            "amount": "9.72"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım Aycekırdegı Bo",
+            "tax_rate": "8",
+            "amount": "6.00"
+        },
+        {
+            "quantity": "0.712",
+            "price": "15.90",
+            "category": "",
+            "name": "Muz Ithal",
+            "tax_rate": "8",
+            "amount": "11.32"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dany Cılek 2X90 Gr",
+            "tax_rate": "8",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pern. Hındıstan Cevı",
+            "tax_rate": "8",
+            "amount": "17.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dany Cılek 2X90 Gr",
+            "tax_rate": "8",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tadım Kavrulmus Fınd",
+            "tax_rate": "8",
+            "amount": "26.00"
+        },
+        {
+            "quantity": "0.568",
+            "price": "13.90",
+            "category": "",
+            "name": "Armut Santa Marıa",
+            "tax_rate": "8",
+            "amount": "7.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Uludag Efsane Gaz.6X",
+            "tax_rate": "8",
+            "amount": "16.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "17.00",
+            "category": "",
+            "name": "Pernıgottı Vanılyalı",
+            "tax_rate": "8",
+            "amount": "34.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Oralb D100 Sarjlı Fı",
+            "tax_rate": "8",
+            "amount": "278.90"
+        },
+        {
+            "quantity": "5.00",
+            "price": "18.00",
+            "category": "",
+            "name": "Marlboro 400s Paket",
+            "tax_rate": "0",
+            "amount": "90.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.75"
+        }
+    ]
+}

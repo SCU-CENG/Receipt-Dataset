@@ -1,0 +1,52 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti",
+    "date": "18-09-2021",
+    "time": "10:27",
+    "receipt_id": "0050",
+    "total_tax": "9.39",
+    "total_amount": "126.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "17.00",
+            "category": "",
+            "name": "Serın Guvec Kaymak 200",
+            "tax_rate": "8",
+            "amount": "17.00"
+        },
+        {
+            "quantity": "0.370",
+            "price": "70.00",
+            "category": "",
+            "name": "Fıskobırlık Fındık Ezme",
+            "tax_rate": "8",
+            "amount": "25.90"
+        },
+        {
+            "quantity": "0.450",
+            "price": "25.00",
+            "category": "",
+            "name": "Dogal Kuru Incır Recelı",
+            "tax_rate": "8",
+            "amount": "11.25"
+        },
+        {
+            "quantity": "0.610",
+            "price": "160.00",
+            "category": "",
+            "name": "Guler Ozel Pastırma",
+            "tax_rate": "8",
+            "amount": "25.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "47.00",
+            "category": "",
+            "name": "Guler Macar Salam 750G",
+            "tax_rate": "8",
+            "amount": "47.00"
+        }
+    ]
+}

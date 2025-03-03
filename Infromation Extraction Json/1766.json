@@ -1,0 +1,20 @@
+{
+    "company": "Koçtas Yapı Marketlerı Tıc. A.S.",
+    "date": "16-11-2023",
+    "time": "12:56",
+    "receipt_id": "",
+    "total_tax": "7.50",
+    "total_amount": "44.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Koçtaş Basıc Siliko",
+            "tax_rate": "20",
+            "amount": "44.99"
+        }
+    ]
+}

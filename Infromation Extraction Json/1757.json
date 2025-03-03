@@ -1,0 +1,36 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "04-11-2023",
+    "time": "14:44",
+    "receipt_id": "00154",
+    "total_tax": "2.84",
+    "total_amount": "282.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Altınbas Demlık Pos",
+            "tax_rate": "1",
+            "amount": "154.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Tıryakı 1000 Gr",
+            "tax_rate": "1",
+            "amount": "127.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

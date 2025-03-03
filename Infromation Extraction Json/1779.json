@@ -1,0 +1,20 @@
+{
+    "company": "Tk Tarim Kredi Paz.Ve Mar.A.S",
+    "date": "22-11-2023",
+    "time": "20:18",
+    "receipt_id": "244",
+    "total_tax": "0.69",
+    "total_amount": "69.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk %40 Fındık Parça",
+            "tax_rate": "1",
+            "amount": "69.90"
+        }
+    ]
+}

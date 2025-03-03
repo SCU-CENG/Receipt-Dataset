@@ -1,0 +1,44 @@
+{
+    "company": "Erdağ Meşrubat",
+    "date": "12-08-2023",
+    "time": "15:59",
+    "receipt_id": "0152",
+    "total_tax": "2.59",
+    "total_amount": "40.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Damla Su 0,5 Lt",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Biskrem Cookıe",
+            "tax_rate": "1",
+            "amount": "10.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cappy Kayısı Nektarı",
+            "tax_rate": "10",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baskılı Poşet Adet",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

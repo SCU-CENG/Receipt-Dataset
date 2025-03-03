@@ -1,0 +1,20 @@
+{
+    "company": "Kandil Avize",
+    "date": "03-02-2024",
+    "time": "14:09",
+    "receipt_id": "4",
+    "total_tax": "590.91",
+    "total_amount": "6500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mobilya",
+            "tax_rate": "10",
+            "amount": "6500.00"
+        }
+    ]
+}

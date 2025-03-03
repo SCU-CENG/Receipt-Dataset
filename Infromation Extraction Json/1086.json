@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "02-05-2023",
+    "time": "21:04",
+    "receipt_id": "0313",
+    "total_tax": "0.22",
+    "total_amount": "22.08",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.790",
+            "price": "27.95",
+            "category": "",
+            "name": "Besler Mnv-31-Muz Ye",
+            "tax_rate": "1",
+            "amount": "22.08"
+        }
+    ]
+}

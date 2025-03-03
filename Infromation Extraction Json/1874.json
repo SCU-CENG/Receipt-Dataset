@@ -1,0 +1,52 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "15-03-2024",
+    "time": "13:37",
+    "receipt_id": "77",
+    "total_tax": "2.10",
+    "total_amount": "208.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sekerli Vanilin10*5G",
+            "tax_rate": "1",
+            "amount": "15.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Medjoul Hurma 250 G",
+            "tax_rate": "1",
+            "amount": "82.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ceviz içi 150Gsimbat",
+            "tax_rate": "1",
+            "amount": "59.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "25.50",
+            "category": "",
+            "name": "Süt 1L Dost",
+            "tax_rate": "1",
+            "amount": "51.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

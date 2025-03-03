@@ -1,0 +1,36 @@
+{
+    "company": "Köfteci Yusuf Haz.Yem.Tem.Canlı",
+    "date": "04-10-2021",
+    "time": "22:05",
+    "receipt_id": "0322",
+    "total_tax": "2.96",
+    "total_amount": "40.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "200 Gr Karışık",
+            "tax_rate": "8",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kutu Cocacola 330 Ml",
+            "tax_rate": "8",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Trileçe",
+            "tax_rate": "8",
+            "amount": "6.00"
+        }
+    ]
+}

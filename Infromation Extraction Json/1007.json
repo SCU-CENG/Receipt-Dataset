@@ -1,0 +1,28 @@
+{
+    "company": "Limos Danışmanlık",
+    "date": "13-10-2023",
+    "time": "16:41",
+    "receipt_id": "0034",
+    "total_tax": "21.82",
+    "total_amount": "240.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "10",
+            "amount": "190.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçecek",
+            "tax_rate": "10",
+            "amount": "50.00"
+        }
+    ]
+}

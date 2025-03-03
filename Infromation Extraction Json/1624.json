@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "01-08-2023",
+    "time": "18:30",
+    "receipt_id": "0215",
+    "total_tax": "0.32",
+    "total_amount": "31.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Albeni Çik. 4*",
+            "tax_rate": "1",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi 6X45 G",
+            "tax_rate": "1",
+            "amount": "18.00"
+        }
+    ]
+}

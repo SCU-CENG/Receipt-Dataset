@@ -1,0 +1,172 @@
+{
+    "company": "Tokat Erenler Gıda Tar.Tem.Amb.İnş.",
+    "date": "09-12-2023",
+    "time": "17:59",
+    "receipt_id": "433",
+    "total_tax": "120.11",
+    "total_amount": "1287.49",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "42.95",
+            "category": "",
+            "name": "Finish Tuz 1500 Gr",
+            "tax_rate": "20",
+            "amount": "42.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "32.60",
+            "category": "",
+            "name": "Duru Islak Mendil 50",
+            "tax_rate": "20",
+            "amount": "32.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "159.95",
+            "category": "",
+            "name": "Perwoll 2970 Ml Siya",
+            "tax_rate": "20",
+            "amount": "159.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "88.60",
+            "category": "",
+            "name": "Bingo Bulaşık Deterj",
+            "tax_rate": "20",
+            "amount": "88.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "59.60",
+            "category": "",
+            "name": "Finish Parlatıcı 400",
+            "tax_rate": "20",
+            "amount": "59.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "74.95",
+            "category": "",
+            "name": "Duru Fresh Duş Sabun",
+            "tax_rate": "20",
+            "amount": "74.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "239.95",
+            "category": "",
+            "name": "Alo Matik 7 Kg Kar Ç",
+            "tax_rate": "20",
+            "amount": "239.95"
+        },
+        {
+            "quantity": "2.224",
+            "price": "26.95",
+            "category": "",
+            "name": "Kırık Pirinç Kg",
+            "tax_rate": "1",
+            "amount": "59.94"
+        },
+        {
+            "quantity": "1.994",
+            "price": "19.95",
+            "category": "",
+            "name": "Yerli Pilavlık Bulgu",
+            "tax_rate": "1",
+            "amount": "39.78"
+        },
+        {
+            "quantity": "2.056",
+            "price": "36.95",
+            "category": "",
+            "name": "Kırmızı Mercimek Yer",
+            "tax_rate": "1",
+            "amount": "75.97"
+        },
+        {
+            "quantity": "3.068",
+            "price": "46.95",
+            "category": "",
+            "name": "Mutlular Osmancık Pi",
+            "tax_rate": "1",
+            "amount": "144.04"
+        },
+        {
+            "quantity": "1.00",
+            "price": "29.60",
+            "category": "",
+            "name": "Eti Burçak Yulaflı 3",
+            "tax_rate": "1",
+            "amount": "29.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "21.95",
+            "category": "",
+            "name": "Hızırefendi Kurabiye",
+            "tax_rate": "1",
+            "amount": "21.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "21.95",
+            "category": "",
+            "name": "Hızırefendi Kurabiye",
+            "tax_rate": "1",
+            "amount": "21.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "29.60",
+            "category": "",
+            "name": "Eti Burçak Sultani 3",
+            "tax_rate": "1",
+            "amount": "29.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "29.60",
+            "category": "",
+            "name": "Eti Burçak Klasik 39",
+            "tax_rate": "1",
+            "amount": "29.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "20.95",
+            "category": "",
+            "name": "Ülker Halley Mini Po",
+            "tax_rate": "1",
+            "amount": "20.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Salti Tuz 750 Gr",
+            "tax_rate": "1",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Salti Tuz 750 Gr",
+            "tax_rate": "1",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "2.138",
+            "price": "59.60",
+            "category": "",
+            "name": "Beypiliç Bütün Piliç",
+            "tax_rate": "1",
+            "amount": "127.42"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Dilek Gıda",
+    "date": "11-08-2023",
+    "time": "08:49",
+    "receipt_id": "0002",
+    "total_tax": "27.27",
+    "total_amount": "300.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temizlik Mlz.",
+            "tax_rate": "10",
+            "amount": "300.00"
+        }
+    ]
+}

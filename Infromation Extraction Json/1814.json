@@ -1,0 +1,28 @@
+{
+    "company": "Orta Anadolu Restorant",
+    "date": "29-09-2021",
+    "time": "12:26",
+    "receipt_id": "0039",
+    "total_tax": "0.33",
+    "total_amount": "33.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Plus Menü",
+            "tax_rate": "1",
+            "amount": "30.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Extra",
+            "tax_rate": "1",
+            "amount": "3.00"
+        }
+    ]
+}

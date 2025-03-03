@@ -1,0 +1,92 @@
+{
+    "company": "",
+    "date": "17-03-2023",
+    "time": "09:45",
+    "receipt_id": "0034",
+    "total_tax": "14.12",
+    "total_amount": "252.94",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "11.96",
+            "category": "",
+            "name": "** Mare Havlu 2'Lı",
+            "tax_rate": "8",
+            "amount": "11.96"
+        },
+        {
+            "quantity": "2.00",
+            "price": "11.95",
+            "category": "",
+            "name": "** Mare Havlu 2'Lı",
+            "tax_rate": "8",
+            "amount": "23.90"
+        },
+        {
+            "quantity": "1.00",
+            "price": "11.58",
+            "category": "",
+            "name": "Mıgros Ekonm.Pecete",
+            "tax_rate": "8",
+            "amount": "11.58"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.03",
+            "category": "",
+            "name": "Mcvıtıes Beyaz Cıko",
+            "tax_rate": "1",
+            "amount": "6.03"
+        },
+        {
+            "quantity": "1.00",
+            "price": "45.87",
+            "category": "",
+            "name": "** Sınangıl Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "45.87"
+        },
+        {
+            "quantity": "0.292",
+            "price": "162.19",
+            "category": "",
+            "name": "Lımon Tuzu Parca Kg",
+            "tax_rate": "18",
+            "amount": "47.36"
+        },
+        {
+            "quantity": "1.00",
+            "price": "23.11",
+            "category": "",
+            "name": "Kuhne Beyaz Sırke 2L",
+            "tax_rate": "1",
+            "amount": "23.11"
+        },
+        {
+            "quantity": "1.00",
+            "price": "27.71",
+            "category": "",
+            "name": "** Fınısh Mak.Temız.",
+            "tax_rate": "8",
+            "amount": "27.71"
+        },
+        {
+            "quantity": "1.00",
+            "price": "0.23",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.23"
+        },
+        {
+            "quantity": "1.034",
+            "price": "53.38",
+            "category": "",
+            "name": "Gedık Pılıc Bonfıle",
+            "tax_rate": "1",
+            "amount": "55.19"
+        }
+    ]
+}

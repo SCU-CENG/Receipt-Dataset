@@ -1,0 +1,44 @@
+{
+    "company": "58 Besler Market",
+    "date": "22-05-2023",
+    "time": "14:18",
+    "receipt_id": "0012",
+    "total_tax": "0.81",
+    "total_amount": "81.61",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.754",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-22-Elma",
+            "tax_rate": "1",
+            "amount": "15.04"
+        },
+        {
+            "quantity": "1.721",
+            "price": "14.95",
+            "category": "",
+            "name": "Besler Mnv-4-Kabak",
+            "tax_rate": "1",
+            "amount": "25.73"
+        },
+        {
+            "quantity": "0.382",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Mnv-76-Manta",
+            "tax_rate": "1",
+            "amount": "22.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fresa Soda Karpuz-Cı",
+            "tax_rate": "1",
+            "amount": "17.94"
+        }
+    ]
+}

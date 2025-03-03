@@ -1,0 +1,20 @@
+{
+    "company": "Simitci Dünyası",
+    "date": "17-08-2023",
+    "time": "16:15",
+    "receipt_id": "0003",
+    "total_tax": "18.64",
+    "total_amount": "205.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "10",
+            "amount": "205.00"
+        }
+    ]
+}

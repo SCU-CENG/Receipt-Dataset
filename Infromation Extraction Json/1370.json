@@ -1,0 +1,20 @@
+{
+    "company": "Burger Yiyelim",
+    "date": "19-10-2021",
+    "time": "17:50",
+    "receipt_id": "0003",
+    "total_tax": "3.21",
+    "total_amount": "43.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "ıııdil",
+            "tax_rate": "8",
+            "amount": "43.40"
+        }
+    ]
+}

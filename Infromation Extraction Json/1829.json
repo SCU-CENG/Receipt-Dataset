@@ -1,0 +1,20 @@
+{
+    "company": "",
+    "date": "04-10-2021",
+    "time": "13:17",
+    "receipt_id": "0013",
+    "total_tax": "4.07",
+    "total_amount": "55.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "B.İ.G 200Gr",
+            "tax_rate": "8",
+            "amount": "55.00"
+        }
+    ]
+}

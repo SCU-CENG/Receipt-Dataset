@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "09-07-2023",
+    "time": "21:31",
+    "receipt_id": "0296",
+    "total_tax": "0.44",
+    "total_amount": "44.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Luppo Şeftali 182G",
+            "tax_rate": "1",
+            "amount": "19.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çerezza Sine 180G",
+            "tax_rate": "1",
+            "amount": "24.95"
+        }
+    ]
+}

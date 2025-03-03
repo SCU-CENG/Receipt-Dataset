@@ -1,0 +1,68 @@
+{
+    "company": "Mapa Mobilya Ve Aksesuar Pazarlama A.Ş",
+    "date": "25-10-2021",
+    "time": "19:42",
+    "receipt_id": "0495",
+    "total_tax": "3.62",
+    "total_amount": "48.85",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İsveç Dana Köfte 8'Li",
+            "tax_rate": "8",
+            "amount": "17.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kutu İçecek 330 Ml",
+            "tax_rate": "8",
+            "amount": "4.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meze Tabağı",
+            "tax_rate": "8",
+            "amount": "14.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.25",
+            "category": "",
+            "name": "Sarımsaklı Ekmek",
+            "tax_rate": "8",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bol Acılı Sos 20g",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Barbekü Sos 20g",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ranch Sos 20g",
+            "tax_rate": "8",
+            "amount": "1.50"
+        }
+    ]
+}

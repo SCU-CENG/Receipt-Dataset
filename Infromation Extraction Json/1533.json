@@ -1,0 +1,116 @@
+{
+    "company": "Şok Marketler Tic Aş",
+    "date": "30-09-2023",
+    "time": "11:25",
+    "receipt_id": "0038",
+    "total_tax": "46.15",
+    "total_amount": "703.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fairy Platımun Plus",
+            "tax_rate": "20",
+            "amount": "191.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çaykur Çaycı Sıyah Ç",
+            "tax_rate": "1",
+            "amount": "99.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku Tam Çikolatam",
+            "tax_rate": "1",
+            "amount": "28.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Hanımeller Aso",
+            "tax_rate": "1",
+            "amount": "19.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Anadolu Mutfağı Bald",
+            "tax_rate": "1",
+            "amount": "95.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Pötibör Bisküv",
+            "tax_rate": "1",
+            "amount": "57.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Colgate Max White Dı",
+            "tax_rate": "10",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Burçak Yulaflı 3",
+            "tax_rate": "1",
+            "amount": "36.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Experdent Dış Fırças",
+            "tax_rate": "10",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "4.00",
+            "price": "9.00",
+            "category": "",
+            "name": "Ülker Hanımeller Çok",
+            "tax_rate": "1",
+            "amount": "36.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Kremalı Bisküv",
+            "tax_rate": "1",
+            "amount": "40.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Signal White Mow Ext",
+            "tax_rate": "10",
+            "amount": "101.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti 43",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

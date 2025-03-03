@@ -1,0 +1,20 @@
+{
+    "company": "Bahçe Mini Hal",
+    "date": "16-10-2021",
+    "time": "09:08",
+    "receipt_id": "0004",
+    "total_tax": "1.11",
+    "total_amount": "15.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sebze",
+            "tax_rate": "8",
+            "amount": "15.00"
+        }
+    ]
+}

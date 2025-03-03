@@ -1,0 +1,28 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "24-10-2023",
+    "time": "16:07",
+    "receipt_id": "0075",
+    "total_tax": "1.23",
+    "total_amount": "120.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sucuk Dana 450G",
+            "tax_rate": "1",
+            "amount": "120.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

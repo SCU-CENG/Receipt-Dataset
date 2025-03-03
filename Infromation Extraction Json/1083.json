@@ -1,0 +1,28 @@
+{
+    "company": "Sidaş Emlak Otom. A.Ş",
+    "date": "17-05-2023",
+    "time": "20:20",
+    "receipt_id": "0236",
+    "total_tax": "0.42",
+    "total_amount": "42.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "3.00",
+            "category": "",
+            "name": "Bardak Çayy",
+            "tax_rate": "1",
+            "amount": "12.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pasta Çeşitleri",
+            "tax_rate": "1",
+            "amount": "30.00"
+        }
+    ]
+}

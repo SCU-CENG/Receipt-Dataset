@@ -1,0 +1,20 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "11-10-2023",
+    "time": "20:28",
+    "receipt_id": "0305",
+    "total_tax": "0.34",
+    "total_amount": "34.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Domates Salca",
+            "tax_rate": "1",
+            "amount": "34.50"
+        }
+    ]
+}

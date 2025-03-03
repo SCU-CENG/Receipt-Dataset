@@ -1,0 +1,20 @@
+{
+    "company": "Sefa Baharat",
+    "date": "15-08-2023",
+    "time": "13:04",
+    "receipt_id": "00023",
+    "total_tax": "1.59",
+    "total_amount": "161.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temel Gıda",
+            "tax_rate": "1",
+            "amount": "161.00"
+        }
+    ]
+}

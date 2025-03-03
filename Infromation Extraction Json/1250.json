@@ -1,0 +1,140 @@
+{
+    "company": "Mükaş",
+    "date": "04-09-2021",
+    "time": "17:54",
+    "receipt_id": "00110",
+    "total_tax": "21.11",
+    "total_amount": "243.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Palette Saç Boyası Pnc 5-0",
+            "tax_rate": "18",
+            "amount": "16.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "27.00",
+            "category": "",
+            "name": "1099 Berrak Erkek Renkli B",
+            "tax_rate": "8",
+            "amount": "54.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1054 Erkek Empirme Boxer",
+            "tax_rate": "8",
+            "amount": "29.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1099 Berrak Erkek Renkli B",
+            "tax_rate": "8",
+            "amount": "27.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "27.00",
+            "category": "",
+            "name": "1099 Berrak Erkek Renkli B",
+            "tax_rate": "8",
+            "amount": "54.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Zambak Kamelya Mikrofiber",
+            "tax_rate": "18",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Noki Evrak Zarfı Çıtçıtlı",
+            "tax_rate": "18",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Faber-Castell Damla Şekill",
+            "tax_rate": "8",
+            "amount": "8.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Keskin Color Basic Pp Kapa",
+            "tax_rate": "8",
+            "amount": "1.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Difaş Diş Fırçası Karbon K",
+            "tax_rate": "8",
+            "amount": "9.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Macro Max Rengarenk Sünge",
+            "tax_rate": "18",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Scotch Brite Yeşil Klasik",
+            "tax_rate": "18",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Keskin Color Basic Pp Kapa",
+            "tax_rate": "8",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Keskin A4 96 Yp Basıc Deft",
+            "tax_rate": "8",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Keskin A4 96 Yp Basıc Deft",
+            "tax_rate": "8",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

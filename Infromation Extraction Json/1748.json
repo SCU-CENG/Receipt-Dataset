@@ -1,0 +1,20 @@
+{
+    "company": "Sidaş Emlak Otom.A.Ş.",
+    "date": "23-10-2023",
+    "time": "11:34",
+    "receipt_id": "0081",
+    "total_tax": "83.33",
+    "total_amount": "500.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "26.90",
+            "price": "18.590",
+            "category": "",
+            "name": "Lpg",
+            "tax_rate": "20",
+            "amount": "500.00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş",
+    "date": "22-07-2023",
+    "time": "21:08",
+    "receipt_id": "0251",
+    "total_tax": "0.11",
+    "total_amount": "10.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kido 180Ml Muzs",
+            "tax_rate": "1",
+            "amount": "7.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Su 0.5 L Hayat",
+            "tax_rate": "1",
+            "amount": "3.50"
+        }
+    ]
+}

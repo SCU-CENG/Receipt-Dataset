@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "28-10-2023",
+    "time": "17:06",
+    "receipt_id": "0154",
+    "total_tax": "0.78",
+    "total_amount": "79.18",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.765",
+            "price": "9.45",
+            "category": "",
+            "name": "Mandalina",
+            "tax_rate": "1",
+            "amount": "16.68"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Muratbey200G An",
+            "tax_rate": "1",
+            "amount": "62.50"
+        }
+    ]
+}

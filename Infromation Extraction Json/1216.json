@@ -1,0 +1,44 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "22-09-2021",
+    "time": "10:36",
+    "receipt_id": "0038",
+    "total_tax": "4.50",
+    "total_amount": "82.60",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "7.45",
+            "category": "",
+            "name": "Yayla 1000Gr Asurelı",
+            "tax_rate": "8",
+            "amount": "14.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tukas D.Salca 4350Gr",
+            "tax_rate": "8",
+            "amount": "41.95"
+        },
+        {
+            "quantity": "17.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (SO",
+            "tax_rate": "1",
+            "amount": "25.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıgıdo Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

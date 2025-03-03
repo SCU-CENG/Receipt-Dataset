@@ -1,0 +1,20 @@
+{
+    "company": "Kelkit Gross",
+    "date": "22-07-2023",
+    "time": "11:06",
+    "receipt_id": "0020",
+    "total_tax": "5.62",
+    "total_amount": "567.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıs Un 50 Kg Boreklık-Pa",
+            "tax_rate": "1",
+            "amount": "567.50"
+        }
+    ]
+}

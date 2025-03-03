@@ -1,0 +1,20 @@
+{
+    "company": "Sunan Elektrik",
+    "date": "30-12-2023",
+    "time": "14:48",
+    "receipt_id": "1",
+    "total_tax": "25.00",
+    "total_amount": "150.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Elekt M.",
+            "tax_rate": "20",
+            "amount": "150.00"
+        }
+    ]
+}

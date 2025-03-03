@@ -1,0 +1,36 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "26-01-2024",
+    "time": "20:33",
+    "receipt_id": "0230",
+    "total_tax": "21.41",
+    "total_amount": "379.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Toz Seker 5 Kg",
+            "tax_rate": "1",
+            "amount": "119.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "21.00",
+            "category": "",
+            "name": "Halk Sut 1 Lt Uht",
+            "tax_rate": "1",
+            "amount": "42.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "109.00",
+            "category": "",
+            "name": "Sleepy Naturel 2 Lu",
+            "tax_rate": "10",
+            "amount": "218.00"
+        }
+    ]
+}

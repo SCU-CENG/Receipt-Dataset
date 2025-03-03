@@ -1,0 +1,44 @@
+{
+    "company": "Yıldırım Çorap",
+    "date": "07-05-2023",
+    "time": "10:54",
+    "receipt_id": "6",
+    "total_tax": "12.22",
+    "total_amount": "165.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ceylanoglu. Rıb.E",
+            "tax_rate": "8",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Jıber. Hamile Dan",
+            "tax_rate": "8",
+            "amount": "45.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Jıber. Hamile Dan",
+            "tax_rate": "8",
+            "amount": "45.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dezalux. Bayan Pe",
+            "tax_rate": "8",
+            "amount": "50.00"
+        }
+    ]
+}

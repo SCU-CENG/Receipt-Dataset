@@ -1,0 +1,20 @@
+{
+    "company": "Şeker Petrol Ürünleri Turizm",
+    "date": "02-12-2023",
+    "time": "15:49",
+    "receipt_id": "0083",
+    "total_tax": "66.67",
+    "total_amount": "400.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.33",
+            "price": "35.290",
+            "category": "",
+            "name": "U. Force K.95 Benzın",
+            "tax_rate": "20",
+            "amount": "400.00"
+        }
+    ]
+}

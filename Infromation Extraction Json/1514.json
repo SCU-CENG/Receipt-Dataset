@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "05-08-2023",
+    "time": "09:51",
+    "receipt_id": "0016",
+    "total_tax": "21.00",
+    "total_amount": "80.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "K.Şnti3X75Gdoet",
+            "tax_rate": "1",
+            "amount": "59.50"
+        },
+        {
+            "quantity": "3.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "21.00"
+        }
+    ]
+}

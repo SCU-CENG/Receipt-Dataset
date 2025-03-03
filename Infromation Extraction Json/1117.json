@@ -1,0 +1,20 @@
+{
+    "company": "Deveci Petrol",
+    "date": "02-03-2023",
+    "time": "08:50",
+    "receipt_id": "9",
+    "total_tax": "38.14",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "11.871",
+            "price": "21.060",
+            "category": "",
+            "name": "Kursunsuz 95",
+            "tax_rate": "18",
+            "amount": "250.00"
+        }
+    ]
+}

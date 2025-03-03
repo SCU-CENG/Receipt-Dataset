@@ -1,0 +1,28 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.St",
+    "date": "05-09-2021",
+    "time": "17:45",
+    "receipt_id": "0177",
+    "total_tax": "6.41",
+    "total_amount": "86.58",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.535",
+            "price": "5.00",
+            "category": "",
+            "name": "Etlı Pıde Malzeme Kg",
+            "tax_rate": "8",
+            "amount": "7.68"
+        },
+        {
+            "quantity": "1.315",
+            "price": "60.00",
+            "category": "",
+            "name": "Dana Kaburga",
+            "tax_rate": "8",
+            "amount": "78.90"
+        }
+    ]
+}

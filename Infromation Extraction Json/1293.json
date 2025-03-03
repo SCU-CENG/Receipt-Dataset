@@ -1,0 +1,36 @@
+{
+    "company": "Mükaş",
+    "date": "08-09-2021",
+    "time": "16:18",
+    "receipt_id": "00213",
+    "total_tax": "13.42",
+    "total_amount": "88.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gökçe Uzun Ahşap Oyacak",
+            "tax_rate": "18",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sürmene Penguen Masat",
+            "tax_rate": "18",
+            "amount": "75.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ozturk Ahşap Oyacak",
+            "tax_rate": "18",
+            "amount": "6.50"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "14-10-2021",
+    "time": "19:44",
+    "receipt_id": "0160",
+    "total_tax": "1.92",
+    "total_amount": "25.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çorba",
+            "tax_rate": "8",
+            "amount": "6.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tavuklu Pide",
+            "tax_rate": "8",
+            "amount": "18.99"
+        }
+    ]
+}

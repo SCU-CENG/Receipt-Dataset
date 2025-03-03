@@ -1,0 +1,36 @@
+{
+    "company": "Gross 58 Market",
+    "date": "07-01-2024",
+    "time": "16:00",
+    "receipt_id": "0336",
+    "total_tax": "9.78",
+    "total_amount": "65.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ace Ultra Jel 3Kg Lı",
+            "tax_rate": "20",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

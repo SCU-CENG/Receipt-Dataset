@@ -1,0 +1,36 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "27-08-2023",
+    "time": "13:18",
+    "receipt_id": "00110",
+    "total_tax": "0.93",
+    "total_amount": "93.93",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.436",
+            "price": "17.90",
+            "category": "",
+            "name": "M-Salatalık",
+            "tax_rate": "1",
+            "amount": "25.70"
+        },
+        {
+            "quantity": "1.596",
+            "price": "19.90",
+            "category": "",
+            "name": "M-Domates Antalya",
+            "tax_rate": "1",
+            "amount": "31.76"
+        },
+        {
+            "quantity": "0.914",
+            "price": "39.90",
+            "category": "",
+            "name": "M-Cekırdeksız Uzum",
+            "tax_rate": "1",
+            "amount": "36.47"
+        }
+    ]
+}

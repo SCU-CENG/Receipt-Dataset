@@ -1,0 +1,92 @@
+{
+    "company": "58 Besler Market",
+    "date": "22-10-2021",
+    "time": "12:39",
+    "receipt_id": "0077",
+    "total_tax": "15.84",
+    "total_amount": "175.60",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hobby S.Sabun 3,6 Lt",
+            "tax_rate": "18",
+            "amount": "17.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Tost Peynırı 60",
+            "tax_rate": "8",
+            "amount": "21.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kır Bal Kase Peteklı",
+            "tax_rate": "8",
+            "amount": "36.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas B.Peynır Suzme",
+            "tax_rate": "8",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pantene Samp.500Ml S",
+            "tax_rate": "18",
+            "amount": "17.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selva Irmık 1Kg",
+            "tax_rate": "8",
+            "amount": "7.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bızım Ketcap 600Gr A",
+            "tax_rate": "8",
+            "amount": "8.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hakkı Efendı Osmanlı",
+            "tax_rate": "8",
+            "amount": "12.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tat Baldo Prınc 2 Kg",
+            "tax_rate": "8",
+            "amount": "25.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler 0. Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

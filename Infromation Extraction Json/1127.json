@@ -1,0 +1,28 @@
+{
+    "company": "Beşler Fresh Market",
+    "date": "20-05-2023",
+    "time": "21:37",
+    "receipt_id": "0315",
+    "total_tax": "0.56",
+    "total_amount": "56.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.270",
+            "price": "9.90",
+            "category": "",
+            "name": "Karpuz P30",
+            "tax_rate": "1",
+            "amount": "42.27"
+        },
+        {
+            "quantity": "0.945",
+            "price": "14.95",
+            "category": "",
+            "name": "Ispanak P53",
+            "tax_rate": "1",
+            "amount": "14.13"
+        }
+    ]
+}

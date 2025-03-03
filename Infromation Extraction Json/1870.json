@@ -1,0 +1,52 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "07-03-2024",
+    "time": "18:27",
+    "receipt_id": "00398",
+    "total_tax": "6.58",
+    "total_amount": "82.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Porcoz 1000 Gr",
+            "tax_rate": "20",
+            "amount": "36.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Doganay Elma Sırkesı 1000",
+            "tax_rate": "1",
+            "amount": "31.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "E-Cesıt Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker 9 Kat Tat Ince Ince",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker 9 Kat Tat Ince Ince",
+            "tax_rate": "1",
+            "amount": "-19.90"
+        }
+    ]
+}

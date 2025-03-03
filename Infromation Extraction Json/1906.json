@@ -1,0 +1,44 @@
+{
+    "company": "istanbul Çarşı",
+    "date": "22-12-2023",
+    "time": "18:36",
+    "receipt_id": "",
+    "total_tax": "",
+    "total_amount": "116.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "45.00",
+            "category": "",
+            "name": "Arslan Çay Kaşığı 6 Lı",
+            "tax_rate": "",
+            "amount": "45.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "43.50",
+            "category": "",
+            "name": "Faber Castell Uç 120 Li",
+            "tax_rate": "",
+            "amount": "43.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Mikro Uç Cetvelli75 Mm 0.7 M-750",
+            "tax_rate": "",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "20.00",
+            "category": "",
+            "name": "Muhtelif",
+            "tax_rate": "",
+            "amount": "20.00"
+        }
+    ]
+}

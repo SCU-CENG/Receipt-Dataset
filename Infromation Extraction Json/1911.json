@@ -1,0 +1,84 @@
+{
+    "company": "Halktan Tekat Şubesi",
+    "date": "26-12-2023",
+    "time": "10:03",
+    "receipt_id": "B14202000371462",
+    "total_tax": ".1320",
+    "total_amount": "117.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Halktan Karanfil 15 Gr",
+            "tax_rate": "1",
+            "amount": "12.90"
+        },
+        {
+            "quantity": "0.29",
+            "price": "99.90",
+            "category": "",
+            "name": "Fıstık Tuzsuz Lüks",
+            "tax_rate": "1",
+            "amount": "28.97"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Halktan Çikolatalı Leblebi Kurabiyesi",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "0.094",
+            "price": "99.90",
+            "category": "",
+            "name": "Dut Kurusu",
+            "tax_rate": "1",
+            "amount": "9.39"
+        },
+        {
+            "quantity": "0.092",
+            "price": "69.90",
+            "category": "",
+            "name": "Leblebi Tuzlu Duble",
+            "tax_rate": "1",
+            "amount": "6.43"
+        },
+        {
+            "quantity": "0.078",
+            "price": "69.90",
+            "category": "",
+            "name": "Leblebi Sarı Duble",
+            "tax_rate": "1",
+            "amount": "5.45"
+        },
+        {
+            "quantity": "0.176",
+            "price": "62.90",
+            "category": "",
+            "name": "Leblebi Çıtır Duble",
+            "tax_rate": "1",
+            "amount": "11.07"
+        },
+        {
+            "quantity": "0.124",
+            "price": "109.90",
+            "category": "",
+            "name": "Fıstık Amigo",
+            "tax_rate": "1",
+            "amount": "13.63"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

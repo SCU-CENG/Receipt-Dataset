@@ -1,0 +1,60 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "24-04-2023",
+    "time": "14:41",
+    "receipt_id": "0078",
+    "total_tax": "0.69",
+    "total_amount": "65.63",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.530",
+            "price": "17.75",
+            "category": "",
+            "name": "Elma Starking",
+            "tax_rate": "1",
+            "amount": "9.41"
+        },
+        {
+            "quantity": "0.290",
+            "price": "14.50",
+            "category": "",
+            "name": "Limon",
+            "tax_rate": "1",
+            "amount": "4.21"
+        },
+        {
+            "quantity": "0.600",
+            "price": "27.75",
+            "category": "",
+            "name": "Salatalık",
+            "tax_rate": "1",
+            "amount": "16.65"
+        },
+        {
+            "quantity": "0.620",
+            "price": "27.75",
+            "category": "",
+            "name": "Patlıcan",
+            "tax_rate": "1",
+            "amount": "17.21"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Domates Kokteyl Pake",
+            "tax_rate": "1",
+            "amount": "17.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

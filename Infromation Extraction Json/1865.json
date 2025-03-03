@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Uygun Avm",
+    "date": "08-03-2024",
+    "time": "13:31",
+    "receipt_id": "000086",
+    "total_tax": "199.98",
+    "total_amount": "1199.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Züccaciye",
+            "tax_rate": "20",
+            "amount": "1199.90"
+        }
+    ]
+}

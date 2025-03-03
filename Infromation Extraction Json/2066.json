@@ -1,0 +1,44 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "27-03-2024",
+    "time": "18:30",
+    "receipt_id": "197",
+    "total_tax": "11.49",
+    "total_amount": "199.26",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Krema 200Ml Dost",
+            "tax_rate": "1",
+            "amount": "37.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tril.Sosçeş.315G360G",
+            "tax_rate": "1",
+            "amount": "44.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atlet Erkek L/Xl",
+            "tax_rate": "10",
+            "amount": "117.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti Bim",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

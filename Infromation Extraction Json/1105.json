@@ -1,0 +1,20 @@
+{
+    "company": "Özşah İletişim",
+    "date": "26-04-2023",
+    "time": "16:03",
+    "receipt_id": "0058",
+    "total_tax": "",
+    "total_amount": "194.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+ {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Edilen faturanin",
+            "tax_rate": "",
+            "amount": "194.99"
+        }
+    ]
+}

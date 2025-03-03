@@ -1,0 +1,284 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "10-05-2023",
+    "time": "16:33",
+    "receipt_id": "0123",
+    "total_tax": "23.43",
+    "total_amount": "985.10",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofia Tuv.Kağ 8 ",
+            "tax_rate": "8",
+            "amount": "89.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru500Mlkepek",
+            "tax_rate": "8",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mendiva 101Li",
+            "tax_rate": "8",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Asperox1LMaviGü",
+            "tax_rate": "8",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mistral 200Lü P",
+            "tax_rate": "8",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofia Tuv.Kağ 8",
+            "tax_rate": "8",
+            "amount": "89.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku 4X1L Y.Y",
+            "tax_rate": "1",
+            "amount": "69.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tarabya 700 G K",
+            "tax_rate": "1",
+            "amount": "112.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 750G B.Pey",
+            "tax_rate": "1",
+            "amount": "73.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bnvit Salam 250",
+            "tax_rate": "1",
+            "amount": "19.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bezelye 450Gçok",
+            "tax_rate": "1",
+            "amount": "19.75"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.50",
+            "category": "",
+            "name": "Birşah 200 Ml A",
+            "tax_rate": "1",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Salça Dmt. Tuka",
+            "tax_rate": "1",
+            "amount": "42.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dana Sucuk 300",
+            "tax_rate": "1",
+            "amount": "89.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Zey.Yeş.Domat K",
+            "tax_rate": "1",
+            "amount": "99.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hayatı.5L Su",
+            "tax_rate": "1",
+            "amount": "8.35"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dentaçocukfırça",
+            "tax_rate": "8",
+            "amount": "4.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Frema 400G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "3.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Ülker Ptbr 175",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Cin 114 G",
+            "tax_rate": "1",
+            "amount": "9.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çokoprens 300G",
+            "tax_rate": "1",
+            "amount": "24.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Torku",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Torku",
+            "tax_rate": "1",
+            "amount": "19.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Nero 4X110G",
+            "tax_rate": "1",
+            "amount": "28.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker İkram 3X8",
+            "tax_rate": "1",
+            "amount": "23.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Albeni Çik. 4*",
+            "tax_rate": "1",
+            "amount": "14.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Burçak 393",
+            "tax_rate": "1",
+            "amount": "25.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Milkten 250G te",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yedigünport250",
+            "tax_rate": "8",
+            "amount": "6.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yedigün 2.5 L",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofia Tuv.Kağ 8Li",
+            "tax_rate": "8",
+            "amount": "-49.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofia Tuv.Kağ 8Li",
+            "tax_rate": "8",
+            "amount": "-49.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Zey.Yeş.Domat Kırma",
+            "tax_rate": "1",
+            "amount": "-45.00"
+        }
+    ]
+}

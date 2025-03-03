@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "14-12-2023",
+    "time": "18:34",
+    "receipt_id": "0116",
+    "total_tax": "0.65",
+    "total_amount": "65.96",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekıcı Lor 500 Gr",
+            "tax_rate": "1",
+            "amount": "37.90"
+        },
+        {
+            "quantity": "0.468",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "28.06"
+        }
+    ]
+}

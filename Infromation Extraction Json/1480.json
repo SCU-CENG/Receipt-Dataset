@@ -1,0 +1,20 @@
+{
+    "company": "Seyhanlar",
+    "date": "22-04-2023",
+    "time": "12:58",
+    "receipt_id": "0205",
+    "total_tax": "4.57",
+    "total_amount": "29.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Krl.Fc Bls.Uc 4Lu Su",
+            "tax_rate": "18",
+            "amount": "29.95"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "17-03-2023",
+    "time": "15:39",
+    "receipt_id": "0077",
+    "total_tax": "12.19",
+    "total_amount": "255.32",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "3.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kuhne Beyaz Sırke 2L",
+            "tax_rate": "1",
+            "amount": "33.25"
+        },
+        {
+            "quantity": "3.00",
+            "price": "16.90",
+            "category": "",
+            "name": "** Mare Havlu 2'Lı",
+            "tax_rate": "8",
+            "amount": "50.70"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Fınısh Mak.Temız.",
+            "tax_rate": "8",
+            "amount": "75.50"
+        },
+        {
+            "quantity": "0.292",
+            "price": "175.00",
+            "category": "",
+            "name": "Lımon Tuzu Parca Kg",
+            "tax_rate": "18",
+            "amount": "51.10"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Migros Ekonm.Pecete",
+            "tax_rate": "8",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Sınangıl Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "79.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Sınangıl Un 5 Kg.",
+            "tax_rate": "1",
+            "amount": "79.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Sınangıl Un 5 Kg.",
+            "tax_rate": "1",
+            "amount": "-79.90"
+        },
+        {
+            "quantity": "0.998",
+            "price": "112.90",
+            "category": "",
+            "name": "Beypılıc Fıleto Kg",
+            "tax_rate": "1",
+            "amount": "112.67"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 İndirim",
+            "tax_rate": "1",
+            "amount": "-8.31"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İndirim",
+            "tax_rate": "8",
+            "amount": "-12.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İndirim",
+            "tax_rate": "8",
+            "amount": "-45.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İndirim",
+            "tax_rate": "1",
+            "amount": "-30.40"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mcvıtıes Beyaz Cıko",
+            "tax_rate": "1",
+            "amount": "13.00"
+        }
+    ]
+}

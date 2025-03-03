@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "01-03-2024",
+    "time": "09:12",
+    "receipt_id": "13",
+    "total_tax": "59.38",
+    "total_amount": "390.76",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "89.00",
+            "category": "",
+            "name": "Su Bardağı 3Lü",
+            "tax_rate": "20",
+            "amount": "356.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "3boyutluhikayekit.",
+            "tax_rate": "0",
+            "amount": "34.50"
+        }
+    ]
+}

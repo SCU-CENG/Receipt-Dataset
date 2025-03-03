@@ -1,0 +1,116 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süpper",
+    "date": "17-10-2021",
+    "time": "13:24",
+    "receipt_id": "0107",
+    "total_tax": "8.7",
+    "total_amount": "120.9",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Guvenler Yp.Dnk. Bage",
+            "tax_rate": "1",
+            "amount": "3.95"
+        },
+        {
+            "quantity": "4.00",
+            "price": "3.75",
+            "category": "",
+            "name": "Sf Dnk Patateslı Rul",
+            "tax_rate": "8",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "2.75",
+            "category": "",
+            "name": "Sf Dnk Yp Kasar Peyn",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "0.916",
+            "price": "2.99",
+            "category": "",
+            "name": "Naturel Mandalına",
+            "tax_rate": "8",
+            "amount": "2.74"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Superfresh Cıtır Pat",
+            "tax_rate": "8",
+            "amount": "16.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca-Cola Pet 1lt",
+            "tax_rate": "8",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tat Acı Bıber Sosu 1",
+            "tax_rate": "8",
+            "amount": "9.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Calve Cheddar Sos 24",
+            "tax_rate": "8",
+            "amount": "16.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Tam Yaglı ",
+            "tax_rate": "8",
+            "amount": "16.70"
+        },
+        {
+            "quantity": "6.00",
+            "price": "1.25",
+            "category": "",
+            "name": "Nescafe Gold 2 Gr",
+            "tax_rate": "8",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Erıklı 1,5 Lt 6 Al 5",
+            "tax_rate": "8",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "6.00",
+            "price": "1.85",
+            "category": "",
+            "name": "Beypazarı Elma 200 M",
+            "tax_rate": "8",
+            "amount": "11.10"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasa Posetı Normal B",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

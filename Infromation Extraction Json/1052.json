@@ -1,0 +1,20 @@
+{
+    "company": "Uysal Petmol İnş.Tur.Taş.Tic.Ltd",
+    "date": "28-04-2021",
+    "time": "16:19",
+    "receipt_id": "0049",
+    "total_tax": "15.25",
+    "total_amount": "100.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kurşunsuz 95",
+            "tax_rate": "18",
+            "amount": "100.00"
+        }
+    ]
+}

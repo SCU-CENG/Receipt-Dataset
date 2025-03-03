@@ -1,0 +1,68 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti.",
+    "date": "21-09-2021",
+    "time": "11:17",
+    "receipt_id": "0005",
+    "total_tax": "17.06",
+    "total_amount": "230.35",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "32.95",
+            "category": "",
+            "name": "Mıss Koylum Gez.Tavuk Y",
+            "tax_rate": "8",
+            "amount": "32.95"
+        },
+        {
+            "quantity": "0.555",
+            "price": "32.00",
+            "category": "",
+            "name": "Sude 201-230 Sıyah Sele",
+            "tax_rate": "8",
+            "amount": "17.76"
+        },
+        {
+            "quantity": "1.00",
+            "price": "17.00",
+            "category": "",
+            "name": "Serın Guvec Kaymak 200",
+            "tax_rate": "8",
+            "amount": "17.00"
+        },
+        {
+            "quantity": "0.285",
+            "price": "37.00",
+            "category": "",
+            "name": "Izgara Mangal Zeytın Kg",
+            "tax_rate": "8",
+            "amount": "10.54"
+        },
+        {
+            "quantity": "0.505",
+            "price": "140.00",
+            "category": "",
+            "name": "Guler Kavurma",
+            "tax_rate": "8",
+            "amount": "70.70"
+        },
+        {
+            "quantity": "1.00",
+            "price": "47.00",
+            "category": "",
+            "name": "Güler Macar Salam 750 G",
+            "tax_rate": "8",
+            "amount": "47.00"
+        },
+        {
+            "quantity": "0.215",
+            "price": "160.00",
+            "category": "",
+            "name": "Guler Ozel Pastırma",
+            "tax_rate": "8",
+            "amount": "34.40"
+        }
+    ]
+}

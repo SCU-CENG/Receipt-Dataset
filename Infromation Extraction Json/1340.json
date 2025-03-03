@@ -1,0 +1,20 @@
+{
+    "company": "Mcdonalds",
+    "date": "09-10-2021",
+    "time": "19:51",
+    "receipt_id": "0020",
+    "total_tax": "3.55",
+    "total_amount": "47.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek",
+            "tax_rate": "8",
+            "amount": "47.99"
+        }
+    ]
+}

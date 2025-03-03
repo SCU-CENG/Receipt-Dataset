@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Uygun Avm ",
+    "date": "29-04-2023",
+    "time": "15:12",
+    "receipt_id": "000095",
+    "total_tax": "45.75",
+    "total_amount": "299.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kdv%18",
+            "tax_rate": "18",
+            "amount": "299.90"
+        }
+    ]
+}

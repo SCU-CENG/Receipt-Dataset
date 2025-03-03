@@ -1,0 +1,20 @@
+{
+    "company": "Doğalhane",
+    "date": "31-10-2023",
+    "time": "17:37",
+    "receipt_id": "00057",
+    "total_tax": "16.82",
+    "total_amount": "185.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek",
+            "tax_rate": "10",
+            "amount": "185.00"
+        }
+    ]
+}

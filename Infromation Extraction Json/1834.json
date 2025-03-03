@@ -1,0 +1,20 @@
+{
+    "company": "Zula",
+    "date": "07-10-2021",
+    "time": "12:34",
+    "receipt_id": "0009",
+    "total_tax": "4.07",
+    "total_amount": "55.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "B.I.G 200Gr",
+            "tax_rate": "8",
+            "amount": "55.00"
+        }
+    ]
+}

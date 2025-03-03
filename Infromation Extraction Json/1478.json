@@ -1,0 +1,20 @@
+{
+    "company": "Cemcan Petrol Ürn. A.Ş.",
+    "date": "10-05-2023",
+    "time": "08:00",
+    "receipt_id": "0037",
+    "total_tax": "44.30",
+    "total_amount": "290.43",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Euro Pg",
+            "tax_rate": "18",
+            "amount": "290.43"
+        }
+    ]
+}

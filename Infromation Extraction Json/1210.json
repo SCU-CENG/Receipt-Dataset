@@ -1,0 +1,76 @@
+{
+    "company": "Gross 58 Market",
+    "date": "05-08-2021",
+    "time": "19:01",
+    "receipt_id": "0170",
+    "total_tax": "16.83",
+    "total_amount": "128.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı Cıcıbebe 1Kg Kut",
+            "tax_rate": "8",
+            "amount": "15.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.15",
+            "category": "",
+            "name": "Ulker Kekstra Konfet",
+            "tax_rate": "8",
+            "amount": "2.30"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Harıbo 80Gr Tropik M",
+            "tax_rate": "8",
+            "amount": "4.45"
+        },
+        {
+            "quantity": "6.00",
+            "price": "0.60",
+            "category": "",
+            "name": "Ulker Cokomel Poftı",
+            "tax_rate": "8",
+            "amount": "3.60"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.15",
+            "category": "",
+            "name": "Sleepy I.Havlu Organ",
+            "tax_rate": "18",
+            "amount": "10.30"
+        },
+        {
+            "quantity": "2.00",
+            "price": "1.95",
+            "category": "",
+            "name": "Torku Sut 180Ml Cıle",
+            "tax_rate": "8",
+            "amount": "3.90"
+        },
+        {
+            "quantity": "2.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Nestle Kıt Kat Yenı",
+            "tax_rate": "8",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sleepy C.Bezı 11-18",
+            "tax_rate": "18",
+            "amount": "82.95"
+        }
+    ]
+}

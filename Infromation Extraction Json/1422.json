@@ -1,0 +1,124 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "14-04-2023",
+    "time": "17:55",
+    "receipt_id": "0151",
+    "total_tax": "19.95",
+    "total_amount": "554.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+         {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpak Kağ.Hv 3 Kat",
+            "tax_rate": "8",
+            "amount": "118.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mayonez Çokça",
+            "tax_rate": "8",
+            "amount": "48.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Por Çöz 1000 Ml",
+            "tax_rate": "8",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kom Kıy Dan.400G",
+            "tax_rate": "1",
+            "amount": "98.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Miniki Sütlü 600G",
+            "tax_rate": "1",
+            "amount": "59.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Makarna Boncuk",
+            "tax_rate": "1",
+            "amount": "8.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vera Paket 250",
+            "tax_rate": "1",
+            "amount": "8.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sana Paket 250",
+            "tax_rate": "1",
+            "amount": "10.50"
+        },
+        {
+            "quantity": "6.00",
+            "price": "3.60",
+            "category": "",
+            "name": "Damak Çiko 18 G",
+            "tax_rate": "1",
+            "amount": "21.60"
+        },
+        {
+            "quantity": "2.00",
+            "price": "14.50",
+            "category": "",
+            "name": "Çikolata Sütlü Bütün",
+            "tax_rate": "1",
+            "amount": "29.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Unı Baby 4X52 Islak",
+            "tax_rate": "8",
+            "amount": "53.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Kremalı 10X4",
+            "tax_rate": "1",
+            "amount": "90.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Faıry40Lıbul Mak Ta",
+            "tax_rate": "8",
+            "amount": "208.90"
+        }
+    ]
+}

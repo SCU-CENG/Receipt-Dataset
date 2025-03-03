@@ -1,0 +1,52 @@
+{
+    "company": "Gross 58 Market",
+    "date": "24-03-2024",
+    "time": "16:52",
+    "receipt_id": "0230",
+    "total_tax": "1.41",
+    "total_amount": "142.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-84-Kıvır",
+            "tax_rate": "1",
+            "amount": "29.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-86-Roka",
+            "tax_rate": "1",
+            "amount": "10.00"
+        },
+        {
+            "quantity": "0.612",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-13-Kara",
+            "tax_rate": "1",
+            "amount": "12.21"
+        },
+        {
+            "quantity": "0.466",
+            "price": "49.95",
+            "category": "",
+            "name": "Besler Mnv-6-Cele B",
+            "tax_rate": "1",
+            "amount": "23.28"
+        },
+        {
+            "quantity": "1.666",
+            "price": "39.95",
+            "category": "",
+            "name": "Besler Mnv-58-Karnı",
+            "tax_rate": "1",
+            "amount": "66.56"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Migros Tıcaret A.S.",
+    "date": "26-01-2024",
+    "time": "19:51",
+    "receipt_id": "0212",
+    "total_tax": "10.70",
+    "total_amount": "64.17",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lav Cute Anımals",
+            "tax_rate": "20",
+            "amount": "106.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 40 İndirim",
+            "tax_rate": "20",
+            "amount": "-42.78"
+        }
+    ]
+}

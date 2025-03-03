@@ -1,0 +1,68 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "24-12-2023",
+    "time": "16:30",
+    "receipt_id": "0184",
+    "total_tax": "19.48",
+    "total_amount": "182.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru Fresh Dus Sabun",
+            "tax_rate": "20",
+            "amount": "75.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "20",
+            "amount": "-18.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru Fresh Dus Sabun",
+            "tax_rate": "20",
+            "amount": "75.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "20",
+            "amount": "-18.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fıskobirlik Fınd.Ezm",
+            "tax_rate": "1",
+            "amount": "110.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastik Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fıskobırlık Fınd.Ezm",
+            "tax_rate": "1",
+            "amount": "-41.00"
+        }
+    ]
+}

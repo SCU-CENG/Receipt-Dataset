@@ -1,0 +1,68 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "10-04-2023",
+    "time": "18:30",
+    "receipt_id": "0236",
+    "total_tax": "2.41",
+    "total_amount": "240.55",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Kırm.Mercımek",
+            "tax_rate": "1",
+            "amount": "55.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Pılav.Bulgur",
+            "tax_rate": "1",
+            "amount": "38.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sofra Ekmek Adet",
+            "tax_rate": "1",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Domates Salca",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Baldo Pırınc",
+            "tax_rate": "1",
+            "amount": "85.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pınar Tam Yaglı Süt",
+            "tax_rate": "1",
+            "amount": "54.90"
+        }
+    ]
+}

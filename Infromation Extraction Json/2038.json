@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "12-02-2024",
+    "time": "18:15",
+    "receipt_id": "0364",
+    "total_tax": "5.32",
+    "total_amount": "63.04",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vındex Yesıl Sunger",
+            "tax_rate": "20",
+            "amount": "29.95"
+        },
+        {
+            "quantity": "0.552",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "33.09"
+        }
+    ]
+}

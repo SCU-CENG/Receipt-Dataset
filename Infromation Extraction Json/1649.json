@@ -1,0 +1,28 @@
+{
+    "company": "Toypa Mağazacılık Tic A.Ş.",
+    "date": "13-08-2023",
+    "time": "19:57",
+    "receipt_id": "0183",
+    "total_tax": "36.71",
+    "total_amount": "220.24",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sun-Yfn-Snc-R/C 1/43",
+            "tax_rate": "20",
+            "amount": "264.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pst-Toyzzshop Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

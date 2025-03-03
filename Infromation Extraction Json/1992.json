@@ -1,0 +1,36 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "07-01-2024",
+    "time": "15:52",
+    "receipt_id": "00179",
+    "total_tax": "18.33",
+    "total_amount": "208.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "51.75",
+            "category": "",
+            "name": "Mr.Muscle Lavabo Acıcı 450",
+            "tax_rate": "20",
+            "amount": "103.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cıftlık Yumurta 30 Lu Buyu",
+            "tax_rate": "1",
+            "amount": "104.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

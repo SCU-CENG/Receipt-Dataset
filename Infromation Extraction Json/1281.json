@@ -1,0 +1,20 @@
+{
+    "company": "Maydo",
+    "date": "12-09-2021",
+    "time": "12:30",
+    "receipt_id": "0002",
+    "total_tax": "0.86",
+    "total_amount": "87.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "1",
+            "amount": "87.00"
+        }
+    ]
+}

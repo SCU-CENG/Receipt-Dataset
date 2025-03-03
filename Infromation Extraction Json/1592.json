@@ -1,0 +1,20 @@
+{
+    "company": "Fesleğen Restaurant",
+    "date": "01-09-2021",
+    "time": "21:22",
+    "receipt_id": "0056",
+    "total_tax": "0.58",
+    "total_amount": "59.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "59.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Erdağ Meşrubat",
+    "date": "11-08-2023",
+    "time": "17:54",
+    "receipt_id": "0282",
+    "total_tax": "0.25",
+    "total_amount": "25.62",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.454",
+            "price": "35.50",
+            "category": "",
+            "name": "Muz Anamur",
+            "tax_rate": "1",
+            "amount": "16.12"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Damla Su 0,5 Lt",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Haylayf 64 Gr",
+            "tax_rate": "1",
+            "amount": "6.00"
+        }
+    ]
+}

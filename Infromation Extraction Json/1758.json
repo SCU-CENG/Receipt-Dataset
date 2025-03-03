@@ -1,0 +1,28 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "06-11-2023",
+    "time": "18:20",
+    "receipt_id": "0130",
+    "total_tax": "0.62",
+    "total_amount": "62.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tamköy Yufka 800 Gr",
+            "tax_rate": "1",
+            "amount": "34.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Kakaolu Kremal",
+            "tax_rate": "1",
+            "amount": "40.00"
+        }
+    ]
+}

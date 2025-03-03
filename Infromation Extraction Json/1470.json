@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "10-05-2023",
+    "time": "16:44",
+    "receipt_id": "0215",
+    "total_tax": "1.36",
+    "total_amount": "137.63",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.610",
+            "price": "12.50",
+            "category": "",
+            "name": "Patates Kg",
+            "tax_rate": "1",
+            "amount": "32.63"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baldo Pirinç 2.5Kg",
+            "tax_rate": "1",
+            "amount": "92.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çikol. Bol Sütlü100G",
+            "tax_rate": "1",
+            "amount": "12.50"
+        }
+    ]
+}

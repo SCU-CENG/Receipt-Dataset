@@ -1,0 +1,20 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "14-04-2023",
+    "time": "16:37",
+    "receipt_id": "0143",
+    "total_tax": "0.28",
+    "total_amount": "27.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "13.95",
+            "category": "",
+            "name": "Kanepeburger.200G",
+            "tax_rate": "1",
+            "amount": "27.90"
+        }
+    ]
+}

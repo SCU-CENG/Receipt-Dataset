@@ -1,0 +1,20 @@
+{
+    "company": "Erhan Dedeoğlu Petrol Ürün",
+    "date": "02-04-2023",
+    "time": "07:44",
+    "receipt_id": "0085",
+    "total_tax": "45.76",
+    "total_amount": "300.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "V/max Kurşunsuz",
+            "tax_rate": "18",
+            "amount": "300.00"
+        }
+    ]
+}

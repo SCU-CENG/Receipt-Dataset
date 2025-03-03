@@ -1,0 +1,148 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "03-02-2024",
+    "time": "14:52",
+    "receipt_id": "0116",
+    "total_tax": "21.50",
+    "total_amount": "643.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.465",
+            "price": "24.90",
+            "category": "",
+            "name": "Elma Fujı",
+            "tax_rate": "1",
+            "amount": "36.48"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.50"
+        },
+        {
+            "quantity": "5.00",
+            "price": "14.90",
+            "category": "",
+            "name": "Ulker O!Lala Sufle",
+            "tax_rate": "1",
+            "amount": "74.50"
+        },
+        {
+            "quantity": "0.795",
+            "price": "54.90",
+            "category": "",
+            "name": "Brokolı Kg.",
+            "tax_rate": "1",
+            "amount": "43.65"
+        },
+        {
+            "quantity": "0.398",
+            "price": "265.00",
+            "category": "",
+            "name": "Ilyada Geyıklı Zeyt.",
+            "tax_rate": "1",
+            "amount": "105.47"
+        },
+        {
+            "quantity": "0.286",
+            "price": "295.00",
+            "category": "",
+            "name": "M.Bırlık Trılye Zeyt",
+            "tax_rate": "1",
+            "amount": "84.37"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Salata Atom Adet",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "1.610",
+            "price": "29.90",
+            "category": "",
+            "name": "Karnabahar",
+            "tax_rate": "1",
+            "amount": "48.14"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Lezzet %3,5 Yag",
+            "tax_rate": "1",
+            "amount": "32.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Evony Cerrahı Maske",
+            "tax_rate": "10",
+            "amount": "25.41"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sleepy Extra Slım",
+            "tax_rate": "10",
+            "amount": "54.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 40 % İndirim",
+            "tax_rate": "10",
+            "amount": "-21.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sleepy Ecologıc Soft",
+            "tax_rate": "10",
+            "amount": "122.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 40 % İndirim",
+            "tax_rate": "10",
+            "amount": "-49.16"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sleepy Black Premıum",
+            "tax_rate": "10",
+            "amount": "89.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 40 %İndirim",
+            "tax_rate": "10",
+            "amount": "-35.96"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Desnı Kay.Suyu 0.5 L",
+            "tax_rate": "1",
+            "amount": "2.50"
+        }
+    ]
+}

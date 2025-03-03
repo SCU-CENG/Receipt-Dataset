@@ -1,0 +1,36 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "03-08-2021",
+    "time": "18:26",
+    "receipt_id": "0081",
+    "total_tax": "0.94",
+    "total_amount": "16.67",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Frıtolay Mega Lays K",
+            "tax_rate": "8",
+            "amount": "9.25"
+        },
+        {
+            "quantity": "3.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl(SO",
+            "tax_rate": "1",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "0.324",
+            "price": "9.00",
+            "category": "",
+            "name": "Frn-Ekmek Zeytın Yag",
+            "tax_rate": "8",
+            "amount": "2.92"
+        }
+    ]
+}

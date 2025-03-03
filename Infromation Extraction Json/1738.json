@@ -1,0 +1,60 @@
+{
+    "company": "Gross 58 Market",
+    "date": "22-10-2023",
+    "time": "19:58",
+    "receipt_id": "0450",
+    "total_tax": "1.01",
+    "total_amount": "102.13",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.520",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-79- Turp",
+            "tax_rate": "1",
+            "amount": "10.37"
+        },
+        {
+            "quantity": "0.956",
+            "price": "34.95",
+            "category": "",
+            "name": "Besler Mnv-31-Muz Ye",
+            "tax_rate": "1",
+            "amount": "33.41"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-89-Mayda",
+            "tax_rate": "1",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-92-Marul",
+            "tax_rate": "1",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "0.710",
+            "price": "24.95",
+            "category": "",
+            "name": "Besler Mnv-4-Kabak",
+            "tax_rate": "1",
+            "amount": "17.71"
+        },
+        {
+            "quantity": "0.488",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-39-Lımon",
+            "tax_rate": "1",
+            "amount": "9.74"
+        }
+    ]
+}

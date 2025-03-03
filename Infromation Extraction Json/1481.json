@@ -1,0 +1,52 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "12-05-2023",
+    "time": "13:09",
+    "receipt_id": "0071",
+    "total_tax": "0.66",
+    "total_amount": "67.15",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.685",
+            "price": "11.90",
+            "category": "",
+            "name": "Patates",
+            "tax_rate": "1",
+            "amount": "31.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cheetos 60 Fıs/Bif/P",
+            "tax_rate": "1",
+            "amount": "10.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Browni 50 G",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Petito Pati Çik.",
+            "tax_rate": "1",
+            "amount": "3.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bulgur Köftelik",
+            "tax_rate": "1",
+            "amount": "15.50"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "İstanbul Çarşı",
+    "date": "06-11-2023",
+    "time": "14:23",
+    "receipt_id": "",
+    "total_tax": "",
+    "total_amount": "56.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "17.50",
+            "category": "",
+            "name": "Gp Para Pil 2032",
+            "tax_rate": "",
+            "amount": "17.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "39.00",
+            "category": "",
+            "name": "Pritt Stick Yapıştırıcı43 Gr",
+            "tax_rate": "",
+            "amount": "39.00"
+        }
+    ]
+}

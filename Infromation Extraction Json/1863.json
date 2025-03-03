@@ -1,0 +1,108 @@
+{
+    "company": "Me-sa Dağ Tekstil",
+    "date": "08-03-2024",
+    "time": "12:14",
+    "receipt_id": "000012",
+    "total_tax": "123.22",
+    "total_amount": "1355.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "393.50",
+            "category": "",
+            "name": "Jıber 15018 Kısa Kol",
+            "tax_rate": "10",
+            "amount": "393.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "0.50",
+            "category": "",
+            "name": "Alısverıs Posetı 2 N",
+            "tax_rate": "20",
+            "amount": "0.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "181.50",
+            "category": "",
+            "name": "Mavi 2070 Dolgusuz",
+            "tax_rate": "10",
+            "amount": "181.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "181.50",
+            "category": "",
+            "name": "Mavı 2070 Dolgusuz",
+            "tax_rate": "10",
+            "amount": "181.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "58.00",
+            "category": "",
+            "name": "Jıber 654 Desenlı Ba",
+            "tax_rate": "10",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "58.00",
+            "category": "",
+            "name": "Jıber 654 Desenlı Ba",
+            "tax_rate": "10",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "58.00",
+            "category": "",
+            "name": "Jıber 654 Desenlı Ba",
+            "tax_rate": "10",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "58.00",
+            "category": "",
+            "name": "Jıber 654 Desenlı Ba",
+            "tax_rate": "10",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "52.50",
+            "category": "",
+            "name": "Luxxa 2719 Erkek Coc",
+            "tax_rate": "10",
+            "amount": "52.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "52.50",
+            "category": "",
+            "name": "Luxxa 2719 Erkek Coc",
+            "tax_rate": "10",
+            "amount": "52.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "52.50",
+            "category": "",
+            "name": "Luxxa 2719 Erkek Coc",
+            "tax_rate": "10",
+            "amount": "52.50"
+        },
+        {
+            "quantity": "3.00",
+            "price": "69.50",
+            "category": "",
+            "name": "Malabadı 90201-E Erk",
+            "tax_rate": "10",
+            "amount": "208.50"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Günaydın Çamlıca Restoran Gıda",
+    "date": "05-10-2021",
+    "time": "12:00",
+    "receipt_id": "0017",
+    "total_tax": "3.40",
+    "total_amount": "45.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kar Kofte Buhara",
+            "tax_rate": "8",
+            "amount": "44.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cola Zero",
+            "tax_rate": "8",
+            "amount": "7.00"
+        }
+    ]
+}

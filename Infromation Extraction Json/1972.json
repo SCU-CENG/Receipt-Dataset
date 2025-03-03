@@ -1,0 +1,28 @@
+{
+    "company": "Samanpazarı",
+    "date": "29-12-2023",
+    "time": "16:00",
+    "receipt_id": "0061",
+    "total_tax": "31.86",
+    "total_amount": "350.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sinbo Ahşap Kapaklı Ekme",
+            "tax_rate": "10",
+            "amount": "350.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baskılı Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

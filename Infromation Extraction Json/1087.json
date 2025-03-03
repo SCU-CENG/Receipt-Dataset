@@ -1,0 +1,52 @@
+{
+    "company": "58 Besler Market",
+    "date": "17-05-2023",
+    "time": "16:23",
+    "receipt_id": "0026",
+    "total_tax": "11.82",
+    "total_amount": "96.23",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cook Cop Torbası Kuc",
+            "tax_rate": "18",
+            "amount": "10.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ankara Mak. 500Gr In",
+            "tax_rate": "1",
+            "amount": "10.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vıleda Power Inox Ce",
+            "tax_rate": "18",
+            "amount": "64.95"
+        },
+        {
+            "quantity": "0.644",
+            "price": "14.95",
+            "category": "",
+            "name": "Besler Mnv-4-Kabak",
+            "tax_rate": "1",
+            "amount": "9.63"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler 0. Poset",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

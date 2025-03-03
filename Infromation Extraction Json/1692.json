@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Kale Cam Mağazacılık ",
+    "date": "09-09-2023",
+    "time": "19:38",
+    "receipt_id": "160",
+    "total_tax": "29.04",
+    "total_amount": "319.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "M. Ürün",
+            "tax_rate": "10",
+            "amount": "319.40"
+        }
+    ]
+}

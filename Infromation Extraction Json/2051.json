@@ -1,0 +1,20 @@
+{
+    "company": "Meydan Park Avm",
+    "date": "24-02-2024",
+    "time": "12:55",
+    "receipt_id": "M-151401",
+    "total_tax": "",
+    "total_amount": "60.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "10.00",
+            "category": "",
+            "name": "Seç Al 10 Tl",
+            "tax_rate": "",
+            "amount": "60.00"
+        }
+    ]
+}

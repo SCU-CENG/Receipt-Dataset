@@ -1,0 +1,28 @@
+{
+    "company": "Sıdaş Emlak Otom. A.Ş",
+    "date": "15-06-2023",
+    "time": "12:36",
+    "receipt_id": "0024",
+    "total_tax": "0.21",
+    "total_amount": "21.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.000",
+            "price": "8.00",
+            "category": "",
+            "name": "Simit Puaça",
+            "tax_rate": "1",
+            "amount": "16.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bardak Çayy",
+            "tax_rate": "1",
+            "amount": "5.00"
+        }
+    ]
+}

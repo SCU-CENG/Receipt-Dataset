@@ -1,0 +1,44 @@
+{
+    "company": "A101 Yenı Maazacılık A.Ş.",
+    "date": "30-04-2023",
+    "time": "17:01",
+    "receipt_id": "0194",
+    "total_tax": "0.35",
+    "total_amount": "31.70",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Abc Krake 140G",
+            "tax_rate": "1",
+            "amount": "8.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi 6X45 G Mc Vi",
+            "tax_rate": "1",
+            "amount": "36.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

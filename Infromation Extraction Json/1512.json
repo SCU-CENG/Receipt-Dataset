@@ -1,0 +1,20 @@
+{
+    "company": "Fahri Ticaret",
+    "date": "26-07-2023",
+    "time": "07:56",
+    "receipt_id": "0002",
+    "total_tax": "90.91",
+    "total_amount": "1000.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tarım1",
+            "tax_rate": "10",
+            "amount": "1000.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Karataş İletişim",
+    "date": "03-01-2024",
+    "time": "13:43",
+    "receipt_id": "0004",
+    "total_tax": "0.00",
+    "total_amount": "150.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bolca 1200Dk",
+            "tax_rate": "0",
+            "amount": "150.00"
+        }
+    ]
+}

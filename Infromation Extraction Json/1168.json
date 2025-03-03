@@ -1,0 +1,20 @@
+{
+    "company": "Beşler Kom. Hb Zh Nkgi Lok Tr",
+    "date": "03-06-2023",
+    "time": "16:27",
+    "receipt_id": "83",
+    "total_tax": "1.12",
+    "total_amount": "113.16",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sebze",
+            "tax_rate": "1",
+            "amount": "113.16"
+        }
+    ]
+}

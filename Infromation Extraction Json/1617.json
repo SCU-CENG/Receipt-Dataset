@@ -1,0 +1,20 @@
+{
+    "company": "Sidaş Emlak Otom. A.Ş",
+    "date": "25-07-2023",
+    "time": "20:38",
+    "receipt_id": "0068",
+    "total_tax": "0.83",
+    "total_amount": "84.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "T.Gıda",
+            "tax_rate": "1",
+            "amount": "84.00"
+        }
+    ]
+}

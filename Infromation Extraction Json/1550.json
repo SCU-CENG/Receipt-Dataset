@@ -1,0 +1,28 @@
+{
+    "company": "İstanbul Çarşı",
+    "date": "07-11-2023",
+    "time": "13:37",
+    "receipt_id": "",
+    "total_tax": "",
+    "total_amount": "94.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "16.50",
+            "category": "",
+            "name": "Tüylü Yumurtlayan Kalem 05Lm1",
+            "tax_rate": "",
+            "amount": "16.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "77.50",
+            "category": "",
+            "name": "Alper Hatıra Defteri Kilitli Kız 100 Yp",
+            "tax_rate": "",
+            "amount": "77.50"
+        }
+    ]
+}

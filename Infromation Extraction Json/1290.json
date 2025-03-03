@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Bld.Tanzim Satış Müd",
+    "date": "10-09-2021",
+    "time": "16:15",
+    "receipt_id": "0051",
+    "total_tax": "0.6",
+    "total_amount": "4.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "OTo Park",
+            "tax_rate": "18",
+            "amount": "4.00"
+        }
+    ]
+}

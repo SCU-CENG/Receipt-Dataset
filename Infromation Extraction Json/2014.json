@@ -1,0 +1,36 @@
+{
+    "company": "Sivas Ertuğrul Gıda",
+    "date": "21-01-2024",
+    "time": "13:55",
+    "receipt_id": "0127",
+    "total_tax": "11.11",
+    "total_amount": "230.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sleepy Naturel 2 Lu",
+            "tax_rate": "10",
+            "amount": "109.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "12.00",
+            "category": "",
+            "name": "Ankara Makarna 500 G",
+            "tax_rate": "1",
+            "amount": "36.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Atılım Yumurta 30 Lu",
+            "tax_rate": "1",
+            "amount": "85.00"
+        }
+    ]
+}

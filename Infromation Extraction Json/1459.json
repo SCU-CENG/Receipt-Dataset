@@ -1,0 +1,68 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "05-05-2023",
+    "time": "19:48",
+    "receipt_id": "0087",
+    "total_tax": "6.14",
+    "total_amount": "100.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Çik. Gfrt 34G",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Çik. Gfrt 34G",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Çik. Gfrt 34G",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Çik. Gfrt 34G",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vıvıdent Meyve Aro B",
+            "tax_rate": "1",
+            "amount": "4.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpak Tuv.K 3Kat 8L",
+            "tax_rate": "8",
+            "amount": "89.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpak Tuv.K 3Kat 8L",
+            "tax_rate": "8",
+            "amount": "89.90"
+        }
+    ]
+}

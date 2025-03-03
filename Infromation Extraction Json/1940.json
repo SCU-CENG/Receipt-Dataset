@@ -1,0 +1,20 @@
+{
+    "company": "İstanbul Çarşı",
+    "date": "19-02-2024",
+    "time": "16:18",
+    "receipt_id": "",
+    "total_tax": "",
+    "total_amount": "25.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "25.00",
+            "category": "",
+            "name": "Lets Oyun Hamuru Tek 115 Gr",
+            "tax_rate": "",
+            "amount": "25.00"
+        }
+    ]
+}

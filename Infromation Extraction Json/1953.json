@@ -1,0 +1,20 @@
+{
+    "company": "Balcı Eczanesi",
+    "date": "11-03-2024",
+    "time": "16:07",
+    "receipt_id": "0038",
+    "total_tax": "36.64",
+    "total_amount": "403.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "10",
+            "amount": "403.00"
+        }
+    ]
+}

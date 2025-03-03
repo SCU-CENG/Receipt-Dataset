@@ -1,0 +1,20 @@
+{
+    "company": "4 Eylül Eczanesi",
+    "date": "15-05-2023",
+    "time": "13:54",
+    "receipt_id": "0027",
+    "total_tax": "6.67",
+    "total_amount": "90.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "8",
+            "amount": "90.00"
+        }
+    ]
+}

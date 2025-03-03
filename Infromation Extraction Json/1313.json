@@ -1,0 +1,20 @@
+{
+    "company": "Dürümcü Emmı",
+    "date": "20-10-2021",
+    "time": "19:27",
+    "receipt_id": "0081",
+    "total_tax": "2.37",
+    "total_amount": "32.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "8",
+            "amount": "32.00"
+        }
+    ]
+}

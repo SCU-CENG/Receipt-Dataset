@@ -1,0 +1,36 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "16-09-2021",
+    "time": "18:06",
+    "receipt_id": "0078",
+    "total_tax": "1.42",
+    "total_amount": "15.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl Sım",
+            "tax_rate": "8",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bagdat Zencefıl 60Gr",
+            "tax_rate": "8",
+            "amount": "8.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Okyanus Ck-593 Acaca",
+            "tax_rate": "18",
+            "amount": "3.50"
+        }
+    ]
+}

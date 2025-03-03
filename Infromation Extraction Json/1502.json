@@ -1,0 +1,100 @@
+{
+    "company": "Sok Marketler T.A.S.",
+    "date": "10-06-2023",
+    "time": "13:48",
+    "receipt_id": "0081",
+    "total_tax": "21.01",
+    "total_amount": "407.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Evin Aycıcek Yagı P",
+            "tax_rate": "1",
+            "amount": "134.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Domestos Çamaşır Suy",
+            "tax_rate": "8",
+            "amount": "78.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papıa Tuvalet Kağıdı",
+            "tax_rate": "8",
+            "amount": "92.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru Sıvı Sabun Zey",
+            "tax_rate": "8",
+            "amount": "107.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Üker Napolitten 231",
+            "tax_rate": "1",
+            "amount": "8.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Blendax Onarıcı Yagl",
+            "tax_rate": "8",
+            "amount": "65.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpax Extra Kağıt H",
+            "tax_rate": "8",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Selpax Extra Kağıt H",
+            "tax_rate": "8",
+            "amount": "-45.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Blendax Onarıcı Yagl",
+            "tax_rate": "8",
+            "amount": "-38.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Duru Sıvı Sabun Zey",
+            "tax_rate": "8",
+            "amount": "-60.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Papıa Tuvalet Kagıdı",
+            "tax_rate": "8",
+            "amount": "-34.90"
+        }
+    ]
+}

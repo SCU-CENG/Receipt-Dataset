@@ -1,0 +1,36 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "02-01-2023",
+    "time": "20:16",
+    "receipt_id": "0242",
+    "total_tax": "0.33",
+    "total_amount": "29.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Birşah 1l Yyağlı Süt",
+            "tax_rate": "1",
+            "amount": "14.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bieşen 1L Yyağlı Süt",
+            "tax_rate": "1",
+            "amount": "14.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

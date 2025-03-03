@@ -1,0 +1,20 @@
+{
+    "company": "Sidaş Emlak Otom.Aş.",
+    "date": "28-07-2023",
+    "time": "21:51",
+    "receipt_id": "0159",
+    "total_tax": "33.33",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "36.950",
+            "price": "5.41",
+            "category": "",
+            "name": "Krş.95",
+            "tax_rate": "20",
+            "amount": "200.00"
+        }
+    ]
+}

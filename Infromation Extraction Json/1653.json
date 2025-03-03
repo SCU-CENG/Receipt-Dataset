@@ -1,0 +1,100 @@
+{
+    "company": "Şok Marketler Tic.A.Ş",
+    "date": "16-08-2023",
+    "time": "15:12",
+    "receipt_id": "0084",
+    "total_tax": "2.44",
+    "total_amount": "239.36",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mis Yoğurt Tam Yağlı",
+            "tax_rate": "1",
+            "amount": "79.00"
+        },
+        {
+            "quantity": "0.895",
+            "price": "34.95",
+            "category": "",
+            "name": "Salkım Domates Kg.",
+            "tax_rate": "1",
+            "amount": "31.28"
+        },
+        {
+            "quantity": "0.905",
+            "price": "34.90",
+            "category": "",
+            "name": "Yerli Muz Kg.",
+            "tax_rate": "1",
+            "amount": "31.58"
+        },
+        {
+            "quantity": "1.040",
+            "price": "18.75",
+            "category": "",
+            "name": "Salatalık Kg",
+            "tax_rate": "1",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Çizi Peynir &",
+            "tax_rate": "1",
+            "amount": "8.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Napoliten 231",
+            "tax_rate": "1",
+            "amount": "10.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Piyale Puding Bitter",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Piyale Puding Bitter",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışverış Poşetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Pötibör Biskü",
+            "tax_rate": "1",
+            "amount": "60.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışverış Poşetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

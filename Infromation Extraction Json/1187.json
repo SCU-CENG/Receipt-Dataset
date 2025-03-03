@@ -1,0 +1,36 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş",
+    "date": "17-04-2023",
+    "time": "12:18",
+    "receipt_id": "0057",
+    "total_tax": "0.39",
+    "total_amount": "35.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pudıng Kakaolu 19",
+            "tax_rate": "1",
+            "amount": "17.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pat.Cıpsı96/107GL",
+            "tax_rate": "1",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

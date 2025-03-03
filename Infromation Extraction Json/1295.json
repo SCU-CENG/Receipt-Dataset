@@ -1,0 +1,20 @@
+{
+    "company": "Mükaş",
+    "date": "29-09-2021",
+    "time": "17:00",
+    "receipt_id": "00172",
+    "total_tax": "0.61",
+    "total_amount": "4.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hırdavat",
+            "tax_rate": "18",
+            "amount": "4.00"
+        }
+    ]
+}

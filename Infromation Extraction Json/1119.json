@@ -1,0 +1,36 @@
+{
+    "company": "58 Besler Market",
+    "date": "07-05-2023",
+    "time": "17:21",
+    "receipt_id": "0179",
+    "total_tax": "0.46",
+    "total_amount": "46.42",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Icım Krema 200Ml",
+            "tax_rate": "1",
+            "amount": "22.45"
+        },
+        {
+            "quantity": "0.650",
+            "price": "29.95",
+            "category": "",
+            "name": "Besler Mnv-122-Doma",
+            "tax_rate": "1",
+            "amount": "19.47"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "4.50"
+        }
+    ]
+}

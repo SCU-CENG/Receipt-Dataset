@@ -1,0 +1,20 @@
+{
+    "company": "Balıkçım",
+    "date": "09-12-2023",
+    "time": "13:25",
+    "receipt_id": "0070",
+    "total_tax": "2.18",
+    "total_amount": "220.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Balık",
+            "tax_rate": "1",
+            "amount": "220.00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Anadolu Restoran",
+    "date": "30-09-2021",
+    "time": "20:49",
+    "receipt_id": "0182",
+    "total_tax": "0.16",
+    "total_amount": "15.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kofte Burger+0.Pat",
+            "tax_rate": "1",
+            "amount": "16.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Orta Menuayran",
+            "tax_rate": "1",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Citir Sogan 5 Pcs",
+            "tax_rate": "1",
+            "amount": "3.00"
+        }
+    ]
+}

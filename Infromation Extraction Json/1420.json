@@ -1,0 +1,124 @@
+{
+    "company": "Bim",
+    "date": "13-04-2023",
+    "time": "18:02",
+    "receipt_id": "0177",
+    "total_tax": "10.60",
+    "total_amount": "416.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "18.75",
+            "category": "",
+            "name": "Maden Suyu 6*200Ml",
+            "tax_rate": "1",
+            "amount": "75.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyulim.6*200Ml",
+            "tax_rate": "1",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gazlıiçecek2,5Lpepsi",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gazlıiçck2,5Lyedigün",
+            "tax_rate": "8",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Buzluçayşeft2Llipton",
+            "tax_rate": "8",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Madensuyuelma6*200Ml",
+            "tax_rate": "1",
+            "amount": "26.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Islakhavlu100Lüfamly",
+            "tax_rate": "8",
+            "amount": "19.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran 1.5 L Dost",
+            "tax_rate": "1",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran 1.5 L Dost",
+            "tax_rate": "1",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sac Yufkası 1 Kg",
+            "tax_rate": "1",
+            "amount": "27.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yoğurt 2.5 Kg Dost",
+            "tax_rate": "1",
+            "amount": "49.50"
+        }
+    ]
+}

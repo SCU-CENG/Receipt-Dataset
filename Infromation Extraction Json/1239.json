@@ -1,0 +1,44 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "04-09-2021",
+    "time": "17:13",
+    "receipt_id": "0152",
+    "total_tax": "3.04",
+    "total_amount": "30.31",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "C.Cola 2,5Lt",
+            "tax_rate": "8",
+            "amount": "8.45"
+        },
+        {
+            "quantity": "2.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Solo Islak Havlu 90L",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "0.384",
+            "price": "9.00",
+            "category": "",
+            "name": "Frn-Ekmek Zeytın Yag",
+            "tax_rate": "8",
+            "amount": "3.46"
+        },
+        {
+            "quantity": "3.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Frn-Ekmek 1.50Tl (So",
+            "tax_rate": "1",
+            "amount": "4.50"
+        }
+    ]
+}

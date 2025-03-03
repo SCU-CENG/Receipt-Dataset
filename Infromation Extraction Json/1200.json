@@ -1,0 +1,20 @@
+{
+    "company": "Fet Restoran İşletmeleri A.Ş.",
+    "date": "15-09-2021",
+    "time": "12:23",
+    "receipt_id": "0006",
+    "total_tax": "0.36",
+    "total_amount": "36.54",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Steakhouse Burge",
+            "tax_rate": "1",
+            "amount": "42.99"
+        }
+    ]
+}

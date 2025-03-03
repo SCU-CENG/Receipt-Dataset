@@ -1,0 +1,20 @@
+{
+    "company": "Kaan Giyim",
+    "date": "12-01-2024",
+    "time": "17:49",
+    "receipt_id": "31",
+    "total_tax": "16.36",
+    "total_amount": "180.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tuhafiye",
+            "tax_rate": "10",
+            "amount": "180.00"
+        }
+    ]
+}

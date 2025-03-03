@@ -1,0 +1,20 @@
+{
+    "company": "Öz İkizler Teknoloji",
+    "date": "10-09-2021",
+    "time": "10:39",
+    "receipt_id": "2",
+    "total_tax": "9.92",
+    "total_amount": "65.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Elektronik",
+            "tax_rate": "18",
+            "amount": "65.00"
+        }
+    ]
+}

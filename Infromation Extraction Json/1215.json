@@ -1,0 +1,84 @@
+{
+    "company": "58 Besler Market",
+    "date": "01-08-2021",
+    "time": "11:47",
+    "receipt_id": "0087",
+    "total_tax": "3.94",
+    "total_amount": "59.27",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Murat Su 5Lt",
+            "tax_rate": "8",
+            "amount": "2.05"
+        },
+        {
+            "quantity": "0.510",
+            "price": "2.50",
+            "category": "",
+            "name": "Besler Mnv-66-Kuru",
+            "tax_rate": "8",
+            "amount": "1.28"
+        },
+        {
+            "quantity": "2.184",
+            "price": "9.95",
+            "category": "",
+            "name": "Besler Mnv-99- Beya",
+            "tax_rate": "8",
+            "amount": "21.73"
+        },
+        {
+            "quantity": "0.790",
+            "price": "8.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "7.07"
+        },
+        {
+            "quantity": "0.232",
+            "price": "5.95",
+            "category": "",
+            "name": "Besler Mnv-7-Acı Bı",
+            "tax_rate": "8",
+            "amount": "1.38"
+        },
+        {
+            "quantity": "2.00",
+            "price": "6.75",
+            "category": "",
+            "name": "Cappy 1Lt Pulpy Kar",
+            "tax_rate": "8",
+            "amount": "13.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-89-Mayda",
+            "tax_rate": "8",
+            "amount": "1.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-68-Sarım",
+            "tax_rate": "8",
+            "amount": "2.63"
+        },
+        {
+            "quantity": "0.758",
+            "price": "8.95",
+            "category": "",
+            "name": "Besler Mnv-48-Domate",
+            "tax_rate": "8",
+            "amount": "6.78"
+        }
+    ]
+}

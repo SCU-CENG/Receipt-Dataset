@@ -1,0 +1,20 @@
+{
+    "company": "A101 Yenı Magazaclılık A.Ş.",
+    "date": "19-04-2023",
+    "time": "15:09",
+    "receipt_id": "0024",
+    "total_tax": "15.25",
+    "total_amount": "99.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bay/Bayan Şemsiye",
+            "tax_rate": "18",
+            "amount": "99.95"
+        }
+    ]
+}

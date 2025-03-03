@@ -1,0 +1,20 @@
+{
+    "company": "Dost Eczanesi",
+    "date": "17-12-2023",
+    "time": "20:48",
+    "receipt_id": "0314",
+    "total_tax": "3.36",
+    "total_amount": "37.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İlaç",
+            "tax_rate": "10",
+            "amount": "37.00"
+        }
+    ]
+}

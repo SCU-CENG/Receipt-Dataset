@@ -1,0 +1,20 @@
+{
+    "company": "Bodrum Mantı",
+    "date": "09-09-2021",
+    "time": "12:56",
+    "receipt_id": "0005",
+    "total_tax": "0.51",
+    "total_amount": "52.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "1",
+            "amount": "52.00"
+        }
+    ]
+}

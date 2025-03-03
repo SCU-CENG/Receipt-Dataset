@@ -1,0 +1,20 @@
+{
+    "company": "Beypet Loj. Ulus. Nak.",
+    "date": "23-10-2023",
+    "time": "14:11",
+    "receipt_id": "0054",
+    "total_tax": "50.00",
+    "total_amount": "300.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "16.22",
+            "price": "18.490",
+            "category": "",
+            "name": "Otogaz",
+            "tax_rate": "20",
+            "amount": "300.00"
+        }
+    ]
+}

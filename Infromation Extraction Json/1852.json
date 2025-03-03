@@ -1,0 +1,20 @@
+{
+    "company": "Aybil Petrol Ürü.Nak.Trz.İnş. Ve",
+    "date": "04-01-2024",
+    "time": "15:48",
+    "receipt_id": "0040",
+    "total_tax": "41.67",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.180",
+            "price": "40.43",
+            "category": "",
+            "name": "Ultra Force Moto",
+            "tax_rate": "20",
+            "amount": "250.00"
+        }
+    ]
+}

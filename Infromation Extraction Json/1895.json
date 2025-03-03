@@ -1,0 +1,20 @@
+{
+    "company": "Sidaş Emlak Oto. A.Ş.",
+    "date": "03-03-2024",
+    "time": "22:05",
+    "receipt_id": "0229",
+    "total_tax": "208.33",
+    "total_amount": "1250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "29.750",
+            "price": "42.02",
+            "category": "",
+            "name": "Ultra Force Moto",
+            "tax_rate": "20",
+            "amount": "1250.00"
+        }
+    ]
+}

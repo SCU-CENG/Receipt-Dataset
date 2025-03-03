@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "05-11-2023",
+    "time": "15:19",
+    "receipt_id": "0362",
+    "total_tax": "0.57",
+    "total_amount": "57.07",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.504",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "30.21"
+        },
+        {
+            "quantity": "0.572",
+            "price": "46.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "26.86"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "23-03-2023",
+    "time": "14:29",
+    "receipt_id": "0080",
+    "total_tax": "6.71",
+    "total_amount": "65.68",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.970",
+            "price": "23.90",
+            "category": "",
+            "name": "Muz Yerli",
+            "tax_rate": "1",
+            "amount": "23.18"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Latex Eldiven 50Li",
+            "tax_rate": "18",
+            "amount": "42.50"
+        }
+    ]
+}

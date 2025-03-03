@@ -1,0 +1,92 @@
+{
+    "company": "Baydöner Rest.A.Ş.",
+    "date": "20-10-2021",
+    "time": "12:49",
+    "receipt_id": "0005",
+    "total_tax": "9.33",
+    "total_amount": "125.92",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alaturka Et Döner 65gr",
+            "tax_rate": "8",
+            "amount": "19.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pepsi (B)",
+            "tax_rate": "8",
+            "amount": "3.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Menü Patates",
+            "tax_rate": "8",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alaturka Et Döner 65gr",
+            "tax_rate": "8",
+            "amount": "19.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pepsi (B)",
+            "tax_rate": "8",
+            "amount": "3.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Menü Patates",
+            "tax_rate": "8",
+            "amount": "3.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Büyük İskender",
+            "tax_rate": "8",
+            "amount": "33.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İce Tea Şeftali(Sınırsız)",
+            "tax_rate": "8",
+            "amount": "5.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Orta Iskender",
+            "tax_rate": "8",
+            "amount": "25.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İce Tea Şeftali(Sınırsız)",
+            "tax_rate": "8",
+            "amount": "5.99"
+        }
+    ]
+}

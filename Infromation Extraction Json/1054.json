@@ -1,0 +1,20 @@
+{
+    "company": "Puma Spor Giyim San.Tic.",
+    "date": "25-10-2018",
+    "time": "17:32",
+    "receipt_id": "0003",
+    "total_tax": "20.74",
+    "total_amount": "280.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayakkabı",
+            "tax_rate": "8",
+            "amount": "319.90"
+        }
+    ]
+}

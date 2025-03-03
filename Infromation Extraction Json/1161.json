@@ -1,0 +1,36 @@
+{
+    "company": "Gratıs İç Ve Dış Ticaret A.Ş.",
+    "date": "17-06-2023",
+    "time": "14:16",
+    "receipt_id": "007",
+    "total_tax": "6.22",
+    "total_amount": "58.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kotex Normal Günlük",
+            "tax_rate": "8",
+            "amount": "34.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bee Beauty 24lü Yüz",
+            "tax_rate": "18",
+            "amount": "24.00"
+        },
+		{
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "yeni Barkodlu Poşet",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Şahin Pastanesi",
+    "date": "14-07-2023",
+    "time": "08:55",
+    "receipt_id": "0073",
+    "total_tax": "0.15",
+    "total_amount": "15.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "1",
+            "amount": "15.00"
+        }
+    ]
+}

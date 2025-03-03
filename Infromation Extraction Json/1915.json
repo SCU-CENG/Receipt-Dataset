@@ -1,0 +1,20 @@
+{
+    "company": "Erdem Gıda",
+    "date": "06-01-2024",
+    "time": "16:09",
+    "receipt_id": "113",
+    "total_tax": "0.00",
+    "total_amount": "194.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekel",
+            "tax_rate": "0",
+            "amount": "194.00"
+        }
+    ]
+}

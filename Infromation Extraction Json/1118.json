@@ -1,0 +1,20 @@
+{
+    "company": "58 Beşler Market",
+    "date": "20-05-2023",
+    "time": "16:39",
+    "receipt_id": "0207",
+    "total_tax": "0.13",
+    "total_amount": "12.76",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.282",
+            "price": "9.95",
+            "category": "",
+            "name": "Besler Mnv-186-Meyv",
+            "tax_rate": "1",
+            "amount": "12.76"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Seda Çıborek",
+    "date": "03-12-2023",
+    "time": "15:38",
+    "receipt_id": "0023",
+    "total_tax": "9.55",
+    "total_amount": "105.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çibörek",
+            "tax_rate": "10",
+            "amount": "105.00"
+        }
+    ]
+}

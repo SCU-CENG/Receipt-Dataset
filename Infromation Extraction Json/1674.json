@@ -1,0 +1,20 @@
+{
+    "company": "Mazakaland",
+    "date": "24-08-2023",
+    "time": "18:56",
+    "receipt_id": "0009",
+    "total_tax": "84.17",
+    "total_amount": "505.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Oyun Bedeli",
+            "tax_rate": "20",
+            "amount": "505.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Süs Dünyası",
+    "date": "09-12-2023",
+    "time": "13:00",
+    "receipt_id": "15",
+    "total_tax": "4.00",
+    "total_amount": "24.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "S. Süs",
+            "tax_rate": "20",
+            "amount": "24.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Snc Gıda",
+    "date": "19-10-2021",
+    "time": "18:28",
+    "receipt_id": "0032",
+    "total_tax": "3.11",
+    "total_amount": "42.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "8",
+            "amount": "42.00"
+        }
+    ]
+}

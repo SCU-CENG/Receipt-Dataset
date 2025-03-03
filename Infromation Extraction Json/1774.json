@@ -1,0 +1,20 @@
+{
+    "company": "Gross 58 Market",
+    "date": "20-11-2023",
+    "time": "18:09",
+    "receipt_id": "0259",
+    "total_tax": "0.70",
+    "total_amount": "70.26",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.172",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "70.26"
+        }
+    ]
+}

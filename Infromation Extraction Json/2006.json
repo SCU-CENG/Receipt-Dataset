@@ -1,0 +1,20 @@
+{
+    "company": "Coşmanlar",
+    "date": "14-01-2024",
+    "time": "14:13",
+    "receipt_id": "00079",
+    "total_tax": "2.79",
+    "total_amount": "281.40",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.005",
+            "price": "280.00",
+            "category": "",
+            "name": "Ulaş Tereyağı",
+            "tax_rate": "1",
+            "amount": "281.40"
+        }
+    ]
+}

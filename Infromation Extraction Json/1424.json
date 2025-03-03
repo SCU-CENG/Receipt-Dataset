@@ -1,0 +1,84 @@
+{
+    "company": "",
+    "date": "15-04-2023",
+    "time": "13:58",
+    "receipt_id": "0044",
+    "total_tax": "62.55",
+    "total_amount": "454.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çay Bardağı 6Lı",
+            "tax_rate": "18",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Katre Çok Amaçlı Kut",
+            "tax_rate": "18",
+            "amount": "14.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Katre Çok Amaçlı Kut",
+            "tax_rate": "18",
+            "amount": "14.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şeker Toz",
+            "tax_rate": "1",
+            "amount": "47.00"
+        },
+        {
+            "quantity": "4.00",
+            "price": "32.95",
+            "category": "",
+            "name": "Kase Çeşitleri 24 Cm",
+            "tax_rate": "18",
+            "amount": "131.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kavanoz Kapağı 10Lu",
+            "tax_rate": "18",
+            "amount": "12.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bardak 4Lü 356 Cc U",
+            "tax_rate": "18",
+            "amount": "69.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bardak 4Lü 356 Cc U",
+            "tax_rate": "18",
+            "amount": "69.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bardak 4Lü 356 Cc U",
+            "tax_rate": "18",
+            "amount": "69.95"
+        }
+    ]
+}

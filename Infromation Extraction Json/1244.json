@@ -1,0 +1,20 @@
+{
+    "company": "Gold Park A.V.M.",
+    "date": "25-08-2021",
+    "time": "12:21",
+    "receipt_id": "000028",
+    "total_tax": "9.15",
+    "total_amount": "60.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Züccaciye",
+            "tax_rate": "18",
+            "amount": "60.00"
+        }
+    ]
+}

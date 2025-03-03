@@ -1,0 +1,20 @@
+{
+    "company": "Metin Baharat Kuruyemış",
+    "date": "30-12-2023",
+    "time": "14:18",
+    "receipt_id": "0109",
+    "total_tax": "1.58",
+    "total_amount": "160.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temel Gıda",
+            "tax_rate": "1",
+            "amount": "160.00"
+        }
+    ]
+}

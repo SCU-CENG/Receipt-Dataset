@@ -1,0 +1,20 @@
+{
+    "company": "Balk10 Cafe",
+    "date": "31-10-2021",
+    "time": "21:33",
+    "receipt_id": "78",
+    "total_tax": "11.56",
+    "total_amount": "156.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçecek",
+            "tax_rate": "8",
+            "amount": "156.00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "company": "Anadolu Restoran",
+    "date": "27-10-2021",
+    "time": "18:20",
+    "receipt_id": "0275",
+    "total_tax": "2.96",
+    "total_amount": "40.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dbl Kofte+0.Pat",
+            "tax_rate": "8",
+            "amount": "27.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Orta Limon Fusetea",
+            "tax_rate": "8",
+            "amount": "13.00"
+        }
+    ]
+}

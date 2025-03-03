@@ -1,0 +1,28 @@
+{
+    "company": "Starbucks",
+    "date": "11-04-2023",
+    "time": "16:10",
+    "receipt_id": "0217",
+    "total_tax": "6.89",
+    "total_amount": "93.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Peynirli Krosan",
+            "tax_rate": "8",
+            "amount": "39.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Latte Grande",
+            "tax_rate": "8",
+            "amount": "54.00"
+        }
+    ]
+}

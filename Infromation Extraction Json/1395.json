@@ -1,0 +1,60 @@
+{
+    "company": "58 Beşler Gross",
+    "date": "07-09-2021",
+    "time": "18:36",
+    "receipt_id": "0191",
+    "total_tax": "10.28",
+    "total_amount": "143.57",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.678",
+            "price": "21.25",
+            "category": "",
+            "name": "Dokme Pılıc Bonfıle",
+            "tax_rate": "8",
+            "amount": "35.66"
+        },
+        {
+            "quantity": "1.848",
+            "price": "15.95",
+            "category": "",
+            "name": "Erpılıc Butun Pılıc-",
+            "tax_rate": "8",
+            "amount": "29.48"
+        },
+        {
+            "quantity": "1.538",
+            "price": "16.95",
+            "category": "",
+            "name": "Dokme Pılıc Pirzola",
+            "tax_rate": "8",
+            "amount": "26.07"
+        },
+        {
+            "quantity": "0.544",
+            "price": "9.95",
+            "category": "",
+            "name": "Besler Mini Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "5.41"
+        },
+        {
+            "quantity": "1.116",
+            "price": "14.95",
+            "category": "",
+            "name": "Dokme Pılıc Baget Kg",
+            "tax_rate": "8",
+            "amount": "16.68"
+        },
+        {
+            "quantity": "1.898",
+            "price": "15.95",
+            "category": "",
+            "name": "Erpılıc Butun Pılıc-",
+            "tax_rate": "8",
+            "amount": "30.27"
+        } 
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "31-10-2023",
+    "time": "18:13",
+    "receipt_id": "0194",
+    "total_tax": "0.71",
+    "total_amount": "71.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Soke Un 5 Kg",
+            "tax_rate": "1",
+            "amount": "112.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nuh Ankara Ince Uzun",
+            "tax_rate": "1",
+            "amount": "13.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Nuh Ankara Burgu",
+            "tax_rate": "1",
+            "amount": "13.75"
+        }
+    ]
+}

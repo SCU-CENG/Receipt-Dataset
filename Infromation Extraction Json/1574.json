@@ -1,0 +1,20 @@
+{
+    "company": "Starbucks Coffee",
+    "date": "08-09-2021",
+    "time": "08:38",
+    "receipt_id": "0020",
+    "total_tax": "0.12",
+    "total_amount": "12.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pıke Tall",
+            "tax_rate": "1",
+            "amount": "12.50"
+        }
+    ]
+}

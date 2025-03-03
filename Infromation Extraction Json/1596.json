@@ -1,0 +1,84 @@
+{
+    "company": "Samanpazarı",
+    "date": "04-07-2023",
+    "time": "16:55",
+    "receipt_id": "0252",
+    "total_tax": "119.63",
+    "total_amount": "784.25",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hobby Life 2206 6 Lı Kro",
+            "tax_rate": "18",
+            "amount": "99.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Entel Home Ek-02 Banyo K",
+            "tax_rate": "18",
+            "amount": "157.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Vantuzlu 4Lü Askı-30",
+            "tax_rate": "18",
+            "amount": "115.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baskılı Poşet",
+            "tax_rate": "18",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kardelen Kapı Arkası Ask",
+            "tax_rate": "18",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "67.50",
+            "category": "",
+            "name": "Çelik Ayna Vidasız Açık",
+            "tax_rate": "18",
+            "amount": "135.00"
+        },
+        {
+            "quantity": "3.00",
+            "price": "85.00",
+            "category": "",
+            "name": "Yapışkanlı Kare Havluluk",
+            "tax_rate": "18",
+            "amount": "255.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Okyanus Dlkb-740 Köşelik",
+            "tax_rate": "18",
+            "amount": "185.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Okyanus Dlkb-740 Köşelik",
+            "tax_rate": "18",
+            "amount": "-185.00"
+        }
+    ]
+}

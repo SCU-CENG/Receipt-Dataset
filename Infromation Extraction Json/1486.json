@@ -1,0 +1,52 @@
+{
+    "company": "Sok Marketler T.A.S.",
+    "date": "17-05-2023",
+    "time": "19:45",
+    "receipt_id": "0190",
+    "total_tax": "9.90",
+    "total_amount": "163.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kadın Cuzdan Kabartm",
+            "tax_rate": "8",
+            "amount": "69.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıngo Sıvı Deterjan",
+            "tax_rate": "8",
+            "amount": "99.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Pas",
+            "tax_rate": "1",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Pas",
+            "tax_rate": "1",
+            "amount": "-20.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıngo Sıvı Deterjan",
+            "tax_rate": "8",
+            "amount": "-40.90"
+        }
+    ]
+}

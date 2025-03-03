@@ -1,0 +1,20 @@
+{
+    "company": "Yiğido Gıda Tur. San. Ve Tic. A.Ş.",
+    "date": "04-10-2021",
+    "time": "10:50",
+    "receipt_id": "0026",
+    "total_tax": "0.30",
+    "total_amount": "30.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "20.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Yılsa-Somun Ekmek 1.",
+            "tax_rate": "1",
+            "amount": "30.00"
+        }
+    ]
+}

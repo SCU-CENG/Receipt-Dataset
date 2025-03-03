@@ -1,0 +1,148 @@
+{
+    "company": "Sok Marketler T.A.S.",
+    "date": "21-05-2023",
+    "time": "19:55",
+    "receipt_id": "0201",
+    "total_tax": "2.63",
+    "total_amount": "157.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıcı Balık Kra",
+            "tax_rate": "1",
+            "amount": "11.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı Burcak Tuzlu Cor",
+            "tax_rate": "1",
+            "amount": "22.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Etı Burcak Sutlu Kak",
+            "tax_rate": "1",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cubuk Kraker 4",
+            "tax_rate": "1",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dankek Potı Ka",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıs Karısık 1 Lt",
+            "tax_rate": "8",
+            "amount": "16.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Dankek Potı Ka",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Çubuk Kraker 4",
+            "tax_rate": "1",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Halley 30 Gr.",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dankek Potı Me",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dankek Potı Me",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dankek Potı Me",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Dankek Potı Me",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Halley 30 Gr.",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "8.00",
+            "price": "1.75",
+            "category": "",
+            "name": "Etı Puf Kakaolu 18G",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Pas",
+            "tax_rate": "1",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cıkolatalı Pas",
+            "tax_rate": "1",
+            "amount": "-20.00"
+        }
+    ]
+}

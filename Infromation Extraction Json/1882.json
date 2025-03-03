@@ -1,0 +1,20 @@
+{
+    "company": "Tugra Eczanesi",
+    "date": "18-03-2024",
+    "time": "13:09",
+    "receipt_id": "6",
+    "total_tax": "36.36",
+    "total_amount": "400.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Medikal",
+            "tax_rate": "10",
+            "amount": "400.00"
+        }
+    ]
+}

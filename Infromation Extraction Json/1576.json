@@ -1,0 +1,20 @@
+{
+    "company": "Günaydın Et San.Ve Tic.A.Ş.",
+    "date": "03-09-2021",
+    "time": "20:27",
+    "receipt_id": "0063",
+    "total_tax": "0.57",
+    "total_amount": "58.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek %1",
+            "tax_rate": "1",
+            "amount": "58.00"
+        }
+    ]
+}

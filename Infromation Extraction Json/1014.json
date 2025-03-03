@@ -1,0 +1,28 @@
+{
+    "company": "Starbucks Coffee",
+    "date": "24-04-2023",
+    "time": "10:08",
+    "receipt_id": "0049",
+    "total_tax": "6.37",
+    "total_amount": "86.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Peynirli Krosan",
+            "tax_rate": "8",
+            "amount": "39.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Latte 1A11",
+            "tax_rate": "8",
+            "amount": "47.00"
+        }
+    ]
+}

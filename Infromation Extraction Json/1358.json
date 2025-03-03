@@ -1,0 +1,28 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "11-10-2021",
+    "time": "19:23",
+    "receipt_id": "0115",
+    "total_tax": "1.96",
+    "total_amount": "26.49",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Karışık",
+            "tax_rate": "8",
+            "amount": "21.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "4.50"
+        }
+    ]
+}

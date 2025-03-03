@@ -1,0 +1,20 @@
+{
+    "company": "Şen-Yıl Petrol Ürünleri Turizm",
+    "date": "04-12-2023",
+    "time": "16:29",
+    "receipt_id": "0048",
+    "total_tax": "193.38",
+    "total_amount": "1160.27",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "30.020",
+            "price": "38.65",
+            "category": "",
+            "name": "Motorin Svpd",
+            "tax_rate": "20",
+            "amount": "1160.27"
+        }
+    ]
+}

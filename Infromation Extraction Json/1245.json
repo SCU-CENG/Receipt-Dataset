@@ -1,0 +1,52 @@
+{
+    "company": "Mükaş",
+    "date": "28-08-2021",
+    "time": "16:34",
+    "receipt_id": "00097",
+    "total_tax": "10.96",
+    "total_amount": "101.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "16.00",
+            "category": "",
+            "name": "Lav Drn372 Meşrubat Bardağ",
+            "tax_rate": "18",
+            "amount": "32.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pia Islak Havlu 60 Li",
+            "tax_rate": "18",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1054 Erkek Empirme Boxer",
+            "tax_rate": "8",
+            "amount": "58.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Titiz Tp-610 Metal Sap 120",
+            "tax_rate": "18",
+            "amount": "7.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}

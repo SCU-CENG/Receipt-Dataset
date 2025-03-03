@@ -1,0 +1,28 @@
+{
+    "company": "Zula",
+    "date": "07-10-2021",
+    "time": "12:32",
+    "receipt_id": "0007",
+    "total_tax": "5.26",
+    "total_amount": "71.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "B.I.G 200Gr",
+            "tax_rate": "8",
+            "amount": "55.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baharatlı Patates K1",
+            "tax_rate": "8",
+            "amount": "16.00"
+        }
+    ]
+}

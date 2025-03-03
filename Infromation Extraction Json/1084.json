@@ -1,0 +1,20 @@
+{
+    "company": "Karataş Züccaciye",
+    "date": "13-05-2023",
+    "time": "11:42",
+    "receipt_id": "0004",
+    "total_tax": "13.33",
+    "total_amount": "180.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Züccaciye",
+            "tax_rate": "8",
+            "amount": "180.00"
+        }
+    ]
+}

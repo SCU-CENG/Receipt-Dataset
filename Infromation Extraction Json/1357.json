@@ -1,0 +1,52 @@
+{
+    "company": "Pıdem Restaurant",
+    "date": "26-10-2021",
+    "time": "19:07",
+    "receipt_id": "0110",
+    "total_tax": "3.22",
+    "total_amount": "43.47",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Karışık",
+            "tax_rate": "8",
+            "amount": "21.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Coca Cola Pmıx",
+            "tax_rate": "8",
+            "amount": "5.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tek Lahmacun",
+            "tax_rate": "8",
+            "amount": "11.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Su",
+            "tax_rate": "8",
+            "amount": "2.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çay Demleme",
+            "tax_rate": "8",
+            "amount": "1.50"
+        }
+    ]
+}

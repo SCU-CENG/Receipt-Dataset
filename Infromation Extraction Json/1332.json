@@ -1,0 +1,36 @@
+{
+    "company": "Günaydın Çamlıca Restoran Gıda",
+    "date": "26-10-2021",
+    "time": "12:51",
+    "receipt_id": "0091",
+    "total_tax": "3.23",
+    "total_amount": "43.65",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kasar Kofte",
+            "tax_rate": "8",
+            "amount": "29.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutlac",
+            "tax_rate": "8",
+            "amount": "12.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ayran",
+            "tax_rate": "8",
+            "amount": "6.50"
+        }
+    ]
+}

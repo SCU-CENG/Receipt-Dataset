@@ -1,0 +1,20 @@
+{
+    "company": "Ta-Ne Petrol San. Tic. Ltd. Şti",
+    "date": "21-09-2023",
+    "time": "12:33",
+    "receipt_id": "0050",
+    "total_tax": "16.67",
+    "total_amount": "100.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "5.750",
+            "price": "17.39",
+            "category": "",
+            "name": "Aygaz Otogaz+",
+            "tax_rate": "20",
+            "amount": "100.00"
+        }
+    ]
+}

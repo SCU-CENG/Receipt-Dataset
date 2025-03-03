@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "11-02-2024",
+    "time": "15:23",
+    "receipt_id": "0291",
+    "total_tax": "7.84",
+    "total_amount": "791.84",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.300",
+            "price": "46.95",
+            "category": "",
+            "name": "Besler Mını Ekmek Kg",
+            "tax_rate": "1",
+            "amount": "61.04"
+        },
+        {
+            "quantity": "1.624",
+            "price": "450.00",
+            "category": "",
+            "name": "Besler-Kuzu Kulbastı",
+            "tax_rate": "1",
+            "amount": "730.80"
+        }
+    ]
+}

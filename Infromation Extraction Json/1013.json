@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "15-12-2022",
+    "time": "18:31",
+    "receipt_id": "0051",
+    "total_tax": "0.22",
+    "total_amount": "21.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıllur Tuz 1,5Kg Iyo",
+            "tax_rate": "1",
+            "amount": "18.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "3.00"
+        }
+    ]
+}

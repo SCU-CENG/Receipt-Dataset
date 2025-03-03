@@ -1,0 +1,76 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti.",
+    "date": "06-09-2021",
+    "time": "16:35",
+    "receipt_id": "0132",
+    "total_tax": "17.61",
+    "total_amount": "237.78",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.900",
+            "price": "39.95",
+            "category": "",
+            "name": "Erpılıc Gogus Kg",
+            "tax_rate": "8",
+            "amount": "35.86"
+        },
+        {
+            "quantity": "0.695",
+            "price": "73.00",
+            "category": "",
+            "name": "Guler Sucuk Kg",
+            "tax_rate": "8",
+            "amount": "50.74"
+        },
+        {
+            "quantity": "0.485",
+            "price": "140.00",
+            "category": "",
+            "name": "Guler Kavurma",
+            "tax_rate": "8",
+            "amount": "67.90"
+        },
+        {
+            "quantity": "1.00",
+            "price": "18.00",
+            "category": "",
+            "name": "Avar Peteklı Bal 500 Gr",
+            "tax_rate": "8",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "1.00",
+            "price": "15.00",
+            "category": "",
+            "name": "Dogu Sade Tahin Helvası",
+            "tax_rate": "8",
+            "amount": "15.00"
+        },
+        {
+            "quantity": "0.660",
+            "price": "58.00",
+            "category": "",
+            "name": "Tulum Peynır",
+            "tax_rate": "8",
+            "amount": "38.28"
+        },
+        {
+            "quantity": "3.00",
+            "price": "1.50",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "8",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Tam Bugday Ekmegı",
+            "tax_rate": "8",
+            "amount": "7.50"
+        }
+    ]
+}

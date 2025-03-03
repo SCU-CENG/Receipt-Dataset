@@ -1,0 +1,20 @@
+{
+    "company": "Tarım Kredi Marketçilik A.Ş",
+    "date": "04-05-2023",
+    "time": "20:19",
+    "receipt_id": "139",
+    "total_tax": "0.21",
+    "total_amount": "21.49",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.08",
+            "price": "19.90",
+            "category": "",
+            "name": "Muz Yerli Kg",
+            "tax_rate": "1",
+            "amount": "21.49"
+        }
+    ]
+}

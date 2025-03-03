@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "25-12-2023",
+    "time": "18:25",
+    "receipt_id": "0231",
+    "total_tax": "0.47",
+    "total_amount": "47.43",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.526",
+            "price": "59.95",
+            "category": "",
+            "name": "Besler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "31.53"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.95",
+            "category": "",
+            "name": "Besler Sımıt",
+            "tax_rate": "1",
+            "amount": "15.90"
+        }
+    ]
+}

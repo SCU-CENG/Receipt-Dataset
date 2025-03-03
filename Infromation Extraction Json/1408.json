@@ -1,0 +1,76 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "22-04-2022",
+    "time": "14:19",
+    "receipt_id": "0058",
+    "total_tax": "2.35",
+    "total_amount": "233.07",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Penguen Garnıtur",
+            "tax_rate": "1",
+            "amount": "9.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıllur Tuz Iyotlu",
+            "tax_rate": "1",
+            "amount": "7.20"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Aycıcek Yagı",
+            "tax_rate": "1",
+            "amount": "147.25"
+        },
+        {
+            "quantity": "0.850",
+            "price": "8.45",
+            "category": "",
+            "name": "Lımon Kg.",
+            "tax_rate": "1",
+            "amount": "7.18"
+        },
+        {
+            "quantity": "3.610",
+            "price": "35.90",
+            "category": "",
+            "name": "S.Pılıc Pst.Bın.Pılc",
+            "tax_rate": "1",
+            "amount": "129.60"
+        },
+        {
+            "quantity": "1.160",
+            "price": "4.95",
+            "category": "",
+            "name": "Sogan Kuru Dokme Kg",
+            "tax_rate": "1",
+            "amount": "5.74"
+        },
+        {
+            "quantity": "1.850",
+            "price": "19.50",
+            "category": "",
+            "name": "Domates Kg.",
+            "tax_rate": "1",
+            "amount": "36.08"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Sanal Plastık Poset",
+            "tax_rate": "18",
+            "amount": "0.50"
+        }
+    ]
+}

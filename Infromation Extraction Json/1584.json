@@ -1,0 +1,28 @@
+{
+    "company": "Bım Birleşik Mağazalar A.Ş.",
+    "date": "11-02-2021",
+    "time": "15:04",
+    "receipt_id": "0234",
+    "total_tax": "0.66",
+    "total_amount": "8.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "10.00",
+            "price": "0.50",
+            "category": "",
+            "name": "Su 0,5 Lt",
+            "tax_rate": "8",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Finger 45",
+            "tax_rate": "8",
+            "amount": "3.95"
+        }
+    ]
+}

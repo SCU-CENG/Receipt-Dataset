@@ -1,0 +1,20 @@
+{
+    "company": "Şifaiye Çay Bahçesi",
+    "date": "16-06-2023",
+    "time": "12:43",
+    "receipt_id": "0035",
+    "total_tax": "3.56",
+    "total_amount": "48.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçecek",
+            "tax_rate": "8",
+            "amount": "48.00"
+        }
+    ]
+}

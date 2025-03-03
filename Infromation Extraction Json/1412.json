@@ -1,0 +1,52 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "22-01-2023",
+    "time": "18:22",
+    "receipt_id": "0308",
+    "total_tax": "3.73",
+    "total_amount": "66.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Samba150Gtır.Pat.",
+            "tax_rate": "1",
+            "amount": "11.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kekspır Rulo Past.23",
+            "tax_rate": "1",
+            "amount": "16.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kraker Soğanlı 40 G",
+            "tax_rate": "1",
+            "amount": "4.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Lureağdabandı41Li",
+            "tax_rate": "18",
+            "amount": "21.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Samba Ince Patts",
+            "tax_rate": "1",
+            "amount": "11.75"
+        }
+    ]
+}

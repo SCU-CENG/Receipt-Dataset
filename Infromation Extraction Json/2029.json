@@ -1,0 +1,44 @@
+{
+    "company": "Gross 58 Yenısehır",
+    "date": "10-02-2024",
+    "time": "14:48",
+    "receipt_id": "0098",
+    "total_tax": "17.55",
+    "total_amount": "197.02",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.700",
+            "price": "24.95",
+            "category": "",
+            "name": "Besler Mnv-124-Mand",
+            "tax_rate": "1",
+            "amount": "42.42"
+        },
+        {
+            "quantity": "2.00",
+            "price": "5.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "11.00"
+        },
+        {
+            "quantity": "0.294",
+            "price": "150.00",
+            "category": "",
+            "name": "Besler Kandıl Sımıdı",
+            "tax_rate": "1",
+            "amount": "44.10"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Famılıa Havlu 16 Lı",
+            "tax_rate": "20",
+            "amount": "99.50"
+        }
+    ]
+}

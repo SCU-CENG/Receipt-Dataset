@@ -1,0 +1,28 @@
+{
+    "company": "Otoyol Yat. Ve İşlt. A.Ş",
+    "date": "11-04-2023",
+    "time": "17:06",
+    "receipt_id": "0428",
+    "total_tax": "22.82",
+    "total_amount": "244.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Köprü Geçiş Ücreti",
+            "tax_rate": "8",
+            "amount": "184.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Otoyol Ceçiş Ücreti",
+            "tax_rate": "18",
+            "amount": "60.00"
+        }
+    ]
+}

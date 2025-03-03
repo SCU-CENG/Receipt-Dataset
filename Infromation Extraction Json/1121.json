@@ -1,0 +1,20 @@
+{
+    "company": "Sivas Belediyesi Tanzim Sarış Müdürlüğü",
+    "date": "04-02-2023",
+    "time": "13:20",
+    "receipt_id": "0042",
+    "total_tax": "30.51",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "9.26",
+            "price": "21.590",
+            "category": "",
+            "name": "Krş.95",
+            "tax_rate": "18",
+            "amount": "200.00"
+        }
+    ]
+}

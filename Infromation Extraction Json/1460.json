@@ -1,0 +1,20 @@
+{
+    "company": "Afm Mutfak",
+    "date": "06-05-2023",
+    "time": "14:19",
+    "receipt_id": "11",
+    "total_tax": "30.51",
+    "total_amount": "200.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ev Gereçleri",
+            "tax_rate": "18",
+            "amount": "200.00"
+        }
+    ]
+}

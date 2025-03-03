@@ -1,0 +1,284 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "09-06-2023",
+    "time": "19:36",
+    "receipt_id": "0114",
+    "total_tax": "18.82",
+    "total_amount": "957.15",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker İkram 3X84G",
+            "tax_rate": "1",
+            "amount": ""
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Eti Nero 4x110G",
+            "tax_rate": "1",
+            "amount": "22.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Frema 400G",
+            "tax_rate": "1",
+            "amount": "34.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Torku 4X1L Y.Y Süt",
+            "tax_rate": "1",
+            "amount": "69.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mak.Nuhun Ankara",
+            "tax_rate": "1",
+            "amount": "12.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Orta Boy Çöp Torbası",
+            "tax_rate": "18",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Esmer Kof 1Kg Yor",
+            "tax_rate": "1",
+            "amount": "16.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çokoprens 300G",
+            "tax_rate": "1",
+            "amount": "24.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ahir 750G B.Peynir",
+            "tax_rate": "1",
+            "amount": "73.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Halley 8Li",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mak. Nuhun Ankara",
+            "tax_rate": "1",
+            "amount": "12.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sera Buzd. Poşeti Or",
+            "tax_rate": "18",
+            "amount": "10.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Maya Kuru Aktif",
+            "tax_rate": "1",
+            "amount": "22.45"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hm KBTZ20X10Adet",
+            "tax_rate": "1",
+            "amount": "23.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pir Osm 1000G Ovadan",
+            "tax_rate": "1",
+            "amount": "33.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çubuk 40 G Ülker",
+            "tax_rate": "1",
+            "amount": "7.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tuz",
+            "tax_rate": "1",
+            "amount": "7.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çubuk 40 G Ülker",
+            "tax_rate": "1",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çubuk 40 G Ülker",
+            "tax_rate": "1",
+            "amount": "2.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Şv10X5GrDr.Oetker",
+            "tax_rate": "1",
+            "amount": "9.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ruffles Org 107 G",
+            "tax_rate": "1",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pasta Altı Nimet",
+            "tax_rate": "1",
+            "amount": "25.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mendiva 101Li Isl",
+            "tax_rate": "8",
+            "amount": "22.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dalan Zey.Sab4*175Gr",
+            "tax_rate": "8",
+            "amount": "49.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Milkten 250G Tereyağ",
+            "tax_rate": "1",
+            "amount": "44.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Milkten 250G Tereyağ",
+            "tax_rate": "1",
+            "amount": "44.50"
+        }, 
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bnvit Salam 250G",
+            "tax_rate": "1",
+            "amount": "19.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tarabya 700 G Kaşar",
+            "tax_rate": "1",
+            "amount": "112.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bnvit Salam 250G",
+            "tax_rate": "1",
+            "amount": "19.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dana Sucuk 300 G",
+            "tax_rate": "1",
+            "amount": "109.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Fuse Tea Mng 1 L",
+            "tax_rate": "8",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hayat1.5L Su",
+            "tax_rate": "1",
+            "amount": "8.35"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mak.Nuhun Ankara",
+            "tax_rate": "1",
+            "amount": "12.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mak.Nuhun Ankara",
+            "tax_rate": "1",
+            "amount": "12.75"
+        }
+    ]
+}

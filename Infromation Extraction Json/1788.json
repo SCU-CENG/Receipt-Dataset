@@ -1,0 +1,20 @@
+{
+    "company": "58 Besler Market",
+    "date": "01-12-2023",
+    "time": "20:56",
+    "receipt_id": "0340",
+    "total_tax": "0.40",
+    "total_amount": "40.38",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.024",
+            "price": "19.95",
+            "category": "",
+            "name": "Besler Mnv-9-Patate",
+            "tax_rate": "1",
+            "amount": "40.38"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "Güler Sucukları Ve Et Mamulleri San.Tic.Ltd.Şti.",
+    "date": "28-08-2021",
+    "time": "16:54",
+    "receipt_id": "0170",
+    "total_tax": "7.58",
+    "total_amount": "102.31",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Corbalık Kemık",
+            "tax_rate": "8",
+            "amount": "7.00"
+        },
+        {
+            "quantity": "1.800",
+            "price": "17.95",
+            "category": "",
+            "name": "Erpılıc Baget Kg",
+            "tax_rate": "8",
+            "amount": "32.31"
+        },
+        {
+            "quantity": "1.00",
+            "price": "47.00",
+            "category": "",
+            "name": "Guler Macar Salam 750 G",
+            "tax_rate": "8",
+            "amount": "47.00"
+        },
+        {
+            "quantity": "0.500",
+            "price": "32.00",
+            "category": "",
+            "name": "Sude 201-230 Sıyah Sele",
+            "tax_rate": "8",
+            "amount": "16.00"
+        }
+    ]
+}

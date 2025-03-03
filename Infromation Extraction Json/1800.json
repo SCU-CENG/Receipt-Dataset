@@ -1,0 +1,44 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "10-12-2023",
+    "time": "19:22",
+    "receipt_id": "00234",
+    "total_tax": "13.16",
+    "total_amount": "181.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "4.00",
+            "price": "6.75",
+            "category": "",
+            "name": "Sutas Sut D Vıt.180 Ml Cık",
+            "tax_rate": "1",
+            "amount": "27.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "6.95",
+            "category": "",
+            "name": "Icım Sut 180 Ml Muzlu",
+            "tax_rate": "1",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 200 Ml Karısı",
+            "tax_rate": "10",
+            "amount": "139.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

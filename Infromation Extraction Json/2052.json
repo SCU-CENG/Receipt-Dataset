@@ -1,0 +1,20 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "24-01-2024",
+    "time": "21:23",
+    "receipt_id": "00330",
+    "total_tax": "1.63",
+    "total_amount": "164.75",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Caykur Altınpas Demlık Pos",
+            "tax_rate": "1",
+            "amount": "164.75"
+        }
+    ]
+}

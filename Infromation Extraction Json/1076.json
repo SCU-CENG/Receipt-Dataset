@@ -1,0 +1,28 @@
+{
+    "company": "Tarım Kredi Marketçilik A.Ş",
+    "date": "29-04-2023",
+    "time": "14:17",
+    "receipt_id": "94",
+    "total_tax": "0.43",
+    "total_amount": "43.89",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.955",
+            "price": "18.50",
+            "category": "",
+            "name": "Armut Deveci Armut",
+            "tax_rate": "1",
+            "amount": "17.67"
+        },
+        {
+            "quantity": "1.145",
+            "price": "22.90",
+            "category": "",
+            "name": "Muz Yerli Kg",
+            "tax_rate": "1",
+            "amount": "26.22"
+        }
+    ]
+}

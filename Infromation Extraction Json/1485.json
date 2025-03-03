@@ -1,0 +1,20 @@
+{
+    "company": "Flo",
+    "date": "13-05-2023",
+    "time": "13:02",
+    "receipt_id": "0030",
+    "total_tax": "29.63",
+    "total_amount": "399.99",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "399.99",
+            "category": "",
+            "name": "Ayakkabı",
+            "tax_rate": "0",
+            "amount": "399.99"
+        }
+    ]
+}

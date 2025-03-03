@@ -1,0 +1,28 @@
+{
+    "company": "Tanzim Market",
+    "date": "20-07-2023",
+    "time": "14:57",
+    "receipt_id": "0129",
+    "total_tax": "0.96",
+    "total_amount": "96.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.050",
+            "price": "79.00",
+            "category": "",
+            "name": "Pılıc Kanat",
+            "tax_rate": "1",
+            "amount": "82.95"
+        },
+        {
+            "quantity": "2.00",
+            "price": "7.00",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        }
+    ]
+}

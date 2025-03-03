@@ -1,0 +1,28 @@
+{
+    "company": "58 Besler Market",
+    "date": "16-02-2022",
+    "time": "18:26",
+    "receipt_id": "0240",
+    "total_tax": "0.15",
+    "total_amount": "15.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Besler Mnv-84-Kıvır",
+            "tax_rate": "1",
+            "amount": "7.95"
+        },
+        {
+            "quantity": "3.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Besler Halk Ekmek",
+            "tax_rate": "1",
+            "amount": "7.50"
+        }
+    ]
+}

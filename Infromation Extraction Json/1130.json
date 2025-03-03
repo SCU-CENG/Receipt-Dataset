@@ -1,0 +1,29 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "15-03-2023",
+    "time": "14:20",
+    "receipt_id": "0119",
+    "total_tax": "0.11",
+    "total_amount": "11.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "su 0.5L",
+            "tax_rate": "1",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Biscolata Stix 40G",
+            "tax_rate": "1",
+            "amount": "10.00"
+        }
+
+    ]
+}

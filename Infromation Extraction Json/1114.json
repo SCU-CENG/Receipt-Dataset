@@ -1,0 +1,20 @@
+{
+    "company": "Beşler Kom.Hb.Tic.Ltd.Şti",
+    "date": "03-05-2023",
+    "time": "16:25",
+    "receipt_id": "0121",
+    "total_tax": "0.85",
+    "total_amount": "85.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "M.Sebze",
+            "tax_rate": "1",
+            "amount": "85.80"
+        }
+    ]
+}

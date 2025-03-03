@@ -1,0 +1,20 @@
+{
+    "company": "Öz Şirin Bebe",
+    "date": "30-08-2023",
+    "time": "15:05",
+    "receipt_id": "0052",
+    "total_tax": "36.36",
+    "total_amount": "400.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Giyim",
+            "tax_rate": "10",
+            "amount": "400.00"
+        }
+    ]
+}

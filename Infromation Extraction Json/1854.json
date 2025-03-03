@@ -1,0 +1,20 @@
+{
+    "company": "Tutkum Simit Diyarı İnovasyon",
+    "date": "04-21-2024",
+    "time": "15:27",
+    "receipt_id": "000131",
+    "total_tax": "2.51",
+    "total_amount": "254.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek",
+            "tax_rate": "1",
+            "amount": "254.00"
+        }
+    ]
+}

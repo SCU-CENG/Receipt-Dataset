@@ -1,0 +1,20 @@
+{
+    "company": "Tk Tarım Kredi Paz. ve Marketçilik A.Ş",
+    "date": "12-03-2023",
+    "time": "14:29",
+    "receipt_id": "180",
+    "total_tax": "0.84",
+    "total_amount": "84.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tkk Kavrulmuş İç Fın",
+            "tax_rate": "1",
+            "amount": "84.90"
+        }
+    ]
+}

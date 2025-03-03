@@ -1,0 +1,20 @@
+{
+    "company": "Adige Çiğköfte Baklava",
+    "date": "09-03-2024",
+    "time": "16:50",
+    "receipt_id": "0002",
+    "total_tax": "22.73",
+    "total_amount": "250.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "10",
+            "amount": "250.00"
+        }
+    ]
+}

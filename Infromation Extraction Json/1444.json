@@ -1,0 +1,28 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "29-04-2023",
+    "time": "19:10",
+    "receipt_id": "0288",
+    "total_tax": "15.76",
+    "total_amount": "212.80",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Asperox Sarı+Mavı",
+            "tax_rate": "8",
+            "amount": "57.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Solo Bambu Katkıl",
+            "tax_rate": "8",
+            "amount": "154.90"
+        }
+    ]
+}

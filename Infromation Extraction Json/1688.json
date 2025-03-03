@@ -1,0 +1,84 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "06-09-2023",
+    "time": "15:12",
+    "receipt_id": "0111",
+    "total_tax": "1.62",
+    "total_amount": "63.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cips Mev.Yeş.96G Lay",
+            "tax_rate": "1",
+            "amount": "20.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Su 1.5 Lt",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "2.00",
+            "price": "3.00",
+            "category": "",
+            "name": "Kekspır Kek 45 G",
+            "tax_rate": "1",
+            "amount": "6.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Hanımell.81G Mahl",
+            "tax_rate": "1",
+            "amount": "8.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Biskrem 100 G",
+            "tax_rate": "1",
+            "amount": "9.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kek Donut 40Gr",
+            "tax_rate": "1",
+            "amount": "3.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dooyşeftali200Ml",
+            "tax_rate": "10",
+            "amount": "5.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cappykarışık200Ml",
+            "tax_rate": "10",
+            "amount": "6.75"
+        }
+    ]
+}

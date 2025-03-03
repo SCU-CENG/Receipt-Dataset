@@ -1,0 +1,20 @@
+{
+    "company": "Çerik Kardeşler",
+    "date": "21-01-2024",
+    "time": "16:53",
+    "receipt_id": "0019",
+    "total_tax": "0.74",
+    "total_amount": "75.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sebze",
+            "tax_rate": "1",
+            "amount": "75.00"
+        }
+    ]
+}

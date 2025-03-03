@@ -1,0 +1,124 @@
+{
+    "company": "Usta Dönerci",
+    "date": "27-09-2023",
+    "time": "15:59",
+    "receipt_id": "000064",
+    "total_tax": "13.63",
+    "total_amount": "149.98",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Tek Eko Baget Etl",
+            "tax_rate": "10",
+            "amount": "74.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Baget Et Doner",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Kucukfuseteasef",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Kucuk Patates",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Ketcap",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Sarımsaklı Mayo",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Istenmıyor",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Tek Eko Baget Etl",
+            "tax_rate": "10",
+            "amount": "74.99"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Baget Et Doner",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Kucuk Ayran",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Kucuk Patates",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Ketcap",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Sarımsaklı Mayo",
+            "tax_rate": "10",
+            "amount": "0.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1 Istenmıyor",
+            "tax_rate": "10",
+            "amount": "0.00"
+        }
+    ]
+}

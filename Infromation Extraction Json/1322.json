@@ -1,0 +1,52 @@
+{
+    "company": "Carrefoursa Suryapı Exen Süper",
+    "date": "18-10-2021",
+    "time": "10:45",
+    "receipt_id": "0074",
+    "total_tax": "4.93",
+    "total_amount": "67.20",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Carrefour Edremıt Cı",
+            "tax_rate": "8",
+            "amount": "12.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Altınkılıc Klasık Pe",
+            "tax_rate": "8",
+            "amount": "39.95"
+        },
+        {
+            "quantity": "0.384",
+            "price": "14.45",
+            "category": "",
+            "name": "Domates Salkım Pazar",
+            "tax_rate": "8",
+            "amount": ""
+        },
+        {
+            "quantity": "3.00",
+            "price": "3.75",
+            "category": "",
+            "name": "Sf Dnk Patateslı Rul",
+            "tax_rate": "8",
+            "amount": "11.25"
+        },
+        {
+            "quantity": "3.00",
+            "price": "2.50",
+            "category": "",
+            "name": "Y.P.Sokak Sımıt Adet",
+            "tax_rate": "8",
+            "amount": "7.50"
+        }
+    ]
+}

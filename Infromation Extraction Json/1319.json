@@ -1,0 +1,28 @@
+{
+    "company": "Şahin Pastanesi",
+    "date": "09-10-2021",
+    "time": "08:51",
+    "receipt_id": "24",
+    "total_tax": "1.48",
+    "total_amount": "20.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek",
+            "tax_rate": "8",
+            "amount": "18.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıyecek",
+            "tax_rate": "8",
+            "amount": "2.00"
+        }
+    ]
+}

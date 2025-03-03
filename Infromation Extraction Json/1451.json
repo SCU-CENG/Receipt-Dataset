@@ -1,0 +1,60 @@
+{
+    "company": "",
+    "date": "28-04-2023",
+    "time": "21:13",
+    "receipt_id": "0311",
+    "total_tax": "4.34",
+    "total_amount": "159.96",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "8.75",
+            "category": "",
+            "name": "Su 5 L",
+            "tax_rate": "1",
+            "amount": "52.50"
+        },
+        {
+            "quantity": "1.210",
+            "price": "14.50",
+            "category": "",
+            "name": "Limon",
+            "tax_rate": "1",
+            "amount": "17.55"
+        },
+        {
+            "quantity": "0.695",
+            "price": "17.50",
+            "category": "",
+            "name": "Salatalık",
+            "tax_rate": "1",
+            "amount": "12.16"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek Sofra",
+            "tax_rate": "1",
+            "amount": "4.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "beyoğlu Mıx Bar 750",
+            "tax_rate": "1",
+            "amount": "34.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Faıry1500MlBuldet.",
+            "tax_rate": "8",
+            "amount": "78.90"
+        }
+    ]
+}

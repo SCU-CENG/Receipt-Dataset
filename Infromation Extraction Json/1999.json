@@ -1,0 +1,28 @@
+{
+    "company": "Gross 58 Market",
+    "date": "08-01-2024",
+    "time": "18:24",
+    "receipt_id": "0392",
+    "total_tax": "0.47",
+    "total_amount": "47.03",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.516",
+            "price": "59.95",
+            "category": "",
+            "name": "Beşler Ekmek Capata",
+            "tax_rate": "1",
+            "amount": "30.93"
+        },
+        {
+            "quantity": "0.046",
+            "price": "349.95",
+            "category": "",
+            "name": "Besler Mnv-144-Zenc",
+            "tax_rate": "1",
+            "amount": "16.10"
+        }
+    ]
+}

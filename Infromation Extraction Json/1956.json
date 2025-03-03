@@ -1,0 +1,20 @@
+{
+    "company": "Derya Pastanesı 1983",
+    "date": "26-03-2024",
+    "time": "20:01",
+    "receipt_id": "00071",
+    "total_tax": "1.78",
+    "total_amount": "180.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Unlumamul",
+            "tax_rate": "1",
+            "amount": "180.00"
+        }
+    ]
+}

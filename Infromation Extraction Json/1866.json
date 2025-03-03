@@ -1,0 +1,36 @@
+{
+    "company": "Özdilek Alışveriş Merkezleri",
+    "date": "11-02-2024",
+    "time": "14:56",
+    "receipt_id": "0028",
+    "total_tax": "12.76",
+    "total_amount": "140.15",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Clover Pecete 30X5",
+            "tax_rate": "10",
+            "amount": "59.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mayra Kdf Havlu 50",
+            "tax_rate": "10",
+            "amount": "129.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Posetbsk40X53+4Tak",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

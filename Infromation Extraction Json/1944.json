@@ -1,0 +1,28 @@
+{
+    "company": "Mrdıy Retaıl Ev Gereçleri ve Yapı",
+    "date": "25-02-2024",
+    "time": "14:07",
+    "receipt_id": "0020",
+    "total_tax": "24.67",
+    "total_amount": "148.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Esf Yag Kevgır 6423 14Cm",
+            "tax_rate": "20",
+            "amount": "90.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cekmece Duzenleyıcı 884#",
+            "tax_rate": "20",
+            "amount": "58.00"
+        }
+    ]
+}

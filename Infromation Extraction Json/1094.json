@@ -1,0 +1,20 @@
+{
+    "company": "Besler Fresh Market",
+    "date": "19-05-2023",
+    "time": "15:37",
+    "receipt_id": "0059",
+    "total_tax": "0.10",
+    "total_amount": "10.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "6.00",
+            "price": "1.75",
+            "category": "",
+            "name": "Murat Su 0.5Lt",
+            "tax_rate": "1",
+            "amount": "10.50"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "03-02-2024",
+    "time": "16:29",
+    "receipt_id": "00165",
+    "total_tax": "25.10",
+    "total_amount": "666.23",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Pınar Ketcap 600 Gr",
+            "tax_rate": "1",
+            "amount": "45.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gursoy 400 Gr Cam Sutlu Fı",
+            "tax_rate": "1",
+            "amount": "77.45"
+        },
+        {
+            "quantity": "4.00",
+            "price": "9.95",
+            "category": "",
+            "name": "Pınar Kıdo Sut Muzlu 180 M",
+            "tax_rate": "1",
+            "amount": "39.80"
+        },
+        {
+            "quantity": "4.00",
+            "price": "9.95",
+            "category": "",
+            "name": "Pınar Kıdo Sut Kakaolu 180",
+            "tax_rate": "1",
+            "amount": "39.80"
+        },
+        {
+            "quantity": "4.00",
+            "price": "12.90",
+            "category": "",
+            "name": "Pınar Sut 1/5",
+            "tax_rate": "1",
+            "amount": "51.60"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dımes M.Suyu 200 Ml Karısı",
+            "tax_rate": "10",
+            "amount": "169.90"
+        },
+        {
+            "quantity": "0.430",
+            "price": "419.75",
+            "category": "",
+            "name": "Guler Sucuk Kg",
+            "tax_rate": "1",
+            "amount": "180.49"
+        },
+        {
+            "quantity": "0.522",
+            "price": "59.75",
+            "category": "",
+            "name": "K-Sıyah Aycekırdek",
+            "tax_rate": "1",
+            "amount": "31.19"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bıngo Yuzey Tem.Havlusu 96",
+            "tax_rate": "20",
+            "amount": "64.90"
+        }
+    ]
+}

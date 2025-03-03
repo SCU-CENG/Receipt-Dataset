@@ -1,0 +1,20 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "05-08-2023",
+    "time": "09:58",
+    "receipt_id": "0026",
+    "total_tax": "0.21",
+    "total_amount": "21.66",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.375",
+            "price": "15.75",
+            "category": "",
+            "name": "Salatalık Kg",
+            "tax_rate": "1",
+            "amount": "21.66"
+        }
+    ]
+}

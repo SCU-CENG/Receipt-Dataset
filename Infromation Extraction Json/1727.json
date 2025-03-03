@@ -1,0 +1,20 @@
+{
+    "company": "Sultan Lahmacun",
+    "date": "14-10-2023",
+    "time": "15:08",
+    "receipt_id": "0066",
+    "total_tax": "14.95",
+    "total_amount": "164.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "1",
+            "tax_rate": "10",
+            "amount": "164.50"
+        }
+    ]
+}

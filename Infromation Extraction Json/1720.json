@@ -1,0 +1,116 @@
+{
+    "company": "Bizim Gıda Tar.Orm.Urn.Teks.Tem",
+    "date": "02-10-2023",
+    "time": "15:50",
+    "receipt_id": "0010",
+    "total_tax": "6.41",
+    "total_amount": "281.31",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Halley 240 Gr",
+            "tax_rate": "1",
+            "amount": "24.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ekmek 200 Gr",
+            "tax_rate": "1",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "K-Gross Plastik Poş",
+            "tax_rate": "20",
+            "amount": "0.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker 9 Kat Tat İnc",
+            "tax_rate": "1",
+            "amount": "15.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Dankek Lokmal",
+            "tax_rate": "1",
+            "amount": "20.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Çokoprens 300",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ülker Haylayf 4 Lü",
+            "tax_rate": "1",
+            "amount": "21.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "İçim Taze Peynir Sa",
+            "tax_rate": "1",
+            "amount": "30.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dimes M.Suyu 1 Lt Ş",
+            "tax_rate": "10",
+            "amount": "21.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Dimes M.Suyu 1 Lt K",
+            "tax_rate": "10",
+            "amount": "21.90"
+        },
+        {
+            "quantity": "1.160",
+            "price": "42.95",
+            "category": "",
+            "name": "Muz Yerli Kg",
+            "tax_rate": "1",
+            "amount": "49.82"
+        },
+        {
+            "quantity": "1.115",
+            "price": "22.95",
+            "category": "",
+            "name": "Elma Golden Kg",
+            "tax_rate": "1",
+            "amount": "25.59"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Abant Su 5 Lt",
+            "tax_rate": "1",
+            "amount": "11.50"
+        }
+    ]
+}

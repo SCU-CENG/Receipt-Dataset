@@ -1,0 +1,220 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş",
+    "date": "09-09-2021",
+    "time": "20:10",
+    "receipt_id": "0370",
+    "total_tax": "14.62",
+    "total_amount": "178.45",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Çamaşır Suyu 1,25",
+            "tax_rate": "18",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tost Peyniri 1 Kg",
+            "tax_rate": "8",
+            "amount": "39.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Suluboya Kabı",
+            "tax_rate": "18",
+            "amount": "3.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Meyveli Yoğurt 6*",
+            "tax_rate": "8",
+            "amount": "5.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi 3X80G Süs",
+            "tax_rate": "8",
+            "amount": "4.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Maden Suyu 6X200",
+            "tax_rate": "8",
+            "amount": "5.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tahlgevreği550Gcu",
+            "tax_rate": "8",
+            "amount": "13.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kekpor.Bitterçik1",
+            "tax_rate": "8",
+            "amount": "6.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Turşu Salatalık 6",
+            "tax_rate": "8",
+            "amount": "4.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süt Aromalı 200 M",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süt Aromalı 200 M",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Kurabiyemahlpli3*",
+            "tax_rate": "8",
+            "amount": "5.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Gofret4*25Gozmoco",
+            "tax_rate": "8",
+            "amount": "6.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisk.Port.Jole.11",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sakız 22.5G Firs",
+            "tax_rate": "8",
+            "amount": "1.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Mozaik 10",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süt Aromalı 200Ml",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Süt Kakaolu 200 M",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cips Ruffles",
+            "tax_rate": "8",
+            "amount": "5.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi Mozaik 10",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisk.Port.Jöle.11",
+            "tax_rate": "8",
+            "amount": "1.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yumuşak Şeker 160",
+            "tax_rate": "8",
+            "amount": "3.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Marshmallow 70 G",
+            "tax_rate": "8",
+            "amount": "2.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Bisküvi 4*100G Sa",
+            "tax_rate": "8",
+            "amount": "7.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sakız 27 G Bigbab",
+            "tax_rate": "8",
+            "amount": "1.25"
+        },
+        {
+            "quantity": "27.00",
+            "price": "1.25",
+            "category": "",
+            "name": "Süt 200 Ml Dost",
+            "tax_rate": "8",
+            "amount": "33.75"
+        }
+    ]
+}

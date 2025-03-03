@@ -1,0 +1,20 @@
+{
+    "company": "Şahin Pastanesi",
+    "date": "25-12-2023",
+    "time": "15:40",
+    "receipt_id": "0148",
+    "total_tax": "2.43",
+    "total_amount": "245.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tatlı",
+            "tax_rate": "1",
+            "amount": "245.00"
+        }
+    ]
+}

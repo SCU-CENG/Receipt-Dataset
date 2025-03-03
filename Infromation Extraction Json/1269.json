@@ -1,0 +1,84 @@
+{
+    "company": "58 Besler Market",
+    "date": "28-08-2021",
+    "time": "16:46",
+    "receipt_id": "0268",
+    "total_tax": "8.68",
+    "total_amount": "114.55",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Cokonat 5Lı",
+            "tax_rate": "8",
+            "amount": "6.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Cook Buzd.Posetı 4Al",
+            "tax_rate": "18",
+            "amount": "7.45"
+        },
+        {
+            "quantity": "2.00",
+            "price": "4.25",
+            "category": "",
+            "name": "Ulker Bıskrem 200Gr",
+            "tax_rate": "8",
+            "amount": "8.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yıldız Yufka 6 Yapra",
+            "tax_rate": "1",
+            "amount": "6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Efdal Gezen Yumurta",
+            "tax_rate": "8",
+            "amount": "32.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas B.Peynır Suzme",
+            "tax_rate": "8",
+            "amount": "13.75"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Sutas B.Peynır 900Gr",
+            "tax_rate": "8",
+            "amount": "31.95"
+        },
+        {
+            "quantity": "6.00",
+            "price": "1.00",
+            "category": "",
+            "name": "Kızılay Sade Soda 20",
+            "tax_rate": "8",
+            "amount": "6.00"
+        },
+        {
+            "quantity": "2.00",
+            "price": "0.25",
+            "category": "",
+            "name": "Besler B. Poset",
+            "tax_rate": "18",
+            "amount": "0.50"
+        }
+    ]
+}

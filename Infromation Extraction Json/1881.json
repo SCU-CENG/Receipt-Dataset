@@ -1,0 +1,36 @@
+{
+    "company": "Migros Ticaret A.S.",
+    "date": "17-03-2024",
+    "time": "17:39",
+    "receipt_id": "0378",
+    "total_tax": "0.17",
+    "total_amount": "17.42",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "0.430",
+            "price": "330.00",
+            "category": "",
+            "name": "Ilyada Geyıkle Zeyt.",
+            "tax_rate": "",
+            "amount": "141.90"
+        },
+        {
+            "quantity": "3.00",
+            "price": "20.00",
+            "category": "",
+            "name": "Ramazan Pıdesı",
+            "tax_rate": "1",
+            "amount": "60.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 İndirim",
+            "tax_rate": "1",
+            "amount": "-35.48"
+        }
+    ]
+}

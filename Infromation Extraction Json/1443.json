@@ -1,0 +1,148 @@
+{
+    "company": "Tokat Erenler Gıda Tar.Tem.Amb.İnş.",
+    "date": "29-04-2021",
+    "time": "18:55",
+    "receipt_id": "451",
+    "total_tax": "10.92",
+    "total_amount": "369.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "1.00",
+            "price": "66.60",
+            "category": "",
+            "name": "Tirebolu 42.Siyah Ça",
+            "tax_rate": "1",
+            "amount": "66.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.45",
+            "category": "",
+            "name": "Ülker Metro 45 Gr Bı",
+            "tax_rate": "1",
+            "amount": "6.45"
+        },
+        {
+            "quantity": "1.00",
+            "price": "5.95",
+            "category": "",
+            "name": "Ülker Çokonat 33 Gr",
+            "tax_rate": "1",
+            "amount": "5.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "6.45",
+            "category": "",
+            "name": "Ülker Laviva 35 Gr D",
+            "tax_rate": "1",
+            "amount": "6.45"
+        },
+        {
+            "quantity": "1.00",
+            "price": "3.60",
+            "category": "",
+            "name": "Ülker Çikolatalı Gof",
+            "tax_rate": "1",
+            "amount": "3.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "11.60",
+            "category": "",
+            "name": "Teno Peçete 200 Lü",
+            "tax_rate": "8",
+            "amount": "11.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "11.60",
+            "category": "",
+            "name": "Teno Peçete 200 Lü",
+            "tax_rate": "8",
+            "amount": "11.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "34.60",
+            "category": "",
+            "name": "Peros Sıvı Sabun 3.6",
+            "tax_rate": "8",
+            "amount": "34.60"
+        },
+        {
+            "quantity": "1.00",
+            "price": "59.95",
+            "category": "",
+            "name": "Mis Un 5 Kg Kağıt To",
+            "tax_rate": "1",
+            "amount": "59.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "24.95",
+            "category": "",
+            "name": "Medusa Mds-962 Saplı",
+            "tax_rate": "18",
+            "amount": "24.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "32.95",
+            "category": "",
+            "name": "Eren Pilavlık Bulgur",
+            "tax_rate": "1",
+            "amount": "32.95"
+        },
+        {
+            "quantity": "0.528",
+            "price": "24.95",
+            "category": "",
+            "name": "Zeytinyağlı Ekmek",
+            "tax_rate": "1",
+            "amount": "13.17"
+        },
+        {
+            "quantity": "1.00",
+            "price": "7.50",
+            "category": "",
+            "name": "Ata Ekmek",
+            "tax_rate": "1",
+            "amount": "7.50"
+        },
+        {
+            "quantity": "0.34",
+            "price": "49.95",
+            "category": "",
+            "name": "Aktürk Lokum Fındıkl",
+            "tax_rate": "1",
+            "amount": "16.98"
+        },
+        {
+            "quantity": "1.00",
+            "price": "10.75",
+            "category": "",
+            "name": "Salti Tuz 1500 Gr",
+            "tax_rate": "1",
+            "amount": "10.75"
+        },
+        {
+            "quantity": "1.00",
+            "price": "27.95",
+            "category": "",
+            "name": "İçim Süt 6*180 Ml Çi",
+            "tax_rate": "1",
+            "amount": "27.95"
+        },
+        {
+            "quantity": "1.00",
+            "price": "27.95",
+            "category": "",
+            "name": "İçim Süt 6*180 Ml Çi",
+            "tax_rate": "1",
+            "amount": "27.95"
+        }
+    ]
+}

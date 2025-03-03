@@ -1,0 +1,20 @@
+{
+    "company": "Erdağ Meşrubat",
+    "date": "14-08-2023",
+    "time": "09:16",
+    "receipt_id": "0019",
+    "total_tax": "0.17",
+    "total_amount": "17.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "8.50",
+            "category": "",
+            "name": "Tellioglu Pogaca Gru",
+            "tax_rate": "1",
+            "amount": "17.00"
+        }
+    ]
+}

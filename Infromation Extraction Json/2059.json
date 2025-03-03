@@ -1,0 +1,140 @@
+{
+    "company": "Mıgros Tıcaret A.S.",
+    "date": "14-02-2024",
+    "time": "18:05",
+    "receipt_id": "0182",
+    "total_tax": "1.46",
+    "total_amount": "143.83",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Ulker Halley B.Cı",
+            "tax_rate": "1",
+            "amount": "23.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Metro Kaplama.",
+            "tax_rate": "1",
+            "amount": "26.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-6.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Mıgros Plastık Poset",
+            "tax_rate": "20",
+            "amount": "0.25"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Ulker Antep Fıstı",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "7.48"
+        },
+        {
+            "quantity": "2.00",
+            "price": "10.25",
+            "category": "",
+            "name": "Ulker Caramıo Cık.",
+            "tax_rate": "1",
+            "amount": "20.50"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-5.13"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "** Ulker Antep Fıstı",
+            "tax_rate": "1",
+            "amount": "29.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-7.48"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Boombastıc Marshmall",
+            "tax_rate": "1",
+            "amount": "12.15"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-3.04"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Boombastıc Marshmall",
+            "tax_rate": "1",
+            "amount": "12.15"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-3.04"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ulker Albenı 4L",
+            "tax_rate": "1",
+            "amount": "29.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "% 25 % İndirim",
+            "tax_rate": "1",
+            "amount": "-7.25"
+        }
+    ]
+}

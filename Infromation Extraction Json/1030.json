@@ -1,0 +1,20 @@
+{
+    "company": "Jüli Bakery",
+    "date": "29-09-2021",
+    "time": "16:40",
+    "receipt_id": "0051",
+    "total_tax": "0.74",
+    "total_amount": "75.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yiyecek",
+            "tax_rate": "1",
+            "amount": "75.00"
+        }
+    ]
+}

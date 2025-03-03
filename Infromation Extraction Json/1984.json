@@ -1,0 +1,20 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "03-01-2024",
+    "time": "13:12",
+    "receipt_id": "0067",
+    "total_tax": "9.98",
+    "total_amount": "59.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Antifirizli Cam",
+            "tax_rate": "20",
+            "amount": "59.90"
+        }
+    ]
+}

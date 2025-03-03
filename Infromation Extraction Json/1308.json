@@ -1,0 +1,20 @@
+{
+    "company": "Katık Gıda Unlu Mamül",
+    "date": "04-10-2021",
+    "time": "13:23",
+    "receipt_id": "8",
+    "total_tax": "0.72",
+    "total_amount": "73.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "73.00"
+        }
+    ]
+}

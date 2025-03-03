@@ -1,0 +1,28 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "21-02-2024",
+    "time": "09:13",
+    "receipt_id": "00070",
+    "total_tax": "0.22",
+    "total_amount": "22.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "E-Cesıt Ekmek",
+            "tax_rate": "1",
+            "amount": "14.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "E-Sımıt Pogaca",
+            "tax_rate": "1",
+            "amount": "8.00"
+        }
+    ]
+}

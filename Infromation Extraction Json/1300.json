@@ -1,0 +1,28 @@
+{
+    "company": "A101 Yenı Magazacılık A.Ş.",
+    "date": "28-09-2021",
+    "time": "13:40",
+    "receipt_id": "0058",
+    "total_tax": "12.19",
+    "total_amount": "79.90",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "32 Gb Usb Bellek",
+            "tax_rate": "18",
+            "amount": "39.95"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "32 Gb Usb Bellek",
+            "tax_rate": "18",
+            "amount": "39.95"
+        }
+    ]
+}

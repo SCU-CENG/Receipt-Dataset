@@ -1,0 +1,36 @@
+{
+    "company": "Kaya Turistik Tesisleri",
+    "date": "15-10-2023",
+    "time": "12:59",
+    "receipt_id": "0082",
+    "total_tax": "22.27",
+    "total_amount": "245.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Ezogelin Çorba Az",
+            "tax_rate": "10",
+            "amount": "30.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Firin Sütlaç",
+            "tax_rate": "10",
+            "amount": "70.00"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Et Köfte Eko Porsiyon",
+            "tax_rate": "10",
+            "amount": "145.00"
+        }
+    ]
+}

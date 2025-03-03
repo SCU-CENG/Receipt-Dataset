@@ -1,0 +1,20 @@
+{
+    "company": "Tadım Pasta Baklava",
+    "date": "19-03-2023",
+    "time": "15:52",
+    "receipt_id": "0017",
+    "total_tax": "0.89",
+    "total_amount": "90.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Baklava",
+            "tax_rate": "1",
+            "amount": "90.00"
+        }
+    ]
+}

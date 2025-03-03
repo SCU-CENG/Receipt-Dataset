@@ -1,0 +1,20 @@
+{
+    "company": "Has Doner",
+    "date": "27-09-2021",
+    "time": "13:35",
+    "receipt_id": "000003",
+    "total_tax": "0.17",
+    "total_amount": "17.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yemek",
+            "tax_rate": "1",
+            "amount": "17.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Nizgül Loj. İnş. Gıda İth. İhr.",
+    "date": "28-10-2023",
+    "time": "16:26",
+    "receipt_id": "125",
+    "total_tax": "3.88",
+    "total_amount": "392.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Balık",
+            "tax_rate": "1",
+            "amount": "392.00"
+        }
+    ]
+}

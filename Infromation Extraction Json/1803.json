@@ -1,0 +1,28 @@
+{
+    "company": "Toptan Gıda Market",
+    "date": "14-12-2023",
+    "time": "18:41",
+    "receipt_id": "00416",
+    "total_tax": "0.63",
+    "total_amount": "60.05",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "2.00",
+            "price": "29.95",
+            "category": "",
+            "name": "Ervam Yufka 600 Gr",
+            "tax_rate": "1",
+            "amount": "59.80"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alısverıs Posetı",
+            "tax_rate": "20",
+            "amount": "0.25"
+        }
+    ]
+}

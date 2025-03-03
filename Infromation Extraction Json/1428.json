@@ -1,0 +1,20 @@
+{
+    "company": "Topet Tokat Petrol Turizm",
+    "date": "18-02-2023",
+    "time": "17:02",
+    "receipt_id": "0081",
+    "total_tax": "55.69",
+    "total_amount": "365.06",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "16.700",
+            "price": "21.86",
+            "category": "",
+            "name": "Ultra Force Moto",
+            "tax_rate": "18",
+            "amount": "365.06"
+        }
+    ]
+}

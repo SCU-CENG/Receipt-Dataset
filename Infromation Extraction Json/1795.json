@@ -1,0 +1,20 @@
+{
+    "company": "Elif Mari",
+    "date": "07-11-2023",
+    "time": "11:56",
+    "receipt_id": "0002",
+    "total_tax": "13.64",
+    "total_amount": "150.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Giyim",
+            "tax_rate": "10",
+            "amount": "150.00"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "company": "Tumuli Gıd.Tur.Bil.İth.İhr.",
+    "date": "22-10-2021",
+    "time": "19:42",
+    "receipt_id": "0022",
+    "total_tax": "5.33",
+    "total_amount": "72.00",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Temel Gıda",
+            "tax_rate": "8",
+            "amount": "72.00"
+        }
+    ]
+}

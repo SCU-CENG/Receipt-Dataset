@@ -1,0 +1,20 @@
+{
+    "company": "Nuri Kuruyemiş",
+    "date": "26-04-2023",
+    "time": "17:09",
+    "receipt_id": "43",
+    "total_tax": "0.00",
+    "total_amount": "114.50",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Tekel",
+            "tax_rate": "0",
+            "amount": "114.50"
+        }
+    ]
+}

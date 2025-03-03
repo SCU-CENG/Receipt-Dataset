@@ -1,0 +1,44 @@
+{
+    "company": "Bim Birleşik Mağazalar A.Ş.",
+    "date": "12-10-2021",
+    "time": "11:07",
+    "receipt_id": "0021",
+    "total_tax": "6.24",
+    "total_amount": "83.95",
+    "category": "",
+    "currency": "TRY",
+    "item_list": [
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yumurta 30 Lu 53-",
+            "tax_rate": "8",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yumurta 30 Lu 53-",
+            "tax_rate": "8",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Yumurta 30 Lu 53-",
+            "tax_rate": "8",
+            "amount": "27.90"
+        },
+        {
+            "quantity": "",
+            "price": "",
+            "category": "",
+            "name": "Alışveriş Poşeti",
+            "tax_rate": "18",
+            "amount": "0.25"
+        }
+    ]
+}
